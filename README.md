@@ -2,6 +2,11 @@
 Virtual Assistant
 
 
+
+BERT Architecture
+
+![png](Bert Architecture.png)
+
 Output (Trained on 10000 data):
 
 Question:  What techniques can I use to become a better public speaker.
