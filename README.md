@@ -2,7 +2,7 @@
 Virtual Assistant
 
 
-Output :
+Output (Trained on 10000 data):
 
 Question:  What techniques can I use to become a better public speaker.
 Answer:  The best way to become a better public speaker is to practice speaking in front of a group of people. This can be done in a variety of ways. For example, you can:
