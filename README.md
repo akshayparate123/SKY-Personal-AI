@@ -5,7 +5,7 @@ Virtual Assistant
 
 BERT Architecture
 
-![png](Bert Architecture.png)
+![png](https://github.com/akshayparate123/SKY-Personal-AI/blob/main/Images/BERT%20Architecture.png)
 
 Output (Trained on 10000 data):
 
