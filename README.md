@@ -6,7 +6,7 @@ The SKY Personal Assistant is a state-of-the-art virtual assistant designed to e
 
 **Core Features of SKY Personal Assistant**
 
-
+![png](https://github.com/akshayparate123/SKY-Personal-AI/blob/main/Images/Features.png)
 
 **Future Implementations and Enhancements**
 
