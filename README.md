@@ -6,26 +6,7 @@ The SKY Personal Assistant is a state-of-the-art virtual assistant designed to e
 
 **Core Features of SKY Personal Assistant**
 
-1. **Question Answering**:
-   SKY Personal Assistant excels in providing accurate and timely answers to user queries. It leverages vast databases and the latest algorithms to understand and respond to questions on a wide array of topics. Whether you need factual information, explanations, or opinions, SKY is equipped to handle your inquiries effectively.
-
-2. **Information Retrieval from the Internet**:
-   One of the standout features of SKY Personal Assistant is its ability to fetch information from the internet. This includes searching for specific data, news updates, and general information. By integrating with various online sources, SKY ensures that users receive the most relevant and up-to-date information available.
-
-3. **Performing Simple Tasks**:
-   SKY Personal Assistant is not just a passive information provider. It can actively perform simple tasks that would otherwise require manual effort. For example, it can write code snippets in Python, helping developers and learners alike. Additionally, it can perform basic text processing and manipulation, making it a versatile tool for various tasks.
-
-4. **Summarization**:
-   With the overwhelming amount of information available today, summarization is a crucial feature. SKY can condense lengthy articles, documents, and discussions into concise summaries. This allows users to quickly grasp the key points without spending time reading through entire texts. It’s particularly useful for busy professionals who need to stay informed but have limited time.
-
-5. **User Profile Creation**:
-   Personalization is a key aspect of the SKY Personal Assistant. It builds comprehensive profiles for its users by learning their preferences, interests, and frequently asked questions. This profiling enables SKY to tailor its responses and recommendations based on individual user needs, providing a more engaging and effective user experience.
-
-6. **Continuous Learning and Evolution**:
-   SKY Personal Assistant is designed to continuously learn and improve. It utilizes machine learning algorithms to adapt to user interactions and feedback. This means that the more you use SKY, the better it becomes at understanding and anticipating your needs. This continuous learning loop ensures that SKY remains a valuable and reliable assistant over time.
-
-7. **Feedback System**:
-   To maintain and enhance its performance, SKY incorporates a robust feedback system. Users can provide feedback on responses and tasks performed by the assistant. This feedback is crucial for identifying areas of improvement and refining the assistant’s capabilities. By actively involving users in its development, SKY ensures that it remains aligned with user expectations and requirements.
+![png](https://github.com/akshayparate123/SKY-Personal-AI/blob/main/Images/Features.png)
 
 **Future Implementations and Enhancements**
 
