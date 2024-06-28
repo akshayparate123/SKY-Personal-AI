@@ -1,5 +1,4 @@
 # SKY-Personal-AI
-Virtual Assistant
 
 **Introduction to SKY Personal Assistant**
 
