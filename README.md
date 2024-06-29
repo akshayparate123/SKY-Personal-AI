@@ -21,7 +21,17 @@ dataset_2 = load_dataset("Villian7/Emotions_Data")
 dataset_3 = load_dataset("Villian7/Emotions_Data")
 ```
 
-
+***QA***
+```python
+dataset_1 = load_dataset("virattt/financial-qa-10K")
+dataset_2 = load_dataset("DeividasM/financial-instruction-aq22")
+dataset_3 = load_dataset("Malikeh1375/medical-question-answering-datasets", "all-processed")
+dataset_4 = load_dataset("meta-math/MetaMathQA")
+dataset_5 = load_dataset("yahma/alpaca-cleaned")
+dataset_6 = load_dataset("benjaminbeilharz/better_daily_dialog")
+dataset_7 = load_dataset("li2017dailydialog/daily_dialog",trust_remote_code=True)
+dataset_8 = load_dataset("Isotonic/human_assistant_conversation_deduped")
+```
 
 **Conclusion**
 
