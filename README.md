@@ -13,7 +13,11 @@ The SKY Personal Assistant is a state-of-the-art virtual assistant designed to e
 
 ## Datasets Used
 
+***Emotions***
 
+```python
+dataset_1 = load_dataset("ma2za/many_emotions",trust_remote_code=True)
+```
 
 
 
