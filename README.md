@@ -44,6 +44,12 @@ dataset_2 = load_dataset("dreamproit/bill_summary_us")
 ds = load_dataset("Ateeqq/Title-Keywords-SEO")
 ```
 
+
+***Summary***
+```python
+ds = load_dataset("Ateeqq/Title-Keywords-SEO")
+```
+
 **Conclusion**
 
 The SKY Personal Assistant represents a significant advancement in virtual assistant technology. Its current capabilities, including question answering, information retrieval, task performance, summarization, user profiling, and continuous learning, make it an invaluable tool for users. The planned future enhancements, such as computer vision integration, advanced data analysis, and improved user interactions, promise to take its functionality to even greater heights. SKY is not just an assistant but a continuously evolving partner designed to make life easier and more efficient for its users. With SKY, the future of personal assistance is here, and it’s brighter than ever.
