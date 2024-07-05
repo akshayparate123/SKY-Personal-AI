@@ -41,13 +41,13 @@ dataset_2 = load_dataset("dreamproit/bill_summary_us")
 
 ***Keywords***
 ```python
-ds = load_dataset("Ateeqq/Title-Keywords-SEO")
+dataset_1 = load_dataset("Ateeqq/Title-Keywords-SEO")
 ```
 
 
 ***Summary***
 ```python
-ds = load_dataset("Ateeqq/Title-Keywords-SEO")
+dataset_1 = load_dataset("dreamproit/bill_summary_us")
 ```
 
 **Conclusion**
