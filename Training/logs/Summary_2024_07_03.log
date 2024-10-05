@@ -1,0 +1,68 @@
+2024-07-03 10:33:16 - __main__ - INFO - Training Loss : []
+2024-07-03 10:33:16 - __main__ - INFO - Validation Loss : []
+2024-07-03 10:36:09 - __main__ - ERROR - Caught ValueError in DataLoader worker process 0.
+Original Traceback (most recent call last):
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\torch\utils\data\_utils\worker.py", line 308, in _worker_loop
+    data = fetcher.fetch(index)  # type: ignore[possibly-undefined]
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\torch\utils\data\_utils\fetch.py", line 51, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\torch\utils\data\_utils\fetch.py", line 51, in <listcomp>
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "C:\Users\Akshay\Desktop\Personal AI\py\SummaryModel.py", line 106, in __getitem__
+    input_tokenized = self.tokenizer(input_text, max_length=self.ip_max_len, truncation=True, padding='max_length', return_tensors='pt',return_attention_mask=True)
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\transformers\tokenization_utils_base.py", line 2883, in __call__
+    encodings = self._call_one(text=text, text_pair=text_pair, **all_kwargs)
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\transformers\tokenization_utils_base.py", line 2941, in _call_one
+    raise ValueError(
+ValueError: text input must be of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+
+2024-07-03 10:36:09 - __main__ - INFO - Train loss 1.6168580018581553
+2024-07-03 10:36:24 - __main__ - INFO - Validation loss 1.4320218169812076
+2024-07-03 10:36:26 - __main__ - INFO - Model Saved
+2024-07-03 10:36:26 - __main__ - INFO - Training Loss : [1.6168580018581553]
+2024-07-03 10:36:26 - __main__ - INFO - Validation Loss : [1.4320218169812076]
+2024-07-03 10:39:11 - __main__ - ERROR - Caught ValueError in DataLoader worker process 0.
+Original Traceback (most recent call last):
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\torch\utils\data\_utils\worker.py", line 308, in _worker_loop
+    data = fetcher.fetch(index)  # type: ignore[possibly-undefined]
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\torch\utils\data\_utils\fetch.py", line 51, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\torch\utils\data\_utils\fetch.py", line 51, in <listcomp>
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "C:\Users\Akshay\Desktop\Personal AI\py\SummaryModel.py", line 106, in __getitem__
+    input_tokenized = self.tokenizer(input_text, max_length=self.ip_max_len, truncation=True, padding='max_length', return_tensors='pt',return_attention_mask=True)
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\transformers\tokenization_utils_base.py", line 2883, in __call__
+    encodings = self._call_one(text=text, text_pair=text_pair, **all_kwargs)
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\transformers\tokenization_utils_base.py", line 2941, in _call_one
+    raise ValueError(
+ValueError: text input must be of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+
+2024-07-03 10:39:11 - __main__ - INFO - Train loss 1.2872900037841082
+2024-07-03 10:39:26 - __main__ - INFO - Validation loss 1.4045984695867164
+2024-07-03 10:39:28 - __main__ - INFO - Model Saved
+2024-07-03 10:39:28 - __main__ - INFO - Training Loss : [1.6168580018581553, 1.2872900037841082]
+2024-07-03 10:39:28 - __main__ - INFO - Validation Loss : [1.4320218169812076, 1.4045984695867164]
+2024-07-03 10:40:25 - __main__ - ERROR - Caught ValueError in DataLoader worker process 0.
+Original Traceback (most recent call last):
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\torch\utils\data\_utils\worker.py", line 308, in _worker_loop
+    data = fetcher.fetch(index)  # type: ignore[possibly-undefined]
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\torch\utils\data\_utils\fetch.py", line 51, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\torch\utils\data\_utils\fetch.py", line 51, in <listcomp>
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "C:\Users\Akshay\Desktop\Personal AI\py\SummaryModel.py", line 106, in __getitem__
+    input_tokenized = self.tokenizer(input_text, max_length=self.ip_max_len, truncation=True, padding='max_length', return_tensors='pt',return_attention_mask=True)
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\transformers\tokenization_utils_base.py", line 2883, in __call__
+    encodings = self._call_one(text=text, text_pair=text_pair, **all_kwargs)
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\transformers\tokenization_utils_base.py", line 2941, in _call_one
+    raise ValueError(
+ValueError: text input must be of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+
+2024-07-03 10:40:25 - __main__ - INFO - Train loss 1.1455414785097724
+2024-07-03 10:40:38 - __main__ - INFO - Validation loss 1.4104646247686798
+2024-07-03 10:40:40 - __main__ - INFO - Model Saved
+2024-07-03 10:40:40 - __main__ - INFO - Training Loss : [1.6168580018581553, 1.2872900037841082, 1.1455414785097724]
+2024-07-03 10:40:40 - __main__ - INFO - Validation Loss : [1.4320218169812076, 1.4045984695867164, 1.4104646247686798]
+2024-07-03 10:40:40 - __main__ - CRITICAL - Validation loss increased.
+2024-07-03 10:40:40 - __main__ - CRITICAL - Model is overfitting
+2024-07-03 10:40:40 - __main__ - CRITICAL - Model Training Stopped

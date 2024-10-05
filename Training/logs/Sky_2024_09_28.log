@@ -1,0 +1,239 @@
+2024-09-28 18:51:17 - __main__ - INFO - Model Name: ../Saved_Models/Sky/fine-tuned-bert-sentiment_2024_09_27_0
+2024-09-28 18:51:17 - __main__ - INFO - Training Loss : []
+2024-09-28 18:51:17 - __main__ - INFO - Validation Loss : []
+2024-09-28 19:00:14 - __main__ - INFO - Batch Number : 1000, Training Loss : 2.102433655764554
+2024-09-28 19:09:06 - __main__ - INFO - Batch Number : 2000, Training Loss : 2.068956008915422
+2024-09-28 19:18:27 - __main__ - INFO - Batch Number : 3000, Training Loss : 2.051550294112778
+2024-09-28 19:27:46 - __main__ - INFO - Batch Number : 4000, Training Loss : 2.0423680672911337
+2024-09-28 19:37:08 - __main__ - INFO - Batch Number : 5000, Training Loss : 2.0339617561135523
+2024-09-28 19:46:31 - __main__ - INFO - Batch Number : 6000, Training Loss : 2.028153997722258
+2024-09-28 19:55:51 - __main__ - INFO - Batch Number : 7000, Training Loss : 2.0228795226583003
+2024-09-28 20:05:07 - __main__ - INFO - Batch Number : 8000, Training Loss : 2.018794132417298
+2024-09-28 20:14:05 - __main__ - INFO - Batch Number : 9000, Training Loss : 2.014793603860753
+2024-09-28 20:23:23 - __main__ - INFO - Saving checkpoint
+2024-09-28 20:32:29 - __main__ - INFO - Batch Number : 11000, Training Loss : 2.0128786784282067
+2024-09-28 20:41:21 - __main__ - INFO - Batch Number : 12000, Training Loss : 2.0104815888410807
+2024-09-28 20:50:13 - __main__ - INFO - Batch Number : 13000, Training Loss : 2.008304362617615
+2024-09-28 20:59:05 - __main__ - INFO - Batch Number : 14000, Training Loss : 2.006479679673972
+2024-09-28 21:07:57 - __main__ - INFO - Batch Number : 15000, Training Loss : 2.005112313920677
+2024-09-28 21:16:50 - __main__ - INFO - Batch Number : 16000, Training Loss : 2.002936515947572
+2024-09-28 21:25:42 - __main__ - INFO - Batch Number : 17000, Training Loss : 2.0010764488829746
+2024-09-28 21:34:34 - __main__ - INFO - Batch Number : 18000, Training Loss : 1.9993213108199006
+2024-09-28 21:43:27 - __main__ - INFO - Batch Number : 19000, Training Loss : 1.997895003739084
+2024-09-28 21:52:19 - __main__ - INFO - Saving checkpoint
+2024-09-28 22:01:16 - __main__ - INFO - Batch Number : 21000, Training Loss : 1.9945660061929562
+2024-09-28 22:10:11 - __main__ - INFO - Batch Number : 22000, Training Loss : 1.9928438280838239
+2024-09-28 22:19:07 - __main__ - INFO - Batch Number : 23000, Training Loss : 1.9913954893913814
+2024-09-28 22:28:26 - __main__ - INFO - Batch Number : 24000, Training Loss : 1.9903626819932607
+2024-09-28 22:37:49 - __main__ - INFO - Batch Number : 25000, Training Loss : 1.9887239577307625
+2024-09-28 22:47:07 - __main__ - INFO - Batch Number : 26000, Training Loss : 1.9871429460176409
+2024-09-28 22:56:23 - __main__ - INFO - Batch Number : 27000, Training Loss : 1.9855795101979756
+2024-09-28 23:05:42 - __main__ - INFO - Batch Number : 28000, Training Loss : 1.984125308337235
+2024-09-28 23:14:57 - __main__ - INFO - Batch Number : 29000, Training Loss : 1.982990724395659
+2024-09-28 23:24:06 - __main__ - INFO - Saving checkpoint
+2024-09-28 23:33:19 - __main__ - INFO - Batch Number : 31000, Training Loss : 1.9806841182491863
+2024-09-28 23:42:29 - __main__ - INFO - Batch Number : 32000, Training Loss : 1.9797324046489317
+2024-09-28 23:51:40 - __main__ - INFO - Batch Number : 33000, Training Loss : 1.9787028207406432
+2024-09-29 00:00:48 - __main__ - INFO - Batch Number : 34000, Training Loss : 1.9776363361758669
+2024-09-29 00:09:52 - __main__ - INFO - Batch Number : 35000, Training Loss : 1.9766295728763579
+2024-09-29 00:18:56 - __main__ - INFO - Batch Number : 36000, Training Loss : 1.9758029902320098
+2024-09-29 00:28:01 - __main__ - INFO - Batch Number : 37000, Training Loss : 1.9750577765623785
+2024-09-29 00:37:05 - __main__ - INFO - Batch Number : 38000, Training Loss : 1.9735835829533006
+2024-09-29 00:46:09 - __main__ - INFO - Batch Number : 39000, Training Loss : 1.9726395118982651
+2024-09-29 00:55:14 - __main__ - INFO - Saving checkpoint
+2024-09-29 01:04:27 - __main__ - INFO - Batch Number : 41000, Training Loss : 1.971114667121185
+2024-09-29 01:13:32 - __main__ - INFO - Batch Number : 42000, Training Loss : 1.9698426316957842
+2024-09-29 01:22:37 - __main__ - INFO - Batch Number : 43000, Training Loss : 1.968589482120363
+2024-09-29 01:31:43 - __main__ - INFO - Batch Number : 44000, Training Loss : 1.9675086960624895
+2024-09-29 01:40:47 - __main__ - INFO - Batch Number : 45000, Training Loss : 1.9664609122813002
+2024-09-29 01:49:53 - __main__ - INFO - Batch Number : 46000, Training Loss : 1.9654872493042546
+2024-09-29 01:58:58 - __main__ - INFO - Batch Number : 47000, Training Loss : 1.964283641318139
+2024-09-29 02:08:03 - __main__ - INFO - Batch Number : 48000, Training Loss : 1.963225218350012
+2024-09-29 02:17:07 - __main__ - INFO - Batch Number : 49000, Training Loss : 1.9621951292187376
+2024-09-29 02:26:13 - __main__ - INFO - Saving checkpoint
+2024-09-29 02:35:23 - __main__ - INFO - Batch Number : 51000, Training Loss : 1.960234849515521
+2024-09-29 02:44:28 - __main__ - INFO - Batch Number : 52000, Training Loss : 1.9593529534813066
+2024-09-29 02:53:32 - __main__ - INFO - Batch Number : 53000, Training Loss : 1.9580375084413502
+2024-09-29 03:02:37 - __main__ - INFO - Batch Number : 54000, Training Loss : 1.9570079404226826
+2024-09-29 03:11:42 - __main__ - INFO - Batch Number : 55000, Training Loss : 1.956046010184918
+2024-09-29 03:20:48 - __main__ - INFO - Batch Number : 56000, Training Loss : 1.9551292083241727
+2024-09-29 03:29:54 - __main__ - INFO - Batch Number : 57000, Training Loss : 1.9541210887885965
+2024-09-29 03:38:58 - __main__ - INFO - Batch Number : 58000, Training Loss : 1.9530672230395125
+2024-09-29 03:48:03 - __main__ - INFO - Batch Number : 59000, Training Loss : 1.952182449100765
+2024-09-29 03:57:08 - __main__ - INFO - Saving checkpoint
+2024-09-29 04:06:17 - __main__ - INFO - Batch Number : 61000, Training Loss : 1.9502800934828806
+2024-09-29 04:15:22 - __main__ - INFO - Batch Number : 62000, Training Loss : 1.949244171319951
+2024-09-29 04:24:27 - __main__ - INFO - Batch Number : 63000, Training Loss : 1.9479957089691158
+2024-09-29 04:33:32 - __main__ - INFO - Batch Number : 64000, Training Loss : 1.9470254466389532
+2024-09-29 04:42:36 - __main__ - INFO - Batch Number : 65000, Training Loss : 1.9460760611502663
+2024-09-29 04:51:41 - __main__ - INFO - Batch Number : 66000, Training Loss : 1.9452270597584767
+2024-09-29 05:00:46 - __main__ - INFO - Batch Number : 67000, Training Loss : 1.944245499404775
+2024-09-29 05:09:53 - __main__ - INFO - Batch Number : 68000, Training Loss : 1.9434142753288373
+2024-09-29 05:18:58 - __main__ - INFO - Batch Number : 69000, Training Loss : 1.9424225534358386
+2024-09-29 05:28:03 - __main__ - INFO - Saving checkpoint
+2024-09-29 05:37:11 - __main__ - INFO - Batch Number : 71000, Training Loss : 1.9406425828943856
+2024-09-29 05:46:15 - __main__ - INFO - Batch Number : 72000, Training Loss : 1.9398150050736631
+2024-09-29 05:55:21 - __main__ - INFO - Batch Number : 73000, Training Loss : 1.9387849685156229
+2024-09-29 06:04:25 - __main__ - INFO - Batch Number : 74000, Training Loss : 1.9379463720805896
+2024-09-29 06:13:29 - __main__ - INFO - Batch Number : 75000, Training Loss : 1.9368778284417045
+2024-09-29 06:22:33 - __main__ - INFO - Batch Number : 76000, Training Loss : 1.936032484779091
+2024-09-29 06:31:38 - __main__ - INFO - Batch Number : 77000, Training Loss : 1.9348509255392943
+2024-09-29 06:40:42 - __main__ - INFO - Batch Number : 78000, Training Loss : 1.9338915521156403
+2024-09-29 06:49:47 - __main__ - INFO - Batch Number : 79000, Training Loss : 1.9329673795343596
+2024-09-29 06:58:52 - __main__ - INFO - Saving checkpoint
+2024-09-29 07:08:00 - __main__ - INFO - Batch Number : 81000, Training Loss : 1.9311820544074625
+2024-09-29 07:17:05 - __main__ - INFO - Batch Number : 82000, Training Loss : 1.9302399923341425
+2024-09-29 07:26:08 - __main__ - INFO - Batch Number : 83000, Training Loss : 1.9293233258119757
+2024-09-29 07:35:12 - __main__ - INFO - Batch Number : 84000, Training Loss : 1.9283642493759319
+2024-09-29 07:44:18 - __main__ - INFO - Batch Number : 85000, Training Loss : 1.9274739758489923
+2024-09-29 07:53:21 - __main__ - INFO - Batch Number : 86000, Training Loss : 1.926772767852968
+2024-09-29 08:02:25 - __main__ - INFO - Batch Number : 87000, Training Loss : 1.9260166198153261
+2024-09-29 08:11:30 - __main__ - INFO - Batch Number : 88000, Training Loss : 1.9251608244072402
+2024-09-29 08:20:35 - __main__ - INFO - Batch Number : 89000, Training Loss : 1.92416392894484
+2024-09-29 08:29:39 - __main__ - INFO - Saving checkpoint
+2024-09-29 08:38:49 - __main__ - INFO - Batch Number : 91000, Training Loss : 1.9222426409688678
+2024-09-29 08:47:54 - __main__ - INFO - Batch Number : 92000, Training Loss : 1.9213081284654698
+2024-09-29 08:56:59 - __main__ - INFO - Batch Number : 93000, Training Loss : 1.9204016055461264
+2024-09-29 09:06:03 - __main__ - INFO - Batch Number : 94000, Training Loss : 1.9195808343879162
+2024-09-29 09:15:08 - __main__ - INFO - Batch Number : 95000, Training Loss : 1.9187430756393054
+2024-09-29 09:24:13 - __main__ - INFO - Batch Number : 96000, Training Loss : 1.9177847343051626
+2024-09-29 09:33:06 - __main__ - INFO - Batch Number : 97000, Training Loss : 1.9170469094053486
+2024-09-29 09:41:58 - __main__ - INFO - Batch Number : 98000, Training Loss : 1.916192039347582
+2024-09-29 09:50:51 - __main__ - INFO - Batch Number : 99000, Training Loss : 1.9153849346518685
+2024-09-29 09:59:42 - __main__ - INFO - Saving checkpoint
+2024-09-29 10:08:36 - __main__ - INFO - Batch Number : 101000, Training Loss : 1.913448546313079
+2024-09-29 10:17:30 - __main__ - INFO - Batch Number : 102000, Training Loss : 1.9126863559635632
+2024-09-29 10:26:40 - __main__ - INFO - Batch Number : 103000, Training Loss : 1.9118960785996102
+2024-09-29 10:35:48 - __main__ - INFO - Batch Number : 104000, Training Loss : 1.9109941489526792
+2024-09-29 10:45:00 - __main__ - INFO - Batch Number : 105000, Training Loss : 1.910151455970282
+2024-09-29 10:54:16 - __main__ - INFO - Batch Number : 106000, Training Loss : 1.9092215712572647
+2024-09-29 11:03:36 - __main__ - INFO - Batch Number : 107000, Training Loss : 1.9083985286236207
+2024-09-29 11:12:45 - __main__ - INFO - Batch Number : 108000, Training Loss : 1.907534826671738
+2024-09-29 11:21:40 - __main__ - INFO - Batch Number : 109000, Training Loss : 1.906868796489828
+2024-09-29 11:30:36 - __main__ - INFO - Saving checkpoint
+2024-09-29 11:39:33 - __main__ - INFO - Batch Number : 111000, Training Loss : 1.9052665147341827
+2024-09-29 11:48:25 - __main__ - INFO - Batch Number : 112000, Training Loss : 1.9043731219682247
+2024-09-29 11:57:20 - __main__ - INFO - Batch Number : 113000, Training Loss : 1.9035255672939035
+2024-09-29 12:06:17 - __main__ - INFO - Batch Number : 114000, Training Loss : 1.9028348285943104
+2024-09-29 12:15:16 - __main__ - INFO - Batch Number : 115000, Training Loss : 1.9019378742282627
+2024-09-29 12:24:11 - __main__ - INFO - Batch Number : 116000, Training Loss : 1.9011662822970183
+2024-09-29 12:33:05 - __main__ - INFO - Batch Number : 117000, Training Loss : 1.9003827144120073
+2024-09-29 12:42:06 - __main__ - INFO - Batch Number : 118000, Training Loss : 1.8994883373490203
+2024-09-29 12:51:10 - __main__ - INFO - Batch Number : 119000, Training Loss : 1.8986686374450716
+2024-09-29 13:00:13 - __main__ - INFO - Saving checkpoint
+2024-09-29 13:09:31 - __main__ - INFO - Batch Number : 121000, Training Loss : 1.8971745771703292
+2024-09-29 13:18:45 - __main__ - INFO - Batch Number : 122000, Training Loss : 1.8964669474472695
+2024-09-29 13:27:53 - __main__ - INFO - Batch Number : 123000, Training Loss : 1.8957389010263546
+2024-09-29 13:36:58 - __main__ - INFO - Batch Number : 124000, Training Loss : 1.8948616314189664
+2024-09-29 13:46:02 - __main__ - INFO - Batch Number : 125000, Training Loss : 1.8939790008855832
+2024-09-29 13:55:07 - __main__ - INFO - Batch Number : 126000, Training Loss : 1.89320628862682
+2024-09-29 14:04:11 - __main__ - INFO - Batch Number : 127000, Training Loss : 1.892367813734763
+2024-09-29 14:13:14 - __main__ - INFO - Batch Number : 128000, Training Loss : 1.8916403586864974
+2024-09-29 14:22:17 - __main__ - INFO - Batch Number : 129000, Training Loss : 1.8908078086329894
+2024-09-29 14:31:22 - __main__ - INFO - Saving checkpoint
+2024-09-29 14:40:30 - __main__ - INFO - Batch Number : 131000, Training Loss : 1.889186626394698
+2024-09-29 14:49:34 - __main__ - INFO - Batch Number : 132000, Training Loss : 1.888321362526861
+2024-09-29 14:58:38 - __main__ - INFO - Batch Number : 133000, Training Loss : 1.8876055037705255
+2024-09-29 15:07:41 - __main__ - INFO - Batch Number : 134000, Training Loss : 1.8867532592522702
+2024-09-29 15:16:44 - __main__ - INFO - Batch Number : 135000, Training Loss : 1.8859228796453338
+2024-09-29 15:25:49 - __main__ - INFO - Batch Number : 136000, Training Loss : 1.8851312019972397
+2024-09-29 15:34:53 - __main__ - INFO - Batch Number : 137000, Training Loss : 1.884353077531034
+2024-09-29 15:43:57 - __main__ - INFO - Batch Number : 138000, Training Loss : 1.8835780146129737
+2024-09-29 15:53:00 - __main__ - INFO - Batch Number : 139000, Training Loss : 1.882879972297083
+2024-09-29 16:02:04 - __main__ - INFO - Saving checkpoint
+2024-09-29 16:11:12 - __main__ - INFO - Batch Number : 141000, Training Loss : 1.881459347209667
+2024-09-29 16:20:15 - __main__ - INFO - Batch Number : 142000, Training Loss : 1.8807391823989812
+2024-09-29 16:29:20 - __main__ - INFO - Batch Number : 143000, Training Loss : 1.8800130173670349
+2024-09-29 16:38:22 - __main__ - INFO - Batch Number : 144000, Training Loss : 1.8793849333069501
+2024-09-29 16:47:26 - __main__ - INFO - Batch Number : 145000, Training Loss : 1.8786855138911616
+2024-09-29 16:56:30 - __main__ - INFO - Batch Number : 146000, Training Loss : 1.8779821479397523
+2024-09-29 17:05:34 - __main__ - INFO - Batch Number : 147000, Training Loss : 1.8772546803025736
+2024-09-29 17:14:37 - __main__ - INFO - Batch Number : 148000, Training Loss : 1.876553045991793
+2024-09-29 17:23:43 - __main__ - INFO - Batch Number : 149000, Training Loss : 1.8757643944107405
+2024-09-29 17:32:46 - __main__ - INFO - Saving checkpoint
+2024-09-29 17:41:53 - __main__ - INFO - Batch Number : 151000, Training Loss : 1.874269139905559
+2024-09-29 17:50:56 - __main__ - INFO - Batch Number : 152000, Training Loss : 1.8734359720867064
+2024-09-29 18:00:00 - __main__ - INFO - Batch Number : 153000, Training Loss : 1.8727339778201813
+2024-09-29 18:09:04 - __main__ - INFO - Batch Number : 154000, Training Loss : 1.8719598185272113
+2024-09-29 18:18:07 - __main__ - INFO - Batch Number : 155000, Training Loss : 1.8712919407963406
+2024-09-29 18:27:10 - __main__ - INFO - Batch Number : 156000, Training Loss : 1.8706099751799514
+2024-09-29 18:36:14 - __main__ - INFO - Batch Number : 157000, Training Loss : 1.8698551198801285
+2024-09-29 18:45:18 - __main__ - INFO - Batch Number : 158000, Training Loss : 1.8690797462415756
+2024-09-29 18:54:31 - __main__ - INFO - Batch Number : 159000, Training Loss : 1.8683125640238447
+2024-09-29 19:03:40 - __main__ - INFO - Saving checkpoint
+2024-09-29 19:12:56 - __main__ - INFO - Batch Number : 161000, Training Loss : 1.8669144207174402
+2024-09-29 19:21:57 - __main__ - INFO - Batch Number : 162000, Training Loss : 1.8662935088010788
+2024-09-29 19:30:55 - __main__ - INFO - Batch Number : 163000, Training Loss : 1.8655740357024682
+2024-09-29 19:40:08 - __main__ - INFO - Batch Number : 164000, Training Loss : 1.8648978758667005
+2024-09-29 19:49:14 - __main__ - INFO - Batch Number : 165000, Training Loss : 1.8642124346398274
+2024-09-29 19:58:30 - __main__ - INFO - Batch Number : 166000, Training Loss : 1.863457021885621
+2024-09-29 20:07:56 - __main__ - INFO - Batch Number : 167000, Training Loss : 1.862733515300602
+2024-09-29 20:17:11 - __main__ - INFO - Batch Number : 168000, Training Loss : 1.861973051257053
+2024-09-29 20:26:25 - __main__ - INFO - Batch Number : 169000, Training Loss : 1.8611996137616411
+2024-09-29 20:35:35 - __main__ - INFO - Saving checkpoint
+2024-09-29 20:44:54 - __main__ - INFO - Batch Number : 171000, Training Loss : 1.8598852394371712
+2024-09-29 20:54:03 - __main__ - INFO - Batch Number : 172000, Training Loss : 1.8592472482227722
+2024-09-29 21:03:13 - __main__ - INFO - Batch Number : 173000, Training Loss : 1.85851112357469
+2024-09-29 21:12:21 - __main__ - INFO - Batch Number : 174000, Training Loss : 1.85787309062065
+2024-09-29 21:21:30 - __main__ - INFO - Batch Number : 175000, Training Loss : 1.8572466532420204
+2024-09-29 21:30:41 - __main__ - INFO - Batch Number : 176000, Training Loss : 1.8566671713109135
+2024-09-29 21:40:00 - __main__ - INFO - Batch Number : 177000, Training Loss : 1.8560315612997689
+2024-09-29 21:49:08 - __main__ - INFO - Batch Number : 178000, Training Loss : 1.8553864081761364
+2024-09-29 21:58:13 - __main__ - INFO - Batch Number : 179000, Training Loss : 1.8546982808633647
+2024-09-29 22:07:18 - __main__ - INFO - Saving checkpoint
+2024-09-29 22:16:28 - __main__ - INFO - Batch Number : 181000, Training Loss : 1.8534059229188518
+2024-09-29 22:25:33 - __main__ - INFO - Batch Number : 182000, Training Loss : 1.8527623418422172
+2024-09-29 22:34:38 - __main__ - INFO - Batch Number : 183000, Training Loss : 1.8520722156787146
+2024-09-29 22:43:42 - __main__ - INFO - Batch Number : 184000, Training Loss : 1.851340797241147
+2024-09-29 22:52:48 - __main__ - INFO - Batch Number : 185000, Training Loss : 1.8507309162232233
+2024-09-29 23:01:52 - __main__ - INFO - Batch Number : 186000, Training Loss : 1.850114010030425
+2024-09-29 23:10:56 - __main__ - INFO - Batch Number : 187000, Training Loss : 1.84953166251922
+2024-09-29 23:20:01 - __main__ - INFO - Batch Number : 188000, Training Loss : 1.8489426627902827
+2024-09-29 23:29:05 - __main__ - INFO - Batch Number : 189000, Training Loss : 1.8484196687939805
+2024-09-29 23:38:09 - __main__ - INFO - Saving checkpoint
+2024-09-29 23:47:17 - __main__ - INFO - Batch Number : 191000, Training Loss : 1.8471647367868196
+2024-09-29 23:56:22 - __main__ - INFO - Batch Number : 192000, Training Loss : 1.8465527980035334
+2024-09-30 00:05:26 - __main__ - INFO - Batch Number : 193000, Training Loss : 1.8459483617508998
+2024-09-30 00:14:31 - __main__ - INFO - Batch Number : 194000, Training Loss : 1.8452316545426113
+2024-09-30 00:23:35 - __main__ - INFO - Batch Number : 195000, Training Loss : 1.8446011783824812
+2024-09-30 00:32:39 - __main__ - INFO - Batch Number : 196000, Training Loss : 1.8439977056722217
+2024-09-30 00:41:43 - __main__ - INFO - Batch Number : 197000, Training Loss : 1.843342827594286
+2024-09-30 00:50:48 - __main__ - INFO - Batch Number : 198000, Training Loss : 1.84281394347501
+2024-09-30 00:59:52 - __main__ - INFO - Batch Number : 199000, Training Loss : 1.8422524173263533
+2024-09-30 01:08:57 - __main__ - INFO - Saving checkpoint
+2024-09-30 01:18:11 - __main__ - INFO - Batch Number : 201000, Training Loss : 1.8409550573995919
+2024-09-30 01:27:15 - __main__ - INFO - Batch Number : 202000, Training Loss : 1.8402990996768274
+2024-09-30 01:36:19 - __main__ - INFO - Batch Number : 203000, Training Loss : 1.8396367405744145
+2024-09-30 01:45:25 - __main__ - INFO - Batch Number : 204000, Training Loss : 1.8390760261125043
+2024-09-30 01:54:29 - __main__ - INFO - Batch Number : 205000, Training Loss : 1.8385111824008822
+2024-09-30 02:03:34 - __main__ - INFO - Batch Number : 206000, Training Loss : 1.83794447862248
+2024-09-30 02:12:37 - __main__ - INFO - Batch Number : 207000, Training Loss : 1.8373345913304502
+2024-09-30 02:21:41 - __main__ - INFO - Batch Number : 208000, Training Loss : 1.8367831157789556
+2024-09-30 02:30:45 - __main__ - INFO - Batch Number : 209000, Training Loss : 1.8361638789516292
+2024-09-30 02:39:49 - __main__ - INFO - Saving checkpoint
+2024-09-30 02:48:59 - __main__ - INFO - Batch Number : 211000, Training Loss : 1.8349857328706451
+2024-09-30 02:58:02 - __main__ - INFO - Batch Number : 212000, Training Loss : 1.8344233079833598
+2024-09-30 03:07:07 - __main__ - INFO - Batch Number : 213000, Training Loss : 1.8338892054761182
+2024-09-30 03:08:55 - __main__ - INFO - Train loss 1.833786774091826
+2024-09-30 03:13:01 - __main__ - INFO - Batch Number : 1000, Validation Loss : 1.9004903846344985
+2024-09-30 03:16:30 - __main__ - INFO - Batch Number : 2000, Validation Loss : 1.7650407437330065
+2024-09-30 03:20:03 - __main__ - INFO - Batch Number : 3000, Validation Loss : 1.7381038045816641
+2024-09-30 03:23:38 - __main__ - INFO - Batch Number : 4000, Validation Loss : 1.7361921588146547
+2024-09-30 03:27:13 - __main__ - INFO - Batch Number : 5000, Validation Loss : 1.738872323156154
+2024-09-30 03:30:47 - __main__ - INFO - Batch Number : 6000, Validation Loss : 1.7358800401810883
+2024-09-30 03:34:24 - __main__ - INFO - Batch Number : 7000, Validation Loss : 1.7346416344322608
+2024-09-30 03:37:57 - __main__ - INFO - Batch Number : 8000, Validation Loss : 1.73386121800137
+2024-09-30 03:41:32 - __main__ - INFO - Batch Number : 9000, Validation Loss : 1.7343125701945579
+2024-09-30 03:45:06 - __main__ - INFO - Batch Number : 10000, Validation Loss : 1.7334105474618289
+2024-09-30 03:48:40 - __main__ - INFO - Batch Number : 11000, Validation Loss : 1.7327314778964646
+2024-09-30 03:52:12 - __main__ - INFO - Batch Number : 12000, Validation Loss : 1.7329634133086593
+2024-09-30 03:55:47 - __main__ - INFO - Batch Number : 13000, Validation Loss : 1.7315834276466981
+2024-09-30 03:59:22 - __main__ - INFO - Batch Number : 14000, Validation Loss : 1.731046715033824
+2024-09-30 04:03:00 - __main__ - INFO - Batch Number : 15000, Validation Loss : 1.7300985616618583
+2024-09-30 04:06:36 - __main__ - INFO - Batch Number : 16000, Validation Loss : 1.7301449543834253
+2024-09-30 04:10:12 - __main__ - INFO - Batch Number : 17000, Validation Loss : 1.7295421321942248
+2024-09-30 04:13:46 - __main__ - INFO - Batch Number : 18000, Validation Loss : 1.729449569644643
+2024-09-30 04:17:20 - __main__ - INFO - Batch Number : 19000, Validation Loss : 1.7291509078657852
+2024-09-30 04:20:54 - __main__ - INFO - Batch Number : 20000, Validation Loss : 1.7300874718320702
+2024-09-30 04:22:08 - __main__ - INFO - Validation loss 1.7299989259768667
+2024-09-30 04:22:09 - __main__ - INFO - Model Saved

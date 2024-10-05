@@ -1,0 +1,109 @@
+2024-09-20 13:34:39 - __main__ - INFO - Training Loss : []
+2024-09-20 13:34:39 - __main__ - INFO - Validation Loss : []
+2024-09-20 13:34:40 - __main__ - ERROR - text input must be of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+2024-09-20 13:34:40 - __main__ - INFO - Train loss 3.775278091430664
+2024-09-20 13:34:40 - __main__ - INFO - Validation loss 2.613090395927429
+2024-09-20 13:34:43 - __main__ - INFO - Model Saved
+2024-09-20 13:36:36 - __main__ - INFO - Training Loss : []
+2024-09-20 13:36:36 - __main__ - INFO - Validation Loss : []
+2024-09-20 13:36:36 - __main__ - ERROR - text input must be of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+2024-09-20 13:36:36 - __main__ - INFO - Train loss nan
+2024-09-20 13:36:37 - __main__ - INFO - Validation loss 4.127101182937622
+2024-09-20 13:36:38 - __main__ - INFO - Model Saved
+2024-09-20 13:37:13 - __main__ - INFO - Training Loss : []
+2024-09-20 13:37:13 - __main__ - INFO - Validation Loss : []
+2024-09-20 13:37:15 - __main__ - ERROR - text input must be of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+2024-09-20 13:37:15 - __main__ - INFO - Train loss 2.927652597427368
+2024-09-20 13:37:15 - __main__ - INFO - Validation loss 1.909886121749878
+2024-09-20 13:37:17 - __main__ - INFO - Model Saved
+2024-09-20 13:37:17 - __main__ - INFO - Training Loss : [2.927652597427368]
+2024-09-20 13:37:17 - __main__ - INFO - Validation Loss : [1.909886121749878]
+2024-09-20 13:37:19 - __main__ - ERROR - text input must be of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+2024-09-20 13:37:19 - __main__ - INFO - Train loss 1.9390152891476948
+2024-09-20 13:37:20 - __main__ - INFO - Validation loss 1.4318886995315552
+2024-09-20 13:37:22 - __main__ - INFO - Model Saved
+2024-09-20 13:37:22 - __main__ - INFO - Training Loss : [2.927652597427368, 1.9390152891476948]
+2024-09-20 13:37:22 - __main__ - INFO - Validation Loss : [1.909886121749878, 1.4318886995315552]
+2024-09-20 13:37:23 - __main__ - ERROR - text input must be of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+2024-09-20 13:37:23 - __main__ - INFO - Train loss 1.3329991102218628
+2024-09-20 13:37:23 - __main__ - INFO - Validation loss 1.402272880077362
+2024-09-20 13:37:24 - __main__ - INFO - Model Saved
+2024-09-20 13:37:24 - __main__ - INFO - Training Loss : [2.927652597427368, 1.9390152891476948, 1.3329991102218628]
+2024-09-20 13:37:24 - __main__ - INFO - Validation Loss : [1.909886121749878, 1.4318886995315552, 1.402272880077362]
+2024-09-20 13:37:25 - __main__ - ERROR - text input must be of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+2024-09-20 13:37:25 - __main__ - INFO - Train loss 1.378003478050232
+2024-09-20 13:37:25 - __main__ - INFO - Validation loss 1.319780707359314
+2024-09-20 13:37:26 - __main__ - INFO - Model Saved
+2024-09-20 13:37:26 - __main__ - INFO - Training Loss : [2.927652597427368, 1.9390152891476948, 1.3329991102218628, 1.378003478050232]
+2024-09-20 13:37:26 - __main__ - INFO - Validation Loss : [1.909886121749878, 1.4318886995315552, 1.402272880077362, 1.319780707359314]
+2024-09-20 13:37:26 - __main__ - ERROR - text input must be of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+2024-09-20 13:37:26 - __main__ - INFO - Train loss nan
+2024-09-20 13:37:27 - __main__ - INFO - Validation loss 1.3197805881500244
+2024-09-20 13:37:28 - __main__ - INFO - Model Saved
+2024-09-20 13:37:28 - __main__ - INFO - Training Loss : [2.927652597427368, 1.9390152891476948, 1.3329991102218628, 1.378003478050232, nan]
+2024-09-20 13:37:28 - __main__ - INFO - Validation Loss : [1.909886121749878, 1.4318886995315552, 1.402272880077362, 1.319780707359314, 1.3197805881500244]
+2024-09-20 13:37:31 - __main__ - ERROR - text input must be of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+2024-09-20 13:37:31 - __main__ - INFO - Train loss 1.1269581743649073
+2024-09-20 13:37:31 - __main__ - INFO - Validation loss 1.1664658188819885
+2024-09-20 13:37:32 - __main__ - INFO - Model Saved
+2024-09-20 13:37:32 - __main__ - INFO - Training Loss : [2.927652597427368, 1.9390152891476948, 1.3329991102218628, 1.378003478050232, nan, 1.1269581743649073]
+2024-09-20 13:37:32 - __main__ - INFO - Validation Loss : [1.909886121749878, 1.4318886995315552, 1.402272880077362, 1.319780707359314, 1.3197805881500244, 1.1664658188819885]
+2024-09-20 13:37:33 - __main__ - ERROR - text input must be of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+2024-09-20 13:37:33 - __main__ - INFO - Train loss 1.08621084690094
+2024-09-20 13:37:33 - __main__ - INFO - Validation loss 1.1002134382724762
+2024-09-20 13:37:34 - __main__ - INFO - Model Saved
+2024-09-20 13:37:34 - __main__ - INFO - Training Loss : [2.927652597427368, 1.9390152891476948, 1.3329991102218628, 1.378003478050232, nan, 1.1269581743649073, 1.08621084690094]
+2024-09-20 13:37:34 - __main__ - INFO - Validation Loss : [1.909886121749878, 1.4318886995315552, 1.402272880077362, 1.319780707359314, 1.3197805881500244, 1.1664658188819885, 1.1002134382724762]
+2024-09-20 13:37:35 - __main__ - ERROR - text input must be of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+2024-09-20 13:37:35 - __main__ - INFO - Train loss 1.0166763067245483
+2024-09-20 13:37:35 - __main__ - INFO - Validation loss 1.0590420067310333
+2024-09-20 13:37:36 - __main__ - INFO - Model Saved
+2024-09-20 13:37:36 - __main__ - INFO - Training Loss : [2.927652597427368, 1.9390152891476948, 1.3329991102218628, 1.378003478050232, nan, 1.1269581743649073, 1.08621084690094, 1.0166763067245483]
+2024-09-20 13:37:36 - __main__ - INFO - Validation Loss : [1.909886121749878, 1.4318886995315552, 1.402272880077362, 1.319780707359314, 1.3197805881500244, 1.1664658188819885, 1.1002134382724762, 1.0590420067310333]
+2024-09-20 13:37:38 - __main__ - ERROR - text input must be of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+2024-09-20 13:37:38 - __main__ - INFO - Train loss 0.7732925564050674
+2024-09-20 13:37:39 - __main__ - INFO - Validation loss 1.0267971754074097
+2024-09-20 13:37:40 - __main__ - INFO - Model Saved
+2024-09-20 13:37:40 - __main__ - INFO - Training Loss : [2.927652597427368, 1.9390152891476948, 1.3329991102218628, 1.378003478050232, nan, 1.1269581743649073, 1.08621084690094, 1.0166763067245483, 0.7732925564050674]
+2024-09-20 13:37:40 - __main__ - INFO - Validation Loss : [1.909886121749878, 1.4318886995315552, 1.402272880077362, 1.319780707359314, 1.3197805881500244, 1.1664658188819885, 1.1002134382724762, 1.0590420067310333, 1.0267971754074097]
+2024-09-20 13:37:43 - __main__ - ERROR - text input must be of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+2024-09-20 13:37:43 - __main__ - INFO - Train loss 0.6511045481477465
+2024-09-20 13:37:43 - __main__ - INFO - Validation loss 0.9947901666164398
+2024-09-20 13:37:44 - __main__ - INFO - Model Saved
+2024-09-20 13:42:59 - __main__ - INFO - Training Loss : []
+2024-09-20 13:42:59 - __main__ - INFO - Validation Loss : []
+2024-09-20 13:43:06 - __main__ - INFO - Train loss 2.0693679173787434
+2024-09-20 13:43:07 - __main__ - INFO - Validation loss 1.4681561589241028
+2024-09-20 13:43:08 - __main__ - INFO - Model Saved
+2024-09-20 13:43:08 - __main__ - INFO - Training Loss : [2.0693679173787434]
+2024-09-20 13:43:08 - __main__ - INFO - Validation Loss : [1.4681561589241028]
+2024-09-20 13:43:14 - __main__ - INFO - Train loss 0.8164163867632548
+2024-09-20 13:43:15 - __main__ - INFO - Validation loss 1.2399496138095856
+2024-09-20 13:43:16 - __main__ - INFO - Model Saved
+2024-09-20 13:43:16 - __main__ - INFO - Training Loss : [2.0693679173787434, 0.8164163867632548]
+2024-09-20 13:43:16 - __main__ - INFO - Validation Loss : [1.4681561589241028, 1.2399496138095856]
+2024-09-20 13:43:49 - __main__ - INFO - Training Loss : []
+2024-09-20 13:43:49 - __main__ - INFO - Validation Loss : []
+2024-09-20 13:44:01 - __main__ - INFO - Train loss 1.6655573084436615
+2024-09-20 13:44:02 - __main__ - INFO - Validation loss 1.166794404387474
+2024-09-20 13:44:03 - __main__ - INFO - Model Saved
+2024-09-20 13:44:03 - __main__ - INFO - Training Loss : [1.6655573084436615]
+2024-09-20 13:44:03 - __main__ - INFO - Validation Loss : [1.166794404387474]
+2024-09-20 13:44:15 - __main__ - INFO - Train loss 0.6574870522679954
+2024-09-20 13:44:15 - __main__ - INFO - Validation loss 1.0691904574632645
+2024-09-20 13:44:16 - __main__ - INFO - Model Saved
+2024-09-20 13:44:16 - __main__ - INFO - Training Loss : [1.6655573084436615, 0.6574870522679954]
+2024-09-20 13:44:16 - __main__ - INFO - Validation Loss : [1.166794404387474, 1.0691904574632645]
+2024-09-20 13:44:28 - __main__ - INFO - Train loss 0.3630800339682349
+2024-09-20 13:44:29 - __main__ - INFO - Validation loss 1.06688941270113
+2024-09-20 13:44:30 - __main__ - INFO - Model Saved
+2024-09-20 13:44:30 - __main__ - INFO - Training Loss : [1.6655573084436615, 0.6574870522679954, 0.3630800339682349]
+2024-09-20 13:44:30 - __main__ - INFO - Validation Loss : [1.166794404387474, 1.0691904574632645, 1.06688941270113]
+2024-09-20 13:44:42 - __main__ - INFO - Train loss 0.27148320243276397
+2024-09-20 13:44:42 - __main__ - INFO - Validation loss 1.055386658757925
+2024-09-20 13:44:43 - __main__ - INFO - Model Saved
+2024-09-20 13:44:43 - __main__ - INFO - Training Loss : [1.6655573084436615, 0.6574870522679954, 0.3630800339682349, 0.27148320243276397]
+2024-09-20 13:44:43 - __main__ - INFO - Validation Loss : [1.166794404387474, 1.0691904574632645, 1.06688941270113, 1.055386658757925]
+2024-09-20 13:44:55 - __main__ - INFO - Train loss 0.21432313310175105
+2024-09-20 13:44:56 - __main__ - INFO - Validation loss 1.064631149172783
+2024-09-20 13:44:57 - __main__ - INFO - Model Saved

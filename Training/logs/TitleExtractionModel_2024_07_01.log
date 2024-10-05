@@ -1,0 +1,1469 @@
+2024-07-01 11:10:50 - __main__ - INFO - Training Loss : []
+2024-07-01 11:10:50 - __main__ - INFO - Validation Loss : []
+2024-07-01 11:17:18 - __main__ - INFO - Batch Number : 1000, Training Loss : 1.3330540633820869
+2024-07-01 11:23:31 - __main__ - INFO - Batch Number : 2000, Training Loss : 1.0399883755262584
+2024-07-01 11:26:25 - __main__ - INFO - Train loss 0.9700960543339815
+2024-07-01 11:27:26 - __main__ - INFO - Validation loss 7.711240989821298
+2024-07-01 11:27:28 - __main__ - INFO - Model Saved
+2024-07-01 11:27:28 - __main__ - INFO - Training Loss : [0.9700960543339815]
+2024-07-01 11:27:28 - __main__ - INFO - Validation Loss : [7.711240989821298]
+2024-07-01 11:34:13 - __main__ - INFO - Batch Number : 1000, Training Loss : 0.626743951282063
+2024-07-01 11:41:36 - __main__ - INFO - Batch Number : 2000, Training Loss : 0.6025460812373498
+2024-07-01 11:44:32 - __main__ - INFO - Train loss 0.5945543818720957
+2024-07-01 11:45:30 - __main__ - INFO - Validation loss 0.5294216686448494
+2024-07-01 11:45:31 - __main__ - INFO - Model Saved
+2024-07-01 11:45:31 - __main__ - INFO - Training Loss : [0.9700960543339815, 0.5945543818720957]
+2024-07-01 11:45:31 - __main__ - INFO - Validation Loss : [7.711240989821298, 0.5294216686448494]
+2024-07-01 11:53:00 - __main__ - INFO - Training Loss : []
+2024-07-01 11:53:00 - __main__ - INFO - Validation Loss : []
+2024-07-01 11:59:23 - __main__ - INFO - Batch Number : 1000, Training Loss : 0.5685450150059177
+2024-07-01 12:05:49 - __main__ - INFO - Batch Number : 2000, Training Loss : 0.548010285022198
+2024-07-01 12:08:48 - __main__ - INFO - Train loss 0.5423566840165029
+2024-07-01 12:09:45 - __main__ - INFO - Validation loss 0.4977646693587303
+2024-07-01 12:09:46 - __main__ - INFO - Model Saved
+2024-07-01 12:09:46 - __main__ - INFO - Training Loss : [0.5423566840165029]
+2024-07-01 12:09:46 - __main__ - INFO - Validation Loss : [0.4977646693587303]
+2024-07-01 12:16:19 - __main__ - INFO - Batch Number : 1000, Training Loss : 0.49334539417977574
+2024-07-01 12:22:32 - __main__ - INFO - Batch Number : 2000, Training Loss : 0.49012522537192366
+2024-07-01 12:25:24 - __main__ - INFO - Train loss 0.48865865522283847
+2024-07-01 12:26:22 - __main__ - INFO - Validation loss 0.4826450927497505
+2024-07-01 12:26:23 - __main__ - INFO - Model Saved
+2024-07-01 12:26:23 - __main__ - INFO - Training Loss : [0.5423566840165029, 0.48865865522283847]
+2024-07-01 12:26:23 - __main__ - INFO - Validation Loss : [0.4977646693587303, 0.4826450927497505]
+2024-07-01 12:32:49 - __main__ - INFO - Batch Number : 1000, Training Loss : 0.4654425295976016
+2024-07-01 12:39:03 - __main__ - INFO - Batch Number : 2000, Training Loss : 0.46452625595528385
+2024-07-01 12:41:55 - __main__ - INFO - Train loss 0.4636439726120088
+2024-07-01 12:42:52 - __main__ - INFO - Validation loss 0.47884364639009747
+2024-07-01 12:42:53 - __main__ - INFO - Model Saved
+2024-07-01 12:42:53 - __main__ - INFO - Training Loss : [0.5423566840165029, 0.48865865522283847, 0.4636439726120088]
+2024-07-01 12:42:53 - __main__ - INFO - Validation Loss : [0.4977646693587303, 0.4826450927497505, 0.47884364639009747]
+2024-07-01 12:49:26 - __main__ - INFO - Batch Number : 1000, Training Loss : 0.4518555563229781
+2024-07-01 12:55:49 - __main__ - INFO - Batch Number : 2000, Training Loss : 0.4499064751680585
+2024-07-01 12:58:48 - __main__ - INFO - Train loss 0.44915217604578994
+2024-07-01 12:59:46 - __main__ - INFO - Validation loss 0.47626856046837646
+2024-07-01 12:59:47 - __main__ - INFO - Model Saved
+2024-07-01 13:24:21 - __main__ - INFO - Training Loss : []
+2024-07-01 13:24:21 - __main__ - INFO - Validation Loss : []
+2024-07-01 13:29:48 - __main__ - INFO - Batch Number : 1000, Training Loss : 0.9111620988343264
+2024-07-01 13:34:58 - __main__ - INFO - Batch Number : 2000, Training Loss : 0.7129762051315203
+2024-07-01 13:35:46 - __main__ - INFO - Train loss 0.6981981647357905
+2024-07-01 13:36:56 - __main__ - INFO - Validation loss 0.4585159823890197
+2024-07-01 13:36:57 - __main__ - INFO - Model Saved
+2024-07-01 13:52:20 - __main__ - INFO - Training Loss : []
+2024-07-01 13:52:20 - __main__ - INFO - Validation Loss : []
+2024-07-01 13:53:54 - __main__ - INFO - Training Loss : []
+2024-07-01 13:53:54 - __main__ - INFO - Validation Loss : []
+2024-07-01 13:55:29 - __main__ - INFO - Training Loss : []
+2024-07-01 13:55:29 - __main__ - INFO - Validation Loss : []
+2024-07-01 13:57:29 - __main__ - INFO - Training Loss : []
+2024-07-01 13:57:29 - __main__ - INFO - Validation Loss : []
+2024-07-01 14:00:39 - __main__ - INFO - Training Loss : []
+2024-07-01 14:00:39 - __main__ - INFO - Validation Loss : []
+2024-07-01 14:06:10 - __main__ - INFO - Batch Number : 1000, Training Loss : 1.0953527438890684
+2024-07-01 14:11:20 - __main__ - INFO - Batch Number : 2000, Training Loss : 0.8393810327978863
+2024-07-01 14:12:08 - __main__ - INFO - Train loss 0.8170943965454518
+2024-07-01 14:13:20 - __main__ - INFO - Validation loss 0.5438652928878254
+2024-07-01 14:13:21 - __main__ - INFO - Model Saved
+2024-07-01 14:47:24 - __main__ - INFO - Training Loss : []
+2024-07-01 14:47:24 - __main__ - INFO - Validation Loss : []
+2024-07-01 14:53:56 - __main__ - INFO - Batch Number : 1000, Training Loss : 0.9694916632149245
+2024-07-01 15:00:09 - __main__ - INFO - Batch Number : 2000, Training Loss : 0.7707074527172134
+2024-07-01 15:01:06 - __main__ - INFO - Train loss 0.755683864029518
+2024-07-01 15:02:41 - __main__ - INFO - Validation loss 0.5290617983694111
+2024-07-01 15:02:43 - __main__ - INFO - Model Saved
+2024-07-01 19:37:18 - __main__ - INFO - Training Loss : []
+2024-07-01 19:37:18 - __main__ - INFO - Validation Loss : []
+2024-07-01 19:43:09 - __main__ - INFO - Batch Number : 1000, Training Loss : 2.245702670408891
+2024-07-01 19:44:33 - __main__ - INFO - Train loss 2.199064312171936
+2024-07-01 19:45:17 - __main__ - INFO - Validation loss 2.0169009592882388
+2024-07-01 19:45:18 - __main__ - INFO - Model Saved
+2024-07-01 19:48:58 - __main__ - INFO - Training Loss : []
+2024-07-01 19:48:58 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:04:19 - __main__ - INFO - Batch Number : 1000, Training Loss : 2.0384742788501553
+2024-07-01 20:07:36 - __main__ - INFO - Train loss 2.032784423828125
+2024-07-01 20:09:22 - __main__ - INFO - Validation loss 6.992096916125838
+2024-07-01 20:09:24 - __main__ - INFO - Model Saved
+2024-07-01 20:15:12 - __main__ - INFO - Training Loss : []
+2024-07-01 20:15:12 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:15:12 - __main__ - INFO - tensor([    0,   100,   174,   127,   320, 32727,    59,   127,   375,     8,
+           79,  1705,    75, 34431,    24,     4,  1876,  2099,  2567,     8,
+          489,  1511,    19,   320, 34333,     4, 50118,  2387,   320,  6096,
+           36,  2716,    18,   486,    69,  4143,    43,    21,    10,   797,
+        21905,     6,    79,  1979,    75,  1157,   162,     7,   836,   127,
+         1028,   114,    38,    21,   164,   751,     7,  1656,    19,     5,
+         2335,     6,   142,     2], device='cuda:0')
+2024-07-01 20:15:12 - __main__ - INFO - tensor([    0, 27847,  1268,    34,   576,    10,   200,   778,     7,     5,
+          797, 21905, 13910,    71,  3433,    62,   116,  1336,   222,    24,
+         1004,    66,   116,     2,  -100,  -100,  -100,  -100,  -100,  -100,
+         -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,
+         -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,
+         -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,
+         -100,  -100,  -100,  -100], device='cuda:0')
+2024-07-01 20:15:12 - __main__ - INFO - tensor([    0,   100,    33,    42, 13855,  6439,    61,  3249,    21,  1104,
+           53,   172,    21, 26854,   909,     4,  1437, 50118,  6209,    89,
+          143,   169,     7, 31800,    50, 38317,     5,   909,  7705,    88,
+         1104,     8,   172, 31800,    24,  2272,   116,     2,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1], device='cuda:0')
+2024-07-01 20:15:12 - __main__ - INFO - tensor([    0, 40370, 13341,   909,    88,  1104,   116,     2,  -100,  -100,
+         -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,
+         -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,
+         -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,
+         -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,
+         -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,
+         -100,  -100,  -100,  -100], device='cuda:0')
+2024-07-01 20:15:12 - __main__ - INFO - Train loss nan
+2024-07-01 20:16:53 - __main__ - INFO - Training Loss : []
+2024-07-01 20:16:53 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:16:53 - __main__ - INFO - tensor([    0,  1640,   100,   216,    42,    40,  1153,    33,    10,  6097,
+        44014,  9415,  1592,  1578,     6,    38,   437,    45,    10,  9342,
+         9906,     6,    38,   437,    95, 10691,     4,     2,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1], device='cuda:0')
+2024-07-01 20:16:53 - __main__ - INFO - tensor([    0,  2264,   473,  6501,   206,     9,     5,  3962, 14170,  6035,
+          116,     2,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,
+         -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,
+         -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,
+         -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,
+         -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,
+         -100,  -100,  -100,  -100], device='cuda:0')
+2024-07-01 20:16:53 - __main__ - INFO - (I know this will probably have a typical reddit bias.) Also, I'm not a WA supporter, I'm just curious.
+2024-07-01 20:16:53 - __main__ - INFO - Train loss nan
+2024-07-01 20:18:08 - __main__ - INFO - Training Loss : []
+2024-07-01 20:18:08 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:18:08 - __main__ - INFO - tensor([    0,  2387,   173,  3078,    16, 34147,   352,  9538,     6,    98,
+           38,   437,   164,     7,  1095,    62,     8,  1183,     5, 21641,
+        10784,    15,   302,   363,    73, 25464,   662,     4,  1437,    20,
+         9801, 10784,  2012,    23,    59,   112,    35,   541,   424,    15,
+          294,     6,     8,   746, 10784,    23,   132,    35,  1749,     4,
+         1437,  5053,  9773,  1884,   932,  1122,   116,     2,     1,     1,
+            1,     1,     1,     1], device='cuda:0')
+2024-07-01 20:18:08 - __main__ - INFO - tensor([    0, 25480, 11733,     7,  3075,     5, 31503, 31011,   116,     2,
+         -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,
+         -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,
+         -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,
+         -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,
+         -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,
+         -100,  -100,  -100,  -100], device='cuda:0')
+2024-07-01 20:18:08 - __main__ - INFO - My work schedule is ludicrously flexible, so I'm going to stay up and watch the lunar eclipse on Monday night/Tuesday morning.  The partial eclipse starts at about 1:30am on Tuesday, and total eclipse at 2:40.  Anybody planning anything similar?
+2024-07-01 20:19:28 - __main__ - INFO - Training Loss : []
+2024-07-01 20:19:28 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:19:28 - __main__ - INFO - tensor([    0,   100,    64,    75,  2067,    13,    42,   177,     6,    53,
+           38,   524,   164,     7,    28,  4889,    11,  1156,     4,  1437,
+           38,   437, 19153,     8,  3334,    10,  5654,  2403,  2378,     6,
+           53, 23383,  1326,  1256,   205,     4,     2,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1], device='cuda:0')
+2024-07-01 20:19:28 - __main__ - INFO - tensor([    0, 24940,  2616,    35,   849,   246, 23383,  1954,     4,   849,
+          245,  4222,     6, 27409,  5121,   328,     2,  -100,  -100,  -100,
+         -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,
+         -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,
+         -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,
+         -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,  -100,
+         -100,  -100,  -100,  -100], device='cuda:0')
+2024-07-01 20:19:28 - __main__ - INFO - I can't wait for this game, but I am going to be stuck in England.  I'm pumped and obviously a Badger fan, but TCU looks pretty good.
+2024-07-01 20:20:50 - __main__ - INFO - Training Loss : []
+2024-07-01 20:20:50 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:20:50 - __main__ - INFO - tensor([    0, 45067,     6,    99,     5, 26536,     4,  1437,    38,  2854,
+           19, 13191,  5316,   727,   207,    36,   100,  4005,     8,  3996,
+           59,   155,   722,   137,    38,    56,     7,   213,    43,    53,
+           14,   630,    75,   146,    10, 33109,    41,  9796,  3944,    11,
+           65,    18,   559, 18175,     4,  1437,    85,    16,    95,    25,
+          203,  1826,   168, 16301,    77,  4336,  5316,   473,    24,    25,
+           24,    16,    77,     2], device='cuda:0')
+2024-07-01 20:20:50 - __main__ - INFO - tensor([    0, 36361,  1452, 37406,   131,  9247,    77,  1858,   304,   106,
+            6,  6344,    77,  4619, 26769,  4189,   109,   116,     2,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1], device='cuda:0')
+2024-07-01 20:20:50 - __main__ - INFO - Seriously, what the fuck.  I agree with Bernie Sanders 100% (I sat and watched about 3 hours before I had to go) but that doesn't make a filibuster an acceptable tool in one's political arsenal.  It is just as much holding government hostage when Senator Sanders does it as it is when
+2024-07-01 20:20:50 - __main__ - INFO - <s>Filibusters; evil when Republicans use them, awesome when Independents do?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 20:20:50 - __main__ - INFO - Train loss nan
+2024-07-01 20:22:07 - __main__ - INFO - Training Loss : []
+2024-07-01 20:22:07 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:22:07 - __main__ - INFO - Not that I give any fucks because that shit is delicious and i will drink everyday it until i die. But my friends keep acting all appalled, like I should be embarrassed for ordering one of the most goddamn tasty ways to inebriate myself.
+2024-07-01 20:22:07 - __main__ - INFO - <s>As a man, should I feel bad if I order a Mike's Hard Lemonade in public?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 20:22:07 - __main__ - INFO - Train loss nan
+2024-07-01 20:22:38 - __main__ - INFO - Training Loss : []
+2024-07-01 20:22:38 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:22:38 - __main__ - INFO - <s>Not that I give any fucks because that shit is delicious and i will drink everyday it until i die. But my friends keep acting all appalled, like I should be embarrassed for ordering one of the most goddamn tasty ways to inebriate myself.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 20:22:38 - __main__ - INFO - <s>As a man, should I feel bad if I order a Mike's Hard Lemonade in public?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 20:22:38 - __main__ - INFO - Train loss nan
+2024-07-01 20:23:13 - __main__ - INFO - Training Loss : []
+2024-07-01 20:23:13 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:23:13 - __main__ - INFO - <s>My friend and I are making a rap group/album posing as black gangstas. I need a good nickname for myself that will convince people that I am fo' real, so make it real smooth. If this is going to be my rap name forever, I want it to be fabulous. Suggestions</s>
+2024-07-01 20:23:13 - __main__ - INFO - <s>need a convincing gangster rap nickname!</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 20:23:13 - __main__ - INFO - Train loss nan
+2024-07-01 20:24:03 - __main__ - INFO - Training Loss : []
+2024-07-01 20:24:03 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:24:03 - __main__ - INFO - tensor([[    0, 36361,  1452,  ...,     1,     1,     1],
+        [    0,  1620,    10,  ...,     1,     1,     1],
+        [    0, 30484,    10,  ...,     1,     1,     1],
+        ...,
+        [    0,  6209,  5670,  ...,     1,     1,     1],
+        [    0, 26954,  1899,  ...,     1,     1,     1],
+        [    0,   387, 43550,  ...,     1,     1,     1]], device='cuda:0')
+2024-07-01 20:24:03 - __main__ - INFO - Train loss nan
+2024-07-01 20:29:49 - __main__ - INFO - Training Loss : []
+2024-07-01 20:29:49 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:29:49 - __main__ - INFO - tensor([[    0, 36361,  1452,  ...,     1,     1,     1],
+        [    0,  1620,    10,  ...,     1,     1,     1],
+        [    0, 30484,    10,  ...,     1,     1,     1],
+        ...,
+        [    0,  6209,  5670,  ...,     1,     1,     1],
+        [    0, 26954,  1899,  ...,     1,     1,     1],
+        [    0,   387, 43550,  ...,     1,     1,     1]], device='cuda:0')
+2024-07-01 20:29:49 - __main__ - INFO - Train loss nan
+2024-07-01 20:30:08 - __main__ - INFO - Training Loss : []
+2024-07-01 20:30:08 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:30:08 - __main__ - INFO - <s>My friend and I are making a rap group/album posing as black gangstas. I need a good nickname for myself that will convince people that I am fo' real, so make it real smooth. If this is going to be my rap name forever, I want it to be fabulous. Suggestions</s>
+2024-07-01 20:30:08 - __main__ - INFO - <s>need a convincing gangster rap nickname!</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 20:30:08 - __main__ - INFO - Train loss nan
+2024-07-01 20:31:35 - __main__ - INFO - Training Loss : []
+2024-07-01 20:31:35 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:31:35 - __main__ - INFO - tensor([[[ 3.7866e+01, -1.4376e+00,  1.5832e+01,  ..., -3.1051e+00,
+          -4.6351e+00,  7.9500e+00],
+         [-6.8676e+00, -1.5855e+00,  1.0136e+01,  ..., -5.2017e-01,
+          -1.9089e+00,  4.4974e+00],
+         [-2.0216e+01, -3.3157e+00,  6.6693e-01,  ...,  8.2046e-01,
+          -5.7257e-02,  5.0832e-01],
+         ...,
+         [-1.3558e+01, -3.7501e+00,  3.9201e+00,  ..., -5.1434e-01,
+          -2.8130e+00,  2.2721e-01],
+         [-6.8283e+00, -4.6643e+00,  3.3793e+00,  ..., -2.8013e+00,
+          -3.3942e+00, -3.8020e+00],
+         [ 3.2827e+00, -4.1506e+00,  1.3934e+01,  ..., -3.4616e+00,
+          -3.0166e+00, -8.3724e-01]],
+
+        [[ 3.6801e+01, -1.6088e+00,  1.0606e+01,  ..., -3.8083e+00,
+          -3.8652e+00,  5.3562e+00],
+         [-9.9034e+00, -1.6271e+00,  7.7127e+00,  ..., -1.7324e+00,
+          -1.3348e+00,  4.5099e+00],
+         [-9.8963e+00, -4.2088e+00,  8.4587e-01,  ..., -3.6027e+00,
+          -3.5065e+00, -1.0900e+00],
+         ...,
+         [-6.5820e+00, -2.0282e+00,  1.0898e+01,  ...,  4.8731e-01,
+          -1.1538e+00,  2.6229e+00],
+         [-4.4588e+00, -2.1695e+00,  1.3433e+01,  ...,  2.5850e-01,
+          -1.1463e+00,  2.3882e+00],
+         [-1.0751e+01, -2.2108e+00,  8.6801e+00,  ...,  4.6057e-01,
+          -3.4845e-01,  8.9842e-01]],
+
+        [[ 2.9450e+01, -1.7416e+00,  9.2483e+00,  ..., -3.5806e+00,
+          -4.5783e+00,  6.9631e+00],
+         [-3.2529e+01, -1.3858e+00,  7.5540e+00,  ...,  3.9341e-01,
+          -1.0784e+00,  5.3750e+00],
+         [-1.8125e+01, -4.1755e+00,  2.6710e+00,  ..., -3.9191e+00,
+          -5.2074e+00,  7.6497e-01],
+         ...,
+         [ 4.4236e-01, -4.1918e+00,  8.2256e+00,  ..., -5.4207e+00,
+          -5.7357e+00, -5.2307e-01],
+         [ 2.3466e-01, -2.4764e+00,  1.0686e+01,  ..., -2.7078e+00,
+          -3.3025e+00,  4.1274e+00],
+         [-6.2867e+00, -3.8305e+00,  1.2676e+01,  ..., -4.2591e+00,
+          -4.5335e+00,  1.6248e-01]],
+
+        ...,
+
+        [[ 2.9532e+01, -1.5101e+00,  1.0406e+01,  ..., -3.6712e+00,
+          -3.8014e+00,  4.2099e+00],
+         [-5.7182e+00, -1.2674e+00,  7.7814e+00,  ..., -2.9228e+00,
+          -2.8042e+00,  3.8328e+00],
+         [-8.7965e+00, -2.5686e+00,  2.8897e+00,  ..., -1.2222e+00,
+          -1.7162e+00,  2.8802e+00],
+         ...,
+         [-6.7573e+00, -1.9408e+00,  8.9970e+00,  ..., -1.2224e+00,
+          -7.2468e-01,  5.4369e+00],
+         [-5.7192e+00, -3.0723e+00,  8.0648e+00,  ..., -1.6362e+00,
+          -1.8753e+00,  1.0417e+00],
+         [-5.4257e+00, -2.6927e+00,  8.6942e+00,  ..., -1.6664e+00,
+          -2.0158e+00,  8.7683e-01]],
+
+        [[ 3.1757e+01, -1.4890e+00,  1.3153e+01,  ..., -2.7598e+00,
+          -3.6561e+00,  6.5346e+00],
+         [-7.5787e+00, -1.3464e+00,  9.3625e+00,  ..., -1.2117e+00,
+          -1.6415e+00,  6.1968e+00],
+         [-9.2093e+00, -3.1009e+00,  4.6525e+00,  ..., -1.9021e+00,
+          -1.5748e+00,  3.3304e+00],
+         ...,
+         [-5.7428e+00, -2.6443e+00,  1.1318e+01,  ..., -8.2089e-03,
+          -7.0868e-01,  6.7027e-01],
+         [-6.0939e+00, -2.7611e+00,  1.1322e+01,  ..., -1.5942e+00,
+          -2.2332e+00,  3.3936e+00],
+         [-7.5199e-01, -2.2811e+00,  8.2975e+00,  ..., -1.8549e+00,
+          -1.5747e+00,  1.0902e+00]],
+
+        [[ 3.3752e+01, -1.4001e+00,  1.3962e+01,  ..., -2.1403e+00,
+          -2.6562e+00,  6.8652e+00],
+         [-1.0670e+01, -1.5031e+00,  8.7656e+00,  ...,  8.9388e-01,
+           5.9644e-01,  4.5100e+00],
+         [-2.0655e+01, -4.0071e+00, -3.4282e+00,  ..., -4.5460e+00,
+          -5.3118e+00, -2.0761e+00],
+         ...,
+         [-2.7115e+01, -4.3726e+00,  1.0616e+01,  ..., -2.0329e+00,
+          -3.3816e+00,  6.9488e+00],
+         [-1.3401e+01, -4.3505e+00,  5.3871e+00,  ..., -3.5329e+00,
+          -4.7518e+00, -4.4375e-01],
+         [-5.8607e+00, -3.6147e+00,  1.7633e+01,  ..., -2.5747e+00,
+          -3.0720e+00,  1.2571e+00]]], device='cuda:0', grad_fn=<AddBackward0>)
+2024-07-01 20:31:35 - __main__ - INFO - Train loss nan
+2024-07-01 20:32:13 - __main__ - INFO - Training Loss : []
+2024-07-01 20:32:13 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:32:14 - __main__ - INFO - tensor([[ 29.3516,  -1.6919,  10.5570,  ...,  -3.5856,  -4.4827,   3.6311],
+        [-42.3656,  -1.8688,   5.3098,  ...,   0.9552,   0.2645,   3.4813],
+        [-18.4178,  -4.2126,   4.0182,  ...,  -2.2542,  -3.6829,   0.6803],
+        ...,
+        [-18.2775,  -3.5546,   5.3734,  ...,   1.1815,  -2.0681,   2.6982],
+        [ -9.4204,  -4.7136,   2.3757,  ...,  -3.3384,  -3.7752,  -5.1618],
+        [  1.7787,  -4.0959,  12.8162,  ...,  -3.1655,  -2.9952,   0.3759]],
+       device='cuda:0', grad_fn=<SelectBackward0>)
+2024-07-01 20:32:14 - __main__ - INFO - Train loss nan
+2024-07-01 20:34:18 - __main__ - INFO - Training Loss : []
+2024-07-01 20:34:18 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:34:19 - __main__ - INFO - tensor([[ 41.4110,  -1.4206,  13.3287,  ...,  -3.2038,  -3.1472,   7.3400],
+        [ -9.5385,  -1.8150,  10.7939,  ...,  -0.9050,  -1.9867,   5.6919],
+        [-23.1471,  -1.1088,   9.0100,  ...,   0.6781,   1.0287,   4.7721],
+        ...,
+        [-13.6993,  -2.2880,   9.6741,  ...,  -0.4522,  -0.9528,   1.0438],
+        [ -9.5491,  -3.4644,   4.5623,  ...,  -2.9573,  -2.9876,   1.3814],
+        [ -2.7365,  -2.6333,   8.4792,  ...,  -1.0983,  -1.5489,   1.0307]],
+       device='cuda:0', grad_fn=<SelectBackward0>)
+2024-07-01 20:34:19 - __main__ - INFO - Train loss nan
+2024-07-01 20:35:35 - __main__ - INFO - Training Loss : []
+2024-07-01 20:35:35 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:35:35 - __main__ - INFO - tensor([[ 4.2867e+01, -2.2941e+00,  1.1694e+01,  ..., -4.1297e+00,
+         -4.6415e+00,  6.0047e+00],
+        [-8.5766e+00, -1.5413e+00,  1.0330e+01,  ..., -4.1615e-02,
+         -5.1477e-01,  5.2647e+00],
+        [-8.7872e+00, -2.7480e+00,  7.4398e+00,  ..., -2.1007e+00,
+         -1.9931e+00, -9.2962e-01],
+        ...,
+        [-6.6225e+00, -1.9394e+00,  8.9501e+00,  ..., -1.3367e+00,
+         -1.1896e+00,  2.8270e+00],
+        [-1.2216e+01, -3.1914e+00,  6.5184e+00,  ..., -1.9098e+00,
+         -2.2327e+00,  5.7241e-01],
+        [-1.2019e+01, -2.4178e+00,  1.1425e+01,  ..., -1.2748e+00,
+          7.9538e-02,  1.9806e+00]], device='cuda:0',
+       grad_fn=<SelectBackward0>)
+2024-07-01 20:35:35 - __main__ - INFO - tensor([[    0, 36361,  1452,  ...,     1,     1,     1],
+        [    0,  1620,    10,  ...,     1,     1,     1],
+        [    0, 30484,    10,  ...,     1,     1,     1],
+        ...,
+        [    0,  6209,  5670,  ...,     1,     1,     1],
+        [    0, 26954,  1899,  ...,     1,     1,     1],
+        [    0,   387, 43550,  ...,     1,     1,     1]], device='cuda:0')
+2024-07-01 20:35:35 - __main__ - INFO - Train loss nan
+2024-07-01 20:36:58 - __main__ - INFO - Training Loss : []
+2024-07-01 20:36:58 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:36:59 - __main__ - INFO - tensor([[ 21.1712,  -1.2502,  10.3378,  ...,  -2.5067,  -3.3786,   7.8116],
+        [ 18.3897,  -1.4137,  12.1409,  ...,  -2.0968,  -2.5056,   6.8674],
+        [-15.6559,  -2.3960,   6.5280,  ...,  -1.1341,  -0.7610,   5.4820],
+        ...,
+        [ -3.6373,  -3.1530,  10.9793,  ...,  -2.7601,  -2.7566,   2.8763],
+        [ -2.0966,  -1.8930,  11.5477,  ...,   0.1173,  -0.2695,   8.6293],
+        [ -9.0586,  -2.6166,   8.6057,  ...,  -0.9648,  -2.7132,   0.8133]],
+       device='cuda:0', grad_fn=<SelectBackward0>)
+2024-07-01 20:36:59 - __main__ - INFO - tensor([    0, 36361,  1452, 37406,   131,  9247,    77,  1858,   304,   106,
+            6,  6344,    77,  4619, 26769,  4189,   109,   116,     2,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1], device='cuda:0')
+2024-07-01 20:36:59 - __main__ - INFO - Train loss nan
+2024-07-01 20:39:31 - __main__ - INFO - Training Loss : []
+2024-07-01 20:39:31 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:39:32 - __main__ - INFO - 
+2024-07-01 20:39:32 - __main__ - INFO - <s>Filibusters; evil when Republicans use them, awesome when Independents do?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 20:39:32 - __main__ - INFO - Train loss nan
+2024-07-01 20:40:45 - __main__ - INFO - Training Loss : []
+2024-07-01 20:40:45 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:40:46 - __main__ - INFO - 
+2024-07-01 20:40:46 - __main__ - INFO - <s>Filibusters; evil when Republicans use them, awesome when Independents do?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 20:40:46 - __main__ - INFO - Train loss nan
+2024-07-01 20:42:27 - __main__ - INFO - Training Loss : []
+2024-07-01 20:42:27 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:42:27 - __main__ - INFO -  help
+2024-07-01 20:42:27 - __main__ - INFO - <s>need a convincing gangster rap nickname!</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 20:42:27 - __main__ - INFO - Train loss nan
+2024-07-01 20:42:58 - __main__ - INFO - Training Loss : []
+2024-07-01 20:42:58 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:42:58 - __main__ - INFO -  result
+2024-07-01 20:42:58 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 20:42:58 - __main__ - INFO - Train loss nan
+2024-07-01 20:43:36 - __main__ - INFO - Training Loss : []
+2024-07-01 20:43:36 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:43:37 - __main__ - INFO -  (
+2024-07-01 20:43:37 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 20:43:37 - __main__ - INFO - Train loss nan
+2024-07-01 20:44:40 - __main__ - INFO - Training Loss : []
+2024-07-01 20:44:40 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:44:40 - __main__ - INFO - cube
+2024-07-01 20:44:40 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 20:44:40 - __main__ - INFO - Train loss nan
+2024-07-01 20:44:54 - __main__ - INFO - Training Loss : []
+2024-07-01 20:44:54 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:44:55 - __main__ - INFO - cube
+2024-07-01 20:44:55 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 20:44:55 - __main__ - INFO - Train loss nan
+2024-07-01 20:45:18 - __main__ - INFO - Training Loss : []
+2024-07-01 20:45:18 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:45:18 - __main__ - INFO - cube
+2024-07-01 20:45:18 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 20:45:18 - __main__ - INFO - Train loss nan
+2024-07-01 20:45:52 - __main__ - INFO - Training Loss : []
+2024-07-01 20:45:52 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:45:52 - __main__ - INFO - Train loss nan
+2024-07-01 20:46:20 - __main__ - INFO - Training Loss : []
+2024-07-01 20:46:20 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:46:21 - __main__ - INFO - Train loss nan
+2024-07-01 20:47:04 - __main__ - INFO - Training Loss : []
+2024-07-01 20:47:04 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:47:29 - __main__ - INFO - Training Loss : []
+2024-07-01 20:47:29 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:47:29 - __main__ - INFO - Train loss nan
+2024-07-01 20:51:04 - __main__ - INFO - Training Loss : []
+2024-07-01 20:51:04 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:51:04 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 20:51:04 - __main__ - INFO - Train loss nan
+2024-07-01 20:51:55 - __main__ - INFO - Training Loss : []
+2024-07-01 20:51:55 - __main__ - INFO - Validation Loss : []
+2024-07-01 20:51:56 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 20:51:56 - __main__ - INFO - Train loss nan
+2024-07-01 21:36:02 - __main__ - INFO - Training Loss : []
+2024-07-01 21:36:02 - __main__ - INFO - Validation Loss : []
+2024-07-01 21:36:03 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 21:36:03 - __main__ - INFO - Train loss nan
+2024-07-01 21:36:39 - __main__ - INFO - Training Loss : []
+2024-07-01 21:36:39 - __main__ - INFO - Validation Loss : []
+2024-07-01 21:36:39 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 21:36:39 - __main__ - INFO - Train loss nan
+2024-07-01 21:37:35 - __main__ - INFO - Training Loss : []
+2024-07-01 21:37:35 - __main__ - INFO - Validation Loss : []
+2024-07-01 21:37:35 - __main__ - INFO - <s>As a man, should I feel bad if I order a Mike's Hard Lemonade in public?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 21:37:35 - __main__ - INFO - Train loss nan
+2024-07-01 21:38:55 - __main__ - INFO - Training Loss : []
+2024-07-01 21:38:55 - __main__ - INFO - Validation Loss : []
+2024-07-01 21:38:55 - __main__ - INFO - <s>As a man, should I feel bad if I order a Mike's Hard Lemonade in public?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 21:38:55 - __main__ - INFO - Train loss nan
+2024-07-01 21:40:00 - __main__ - INFO - Training Loss : []
+2024-07-01 21:40:00 - __main__ - INFO - Validation Loss : []
+2024-07-01 21:40:01 - __main__ - INFO - <s>As a man, should I feel bad if I order a Mike's Hard Lemonade in public?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 21:40:01 - __main__ - INFO - Train loss nan
+2024-07-01 21:41:15 - __main__ - INFO - Training Loss : []
+2024-07-01 21:41:15 - __main__ - INFO - Validation Loss : []
+2024-07-01 21:41:16 - __main__ - INFO - tensor([[1.0000e+00, 4.7587e-26, 4.4272e-19,  ..., 2.5524e-27, 2.7391e-27,
+         1.8545e-22],
+        [1.4646e-39, 4.8445e-10, 4.1276e-07,  ..., 9.3724e-09, 5.5251e-09,
+         4.9386e-08],
+        [3.4187e-18, 3.2879e-13, 9.3285e-11,  ..., 1.2375e-12, 6.4406e-13,
+         9.9993e-11],
+        ...,
+        [1.7111e-07, 9.2262e-08, 1.0013e-02,  ..., 4.3129e-07, 1.2409e-07,
+         3.7268e-06],
+        [1.0240e-08, 5.5691e-08, 7.6575e-02,  ..., 5.6108e-07, 1.6088e-07,
+         3.4925e-05],
+        [2.9687e-10, 4.6304e-08, 1.3856e-03,  ..., 2.4921e-07, 8.7184e-08,
+         1.6151e-05]], device='cuda:0', grad_fn=<SoftmaxBackward0>)
+2024-07-01 21:41:16 - __main__ - INFO - <s>As a man, should I feel bad if I order a Mike's Hard Lemonade in public?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 21:41:16 - __main__ - INFO - Train loss nan
+2024-07-01 21:42:34 - __main__ - INFO - Training Loss : []
+2024-07-01 21:42:34 - __main__ - INFO - Validation Loss : []
+2024-07-01 21:42:35 - __main__ - INFO - tensor([[9.9975e-01, 6.1013e-13, 3.2750e-08,  ..., 5.7017e-14, 6.8787e-14,
+         2.8831e-10],
+        [7.8219e-19, 1.6634e-10, 1.0119e-06,  ..., 1.9481e-10, 1.3247e-10,
+         2.5157e-08],
+        [1.0590e-16, 8.6475e-12, 3.5819e-10,  ..., 3.2358e-11, 4.6511e-11,
+         1.2918e-10],
+        ...,
+        [8.2205e-09, 4.3309e-08, 1.0326e-02,  ..., 2.4628e-07, 9.9631e-08,
+         2.6346e-06],
+        [4.5020e-12, 2.8556e-08, 1.8189e-03,  ..., 3.5929e-07, 1.5831e-07,
+         9.4981e-07],
+        [7.5678e-15, 4.0593e-10, 1.5990e-04,  ..., 7.0192e-09, 4.1694e-09,
+         1.6530e-08]], device='cuda:0', grad_fn=<SoftmaxBackward0>)
+2024-07-01 21:42:35 - __main__ - INFO - tensor([    0,  1620,    10,   313,     6,   197,    38,   619,  1099,   114,
+           38,   645,    10,  1483,    18,  6206, 22059,  1829,    11,   285,
+          116,     2,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1], device='cuda:0')
+2024-07-01 21:42:35 - __main__ - INFO - Train loss nan
+2024-07-01 21:43:00 - __main__ - INFO - Training Loss : []
+2024-07-01 21:43:00 - __main__ - INFO - Validation Loss : []
+2024-07-01 21:43:01 - __main__ - INFO - tensor([[    0],
+        [ 2264],
+        [   14],
+        [   38],
+        [  492],
+        [  143],
+        [  856],
+        [19667],
+        [  142],
+        [   14],
+        [15328],
+        [   16],
+        [10964],
+        [    8],
+        [  939],
+        [   40],
+        [ 4076],
+        [ 7476],
+        [   24],
+        [  454],
+        [  939],
+        [ 1597],
+        [    4],
+        [  125],
+        [  127],
+        [  964],
+        [  489],
+        [ 3501],
+        [   70],
+        [31514],
+        [    6],
+        [  101],
+        [   38],
+        [  197],
+        [   28],
+        [17319],
+        [   13],
+        [12926],
+        [   65],
+        [    9],
+        [    5],
+        [  144],
+        [45003],
+        [22307],
+        [ 1319],
+        [    7],
+        [   11],
+        [ 3209],
+        [ 1069],
+        [  877],
+        [ 2185],
+        [    4],
+        [  407],
+        [  102],
+        [  211],
+        [  996],
+        [   24],
+        [16993],
+        [49196],
+        [  463],
+        [  463],
+        [    2],
+        [ 6320],
+        [16756]], device='cuda:0')
+2024-07-01 21:43:01 - __main__ - INFO - tensor([    0,  1620,    10,   313,     6,   197,    38,   619,  1099,   114,
+           38,   645,    10,  1483,    18,  6206, 22059,  1829,    11,   285,
+          116,     2,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1], device='cuda:0')
+2024-07-01 21:43:01 - __main__ - INFO - Train loss nan
+2024-07-01 21:43:34 - __main__ - INFO - Training Loss : []
+2024-07-01 21:43:34 - __main__ - INFO - Validation Loss : []
+2024-07-01 21:43:34 - __main__ - INFO - 64
+2024-07-01 21:43:34 - __main__ - INFO - 64
+2024-07-01 21:43:34 - __main__ - INFO - Train loss nan
+2024-07-01 21:46:18 - __main__ - INFO - Training Loss : []
+2024-07-01 21:46:18 - __main__ - INFO - Validation Loss : []
+2024-07-01 21:46:19 - __main__ - INFO - <s>As a man, should I feel bad if I order a Mike's Hard Lemonade in public?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 21:46:19 - __main__ - INFO - Train loss nan
+2024-07-01 21:47:07 - __main__ - INFO - Training Loss : []
+2024-07-01 21:47:07 - __main__ - INFO - Validation Loss : []
+2024-07-01 21:47:08 - __main__ - INFO - <s>As a man, should I feel bad if I order a Mike's Hard Lemonade in public?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 21:47:08 - __main__ - INFO - Train loss nan
+2024-07-01 21:48:40 - __main__ - INFO - Training Loss : []
+2024-07-01 21:48:40 - __main__ - INFO - Validation Loss : []
+2024-07-01 21:48:41 - __main__ - INFO - torch.Size([32, 64, 50265])
+2024-07-01 21:48:41 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 21:48:41 - __main__ - INFO - Train loss nan
+2024-07-01 21:49:21 - __main__ - INFO - Training Loss : []
+2024-07-01 21:49:21 - __main__ - INFO - Validation Loss : []
+2024-07-01 21:49:21 - __main__ - INFO - torch.Size([64, 50265])
+2024-07-01 21:49:21 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 21:49:21 - __main__ - INFO - Train loss nan
+2024-07-01 21:53:09 - __main__ - INFO - Training Loss : []
+2024-07-01 21:53:09 - __main__ - INFO - Validation Loss : []
+2024-07-01 21:53:09 - __main__ - INFO - torch.Size([64, 50265])
+2024-07-01 21:53:09 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 21:58:34 - __main__ - INFO - Training Loss : []
+2024-07-01 21:58:34 - __main__ - INFO - Validation Loss : []
+2024-07-01 21:58:35 - __main__ - INFO - torch.Size([64, 50265])
+2024-07-01 21:58:35 - __main__ - INFO - torch.Size([32, 10])
+2024-07-01 21:59:37 - __main__ - INFO - Training Loss : []
+2024-07-01 21:59:37 - __main__ - INFO - Validation Loss : []
+2024-07-01 21:59:37 - __main__ - INFO - torch.Size([64, 50265])
+2024-07-01 21:59:37 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 21:59:55 - __main__ - INFO - Training Loss : []
+2024-07-01 21:59:55 - __main__ - INFO - Validation Loss : []
+2024-07-01 21:59:55 - __main__ - INFO - torch.Size([64, 50265])
+2024-07-01 21:59:55 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:00:14 - __main__ - INFO - Training Loss : []
+2024-07-01 22:00:14 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:00:14 - __main__ - INFO - torch.Size([64, 50265])
+2024-07-01 22:00:14 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:00:14 - __main__ - INFO - tensor([[1.0000e+00, 1.7020e-17, 1.1338e-11,  ..., 1.4113e-18, 1.6017e-18,
+         1.3655e-14],
+        [7.6695e-21, 4.6897e-13, 5.4455e-10,  ..., 5.9073e-13, 9.2206e-13,
+         6.0742e-11],
+        [2.8331e-18, 6.7646e-12, 7.6204e-10,  ..., 1.7031e-11, 1.6338e-11,
+         1.2778e-10],
+        ...,
+        [2.4407e-06, 8.1803e-08, 2.0838e-02,  ..., 2.1692e-07, 9.0345e-08,
+         2.9448e-05],
+        [7.6486e-10, 4.3285e-08, 3.7703e-03,  ..., 6.3463e-07, 4.1894e-07,
+         6.9607e-07],
+        [5.8321e-07, 9.4983e-08, 1.2005e-03,  ..., 3.0067e-07, 2.2422e-07,
+         1.7427e-06]], device='cuda:0', grad_fn=<SoftmaxBackward0>)
+2024-07-01 22:00:14 - __main__ - INFO - tensor([[    0],
+        [ 7199],
+        [   14],
+        [   38],
+        [  492],
+        [  143],
+        [  856],
+        [19667],
+        [  142],
+        [   14],
+        [15328],
+        [   16],
+        [10964],
+        [    8],
+        [  939],
+        [   40],
+        [ 4076],
+        [ 7476],
+        [   24],
+        [  454],
+        [  939],
+        [ 1597],
+        [    4],
+        [  125],
+        [  127],
+        [  964],
+        [  489],
+        [ 3501],
+        [   70],
+        [31514],
+        [    6],
+        [  101],
+        [   38],
+        [  197],
+        [   28],
+        [17319],
+        [   13],
+        [12926],
+        [   65],
+        [    9],
+        [    5],
+        [  144],
+        [45003],
+        [22307],
+        [ 1319],
+        [    7],
+        [   11],
+        [ 3209],
+        [ 1069],
+        [  877],
+        [ 2185],
+        [    4],
+        [ 3047],
+        [  162],
+        [    2],
+        [   43],
+        [   17],
+        [40142],
+        [   20],
+        [  179],
+        [ 7372],
+        [42826],
+        [39383],
+        [18909]], device='cuda:0')
+2024-07-01 22:00:57 - __main__ - INFO - Training Loss : []
+2024-07-01 22:00:57 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:00:57 - __main__ - INFO - torch.Size([64, 50265])
+2024-07-01 22:00:57 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:01:46 - __main__ - INFO - Training Loss : []
+2024-07-01 22:01:46 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:01:46 - __main__ - INFO - torch.Size([32, 64, 50265])
+2024-07-01 22:01:46 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:01:46 - __main__ - INFO - torch.Size([32, 50265, 64])
+2024-07-01 22:02:57 - __main__ - INFO - Training Loss : []
+2024-07-01 22:02:57 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:02:57 - __main__ - INFO - torch.Size([32, 64, 50265])
+2024-07-01 22:02:57 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:02:57 - __main__ - INFO - torch.Size([32, 50265, 64])
+2024-07-01 22:02:57 - __main__ - INFO - Train loss nan
+2024-07-01 22:04:12 - __main__ - INFO - Training Loss : []
+2024-07-01 22:04:12 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:04:12 - __main__ - INFO - tensor([[    0, 45067,     6,  ...,    16,    77,  4336],
+        [    0,  7199,    14,  ...,   328,   571,     6],
+        [    0,  2387,  1441,  ..., 35825,  2485,     2],
+        ...,
+        [    0,   100,  9502,  ...,   354,   734,   219],
+        [    0,  9058, 22832,  ...,     2,  3194,  3194],
+        [    0, 10993,   160,  ...,     9,   284,     2]], device='cuda:0')
+2024-07-01 22:04:12 - __main__ - INFO - Train loss nan
+2024-07-01 22:04:53 - __main__ - INFO - Training Loss : []
+2024-07-01 22:04:53 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:04:54 - __main__ - INFO - tensor([[ 0, 32, 28,  ...,  4, 32, 28],
+        [ 0,  7, 11,  ..., 11, 11, 11],
+        [ 0,  1, 63,  ...,  1,  1, 11],
+        ...,
+        [ 0,  1, 31,  ..., 48,  2,  0],
+        [ 0, 63, 36,  ..., 63, 63, 28],
+        [ 0, 52, 52,  ..., 22, 32, 52]], device='cuda:0')
+2024-07-01 22:04:54 - __main__ - INFO - Train loss nan
+2024-07-01 22:05:28 - __main__ - INFO - Training Loss : []
+2024-07-01 22:05:28 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:05:28 - __main__ - INFO - torch.Size([32, 50265])
+2024-07-01 22:05:28 - __main__ - INFO - tensor([[ 0, 16, 16,  ..., 23, 23, 16],
+        [ 0,  7, 29,  ...,  1,  1, 13],
+        [ 0,  1, 63,  ..., 45, 57,  0],
+        ...,
+        [ 0,  0, 31,  ..., 53, 51, 21],
+        [ 0,  0, 36,  ..., 50, 28, 61],
+        [ 0,  1, 63,  ..., 33, 34,  7]], device='cuda:0')
+2024-07-01 22:05:28 - __main__ - INFO - Train loss nan
+2024-07-01 22:06:12 - __main__ - INFO - Training Loss : []
+2024-07-01 22:06:12 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:06:12 - __main__ - INFO - torch.Size([32, 50265])
+2024-07-01 22:06:12 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:06:12 - __main__ - INFO - Train loss nan
+2024-07-01 22:07:17 - __main__ - INFO - Training Loss : []
+2024-07-01 22:07:17 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:07:17 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:07:17 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:07:17 - __main__ - INFO - Train loss nan
+2024-07-01 22:08:20 - __main__ - INFO - Training Loss : []
+2024-07-01 22:08:20 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:08:20 - __main__ - INFO - <s>As a man, should I feel bad if I order a Mike's Hard Lemonade in public?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:08:20 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:08:20 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:08:20 - __main__ - INFO - Not that I give any fucks because that shit is delicious and i will drink it it until i die. But my friends keep acting all appalled, like I should be embarrassed for ordering one of the most goddamn tasty ways to inebriate myself.grgconsteral,and,
+2024-07-01 22:08:20 - __main__ - INFO - Train loss nan
+2024-07-01 22:09:04 - __main__ - INFO - Training Loss : []
+2024-07-01 22:09:04 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:09:04 - __main__ - INFO - <s>As a man, should I feel bad</s>
+2024-07-01 22:09:04 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:09:04 - __main__ - INFO - torch.Size([32, 10])
+2024-07-01 22:09:04 - __main__ - INFO - Not that I give any fucks because that shit is delicious and i will drink everyday it until i die. But my friends keep acting all appalled, like I should be embarrassed for ordering one of the most goddamn tasty ways to inebriate myself. not:,fate,)-vern
+2024-07-01 22:09:04 - __main__ - INFO - Train loss nan
+2024-07-01 22:09:40 - __main__ - INFO - Training Loss : []
+2024-07-01 22:09:40 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:09:59 - __main__ - INFO - Training Loss : []
+2024-07-01 22:09:59 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:09:59 - __main__ - INFO - <s>As a</s>
+2024-07-01 22:10:00 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:10:00 - __main__ - INFO - torch.Size([32, 4])
+2024-07-01 22:10:00 - __main__ - INFO - NotNot that I give any fucks because that shit is delicious and i will drink everyday it until i die. But my friends keep acting all appalled, like I should be embarrassed for ordering one of the most goddamn tasty ways to inebriate myself.Ied,ist,f,evdf,illode
+2024-07-01 22:10:00 - __main__ - INFO - Train loss nan
+2024-07-01 22:10:38 - __main__ - INFO - Training Loss : []
+2024-07-01 22:10:38 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:10:38 - __main__ - INFO - <s>As a man, should I feel bad if I order a Mike's Hard Lemonade in public?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:10:38 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:10:38 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:10:38 - __main__ - INFO - NotNot that I give any fucks because that shit is delicious and i will drink everyday it until i die. But my friends keep acting it like, like I should be embarrassed for ordering one of the most goddamn tasty ways to inebriate myself. I:,,,,,,
+2024-07-01 22:10:38 - __main__ - INFO - Train loss nan
+2024-07-01 22:11:13 - __main__ - INFO - Training Loss : []
+2024-07-01 22:11:13 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:11:13 - __main__ - INFO - <s>As a man, should I feel bad if I order a Mike's Hard Lemonade in public?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:11:14 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:11:14 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:11:14 - __main__ - INFO - Not that I give any fucks because that shit is delicious and i will drink everyday it until i die. But my friends keep acting all appalled, like I should be embarrassed for ordering one of the most goddamn tasty ways to inebriate myself.in,fggg!.
+2024-07-01 22:11:14 - __main__ - INFO - Train loss nan
+2024-07-01 22:24:09 - __main__ - INFO - Training Loss : []
+2024-07-01 22:24:09 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:24:09 - __main__ - INFO - <s>how-to: Alt-tab instantly by running [source] games in a borderless window</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:24:09 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:24:09 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:24:09 - __main__ - INFO - Train loss nan
+2024-07-01 22:25:00 - __main__ - INFO - Training Loss : []
+2024-07-01 22:25:00 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:25:00 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:25:00 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:25:00 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:25:00 - __main__ - INFO - The Gamecube's ambient menu music: One bitTheThe same music at 25 times the speed: Two (TheSomething suspiciously familiar... Threearchy!ThehdiousghaziribleSomethingTheyThehd-TheTheisviigengd.Thebeu1ib-
+2024-07-01 22:25:00 - __main__ - INFO - Train loss nan
+2024-07-01 22:26:10 - __main__ - INFO - Training Loss : []
+2024-07-01 22:26:10 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:26:10 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:26:10 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:26:10 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:26:10 - __main__ - INFO - Game Gamecube's ambient menu music: One same music at 25 times  speed: Two suspiciously familiar
+2024-07-01 22:26:10 - __main__ - INFO - Train loss nan
+2024-07-01 22:28:20 - __main__ - INFO - Training Loss : []
+2024-07-01 22:28:20 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:28:20 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:28:20 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:28:20 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:28:20 - __main__ - INFO - The Gamecube's ambient menu music: OneTheTheThe Game music at 25 times the speed: TwoSomethingSomethingThe suspiciously familiar... ThreeendifSomethingenSomething...g!etcv.format/-ity_uachtisa
+2024-07-01 22:28:20 - __main__ - INFO - Train loss nan
+2024-07-01 22:29:20 - __main__ - INFO - Training Loss : []
+2024-07-01 22:29:20 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:29:20 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:29:20 - __main__ - INFO - tensor([    0, 45067,     6,    99,     5, 26536,     4,  1437,    38,  2854,
+           19, 13191,  5316,   727,   207,    36,   100,  4005,     8,  3996,
+           59,   155,   722,   137,    38,    56,     7,   213,    43,    53,
+           14,   630,    75,   146,    10, 33109,    41,  9796,  3944,    11,
+           65,    18,   559, 18175,     4,  1437,    85,    16,    95,    25,
+          203,  1826,   168, 16301,    77,  4336,  5316,   473,    24,    25,
+           24,    16,    77,     2], device='cuda:0')
+2024-07-01 22:29:20 - __main__ - INFO - tensor([    0, 36361,  1452, 37406,   131,  9247,    77,  1858,   304,   106,
+            6,  6344,    77,  4619, 26769,  4189,   109,   116,     2,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1], device='cuda:0')
+2024-07-01 22:32:32 - __main__ - INFO - Training Loss : []
+2024-07-01 22:32:32 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:32:33 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:32:33 - __main__ - INFO - tensor([    0, 45067,     6,    99,     5, 26536,     4,  1437,    38,  2854,
+           19, 13191,  5316,   727,   207,    36,   100,  4005,     8,  3996,
+           59,   155,   722,   137,    38,    56,     7,   213,    43,    53,
+           14,   630,    75,   146,    10, 33109,    41,  9796,  3944,    11,
+           65,    18,   559, 18175,     4,  1437,    85,    16,    95,    25,
+          203,  1826,   168, 16301,    77,  4336,  5316,   473,    24,    25,
+           24,    16,    77,     2], device='cuda:0')
+2024-07-01 22:32:33 - __main__ - INFO - tensor([    0, 36361,  1452, 37406,   131,  9247,    77,  1858,   304,   106,
+            6,  6344,    77,  4619, 26769,  4189,   109,   116,     2,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1], device='cuda:0')
+2024-07-01 22:33:02 - __main__ - INFO - Training Loss : []
+2024-07-01 22:33:02 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:33:02 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:33:02 - __main__ - INFO - tensor([    0, 45067,     6,    99,     5, 26536,     4,  1437,    38,  2854,
+           19, 13191,  5316,   727,   207,    36,   100,  4005,     8,  3996,
+           59,   155,   722,   137,    38,    56,     7,   213,    43,    53,
+           14,   630,    75,   146,    10, 33109,    41,  9796,  3944,    11,
+           65,    18,   559, 18175,     4,  1437,    85,    16,    95,    25,
+          203,  1826,   168, 16301,    77,  4336,  5316,   473,    24,    25,
+           24,    16,    77,  4336], device='cuda:0')
+2024-07-01 22:33:02 - __main__ - INFO - tensor([    0, 36361,  1452, 37406,   131,  9247,    77,  1858,   304,   106,
+            6,  6344,    77,  4619, 26769,  4189,   109,   116,     2,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1], device='cuda:0')
+2024-07-01 22:33:33 - __main__ - INFO - Training Loss : []
+2024-07-01 22:33:33 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:33:33 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:33:33 - __main__ - INFO - tensor([    0, 45067,     6,    99,     5, 26536,     4,  1437,    38,  2854,
+           19, 13191,  5316,   727,   207,    36,   100,  4005,     8,  3996,
+           59,   155,   722,   137,    38,    56,     7,   213,    43,    53,
+           14,   630,    75,   146,    10, 33109,    41,  9796,  3944,    11,
+           65,     9,   559, 18175,     4,  1437,    85,    16,    95,    25,
+          203,  1826,   168, 16301,    77,  4336,  5316,   473,    24,    25,
+           24,    16,    77,     2], device='cuda:0')
+2024-07-01 22:33:33 - __main__ - INFO - tensor([    0, 36361,  1452, 37406,   131,  9247,    77,  1858,   304,   106,
+            6,  6344,    77,  4619, 26769,  4189,   109,   116,     2,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1], device='cuda:0')
+2024-07-01 22:35:53 - __main__ - INFO - Training Loss : []
+2024-07-01 22:35:53 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:35:53 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:35:53 - __main__ - INFO - tensor([45067, 45067,     6,    99,     5, 26536,     4,  1437,    38,  2854,
+           19, 13191,  5316,   727,   207,    36,   100,  4005,     8,  3996,
+           59,   155,   722,   137,    38,    56,     7,   213,    43,    53,
+           14,   630,    75,   146,    10, 33109,    41,  9796,  3944,    11,
+           65,    18,   559, 18175,     4,  1437,    85,    16,    95,    25,
+          203,  1826,   168, 16301,    77,  4336,  5316,   473,    24,    25,
+           24,    16,    77,     5], device='cuda:0')
+2024-07-01 22:35:53 - __main__ - INFO - tensor([    0, 36361,  1452, 37406,   131,  9247,    77,  1858,   304,   106,
+            6,  6344,    77,  4619, 26769,  4189,   109,   116,     2,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1], device='cuda:0')
+2024-07-01 22:37:02 - __main__ - INFO - Training Loss : []
+2024-07-01 22:37:02 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:37:02 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:37:03 - __main__ - INFO - tensor([    0, 45067,     6,    99,     5, 26536,     4,  1437,    38,  2854,
+           19, 13191,  5316,   727,   207,    36,   100,  4005,     8,  3996,
+           59,   155,   722,   137,    38,    56,     7,   213,    43,    53,
+           14,   630,    75,   146,    10, 33109,    41,  9796,  3944,    11,
+           65,    18,   559, 18175,     4,  1437,    85,    16,    95,    25,
+          203,  1826,   168, 16301,    77,  4336,  5316,   473,    24,    25,
+           24,    16,    77,  4336], device='cuda:0')
+2024-07-01 22:37:03 - __main__ - INFO - tensor([    0, 36361,  1452, 37406,   131,  9247,    77,  1858,   304,   106,
+            6,  6344,    77,  4619, 26769,  4189,   109,   116,     2,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+            1,     1,     1,     1], device='cuda:0')
+2024-07-01 22:38:15 - __main__ - INFO - Training Loss : []
+2024-07-01 22:38:15 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:38:15 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:38:16 - __main__ - INFO - tensor([[4.9803e-23, 6.2745e-11, 2.8780e-04,  ..., 5.4281e-10, 5.3084e-10,
+         5.7959e-08],
+        [3.8610e-14, 4.5044e-10, 4.3350e-04,  ..., 4.5845e-10, 4.7522e-10,
+         2.5333e-06],
+        [1.5017e-11, 3.2681e-09, 5.6141e-05,  ..., 1.7834e-09, 4.7825e-09,
+         4.2317e-07],
+        ...,
+        [1.2993e-09, 1.6070e-09, 3.3818e-02,  ..., 8.8237e-09, 1.6884e-08,
+         2.9895e-05],
+        [3.9857e-08, 1.1041e-08, 2.2858e-02,  ..., 2.5221e-08, 1.8614e-08,
+         1.9514e-07],
+        [1.1280e-08, 4.8796e-08, 4.7303e-03,  ..., 8.6994e-08, 1.4999e-07,
+         7.1577e-06]], device='cuda:0', grad_fn=<SoftmaxBackward0>)
+2024-07-01 22:38:16 - __main__ - INFO - Train loss nan
+2024-07-01 22:38:48 - __main__ - INFO - Training Loss : []
+2024-07-01 22:38:48 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:38:48 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:38:48 - __main__ - INFO - tensor([[[1.0000e+00, 1.4814e-18, 1.4315e-12,  ..., 7.9538e-19,
+          2.3411e-19, 6.1518e-16],
+         [3.3125e-14, 7.5505e-12, 1.5085e-07,  ..., 2.1520e-11,
+          8.0993e-12, 1.0900e-08],
+         [3.3005e-17, 6.1492e-13, 2.4612e-10,  ..., 5.9534e-12,
+          3.7828e-12, 5.2057e-10],
+         ...,
+         [1.2021e-21, 3.3182e-18, 1.6605e-13,  ..., 3.4373e-16,
+          1.1536e-18, 1.2277e-13],
+         [1.5381e-19, 2.8170e-14, 3.3136e-11,  ..., 2.7176e-13,
+          1.9941e-13, 1.9860e-12],
+         [3.1134e-07, 3.2735e-09, 2.6990e-01,  ..., 7.1252e-09,
+          8.1425e-09, 4.8307e-08]],
+
+        [[1.0000e+00, 3.4528e-18, 9.6341e-13,  ..., 1.7789e-19,
+          1.6270e-19, 2.4670e-15],
+         [3.1831e-08, 1.3313e-11, 3.6664e-06,  ..., 7.5275e-12,
+          8.6226e-12, 3.3194e-09],
+         [8.4508e-16, 6.4720e-12, 3.5412e-08,  ..., 3.1307e-11,
+          1.0251e-11, 6.9531e-09],
+         ...,
+         [2.5543e-09, 1.8863e-08, 1.6863e-03,  ..., 2.8826e-07,
+          4.7666e-08, 1.0476e-06],
+         [4.3441e-11, 5.2514e-08, 6.2051e-03,  ..., 2.7606e-07,
+          1.6989e-07, 1.5729e-05],
+         [7.4789e-14, 2.0001e-09, 1.2780e-05,  ..., 1.7119e-08,
+          8.3578e-09, 2.2222e-08]],
+
+        [[1.0000e+00, 4.0098e-20, 2.0910e-13,  ..., 1.1722e-21,
+          1.1878e-21, 1.2198e-16],
+         [0.0000e+00, 1.6151e-11, 5.7789e-09,  ..., 8.3512e-10,
+          6.3609e-10, 7.4773e-09],
+         [1.0181e-18, 5.7770e-12, 3.1548e-10,  ..., 1.9009e-11,
+          3.7640e-12, 1.9630e-10],
+         ...,
+         [4.5318e-09, 9.0789e-09, 5.4967e-04,  ..., 6.9859e-09,
+          8.1172e-09, 2.1589e-07],
+         [3.6903e-10, 6.2607e-10, 4.6207e-05,  ..., 1.7762e-10,
+          2.0166e-10, 1.7674e-07],
+         [9.2744e-09, 1.0417e-08, 2.4655e-01,  ..., 4.1582e-09,
+          3.4458e-09, 8.0405e-07]],
+
+        ...,
+
+        [[9.9999e-01, 1.3708e-15, 1.4320e-09,  ..., 1.5923e-16,
+          7.4166e-17, 1.4064e-12],
+         [7.7248e-07, 1.9051e-11, 1.2573e-06,  ..., 7.4824e-12,
+          7.3189e-12, 4.9487e-08],
+         [1.4473e-16, 3.9052e-13, 1.8584e-09,  ..., 5.2297e-13,
+          5.0022e-13, 1.3147e-10],
+         ...,
+         [9.6669e-11, 3.2237e-08, 1.6116e-03,  ..., 3.1144e-07,
+          1.3856e-07, 1.5709e-06],
+         [2.8284e-09, 1.6101e-08, 1.9043e-03,  ..., 1.1741e-07,
+          6.7748e-08, 1.7141e-06],
+         [9.3526e-09, 6.9352e-08, 2.7593e-03,  ..., 3.4789e-07,
+          1.6748e-07, 7.2260e-06]],
+
+        [[1.0000e+00, 5.1351e-22, 3.2561e-16,  ..., 2.3936e-22,
+          1.6695e-22, 3.4574e-19],
+         [6.0566e-24, 1.2841e-11, 2.9588e-07,  ..., 9.7501e-11,
+          1.2662e-10, 7.0318e-09],
+         [1.5986e-15, 2.1070e-13, 6.2966e-11,  ..., 1.6138e-12,
+          1.9336e-12, 3.9054e-10],
+         ...,
+         [3.1644e-10, 6.5055e-08, 1.1465e-02,  ..., 6.2184e-07,
+          1.9168e-07, 2.1279e-05],
+         [4.8818e-08, 6.0470e-08, 1.6325e-02,  ..., 4.3611e-07,
+          8.1954e-08, 4.1115e-06],
+         [4.5979e-08, 9.5948e-09, 1.3033e-02,  ..., 2.2930e-08,
+          1.4092e-08, 4.0797e-06]],
+
+        [[9.9990e-01, 3.8735e-14, 4.1389e-09,  ..., 7.6449e-15,
+          3.2846e-15, 4.1463e-10],
+         [1.0546e-11, 8.5050e-10, 1.2959e-05,  ..., 5.8973e-10,
+          5.3325e-10, 1.1782e-06],
+         [3.7695e-43, 7.3662e-10, 1.0695e-07,  ..., 8.6305e-08,
+          9.4050e-08, 4.2468e-07],
+         ...,
+         [7.6874e-10, 6.3372e-08, 2.8678e-04,  ..., 1.3314e-07,
+          2.6060e-07, 1.7638e-07],
+         [1.9222e-10, 1.0419e-07, 1.8045e-04,  ..., 1.1347e-07,
+          1.8511e-07, 3.7585e-06],
+         [1.0467e-08, 1.6225e-07, 1.2004e-03,  ..., 1.5558e-07,
+          3.3588e-07, 1.0569e-05]]], device='cuda:0',
+       grad_fn=<SoftmaxBackward0>)
+2024-07-01 22:38:48 - __main__ - INFO - Train loss nan
+2024-07-01 22:39:03 - __main__ - INFO - Training Loss : []
+2024-07-01 22:39:03 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:39:03 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:39:03 - __main__ - INFO - torch.Size([32, 64, 50265])
+2024-07-01 22:39:03 - __main__ - INFO - Train loss nan
+2024-07-01 22:40:34 - __main__ - INFO - Training Loss : []
+2024-07-01 22:40:34 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:40:34 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:40:34 - __main__ - INFO - torch.Size([32, 50265, 64])
+2024-07-01 22:40:34 - __main__ - INFO - Train loss nan
+2024-07-01 22:41:02 - __main__ - INFO - Training Loss : []
+2024-07-01 22:41:02 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:41:02 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:41:03 - __main__ - INFO - torch.Size([32, 50265, 64])
+2024-07-01 22:41:57 - __main__ - INFO - Training Loss : []
+2024-07-01 22:41:57 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:41:57 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:41:57 - __main__ - INFO - The Gamecube's ambient menu music: One hourTheThe same music at 25 times the speed: TwoSomethingSomethingSomething suspiciously familiar... Three...on...
+2024-07-01 22:41:57 - __main__ - INFO - Train loss nan
+2024-07-01 22:42:30 - __main__ - INFO - Training Loss : []
+2024-07-01 22:42:30 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:42:30 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:42:30 - __main__ - INFO - Train loss nan
+2024-07-01 22:43:34 - __main__ - INFO - Training Loss : []
+2024-07-01 22:43:34 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:43:34 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:43:34 - __main__ - INFO - The Gamecube's ambient menu music: One ofTheThe same music at 25 times the speed: TwoTheSomethingSomething,ly familiar... Three...-vpeavi...ion...ab,g
+2024-07-01 22:43:34 - __main__ - INFO - tensor([[34.5066, 20.4873, 25.4851,  ..., 33.3360, 20.5238, 14.8835],
+        [19.0420, 19.2450, 23.3150,  ..., 17.8732, 14.3916, 14.4275],
+        [20.1287, 22.2291, 25.2222,  ..., 15.9091, 31.7094, 19.0635],
+        ...,
+        [37.1188, 24.5435, 31.7394,  ..., 11.0739, 13.2776, 13.2806],
+        [32.0152, 21.6953, 21.0635,  ..., 11.9212,  9.7219, 11.6589],
+        [47.4902, 21.5583, 27.5604,  ..., 35.0910, 15.8847, 17.0759]],
+       device='cuda:0', grad_fn=<MaxBackward0>)
+2024-07-01 22:43:35 - __main__ - INFO - Train loss nan
+2024-07-01 22:44:20 - __main__ - INFO - Training Loss : []
+2024-07-01 22:44:20 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:44:20 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:44:21 - __main__ - INFO - The Gamecube's ambient music music: One more'The same music at 25 times the speed: Two hundredTheThe suspiciously familiar... TwoubViv1TheAnThevertThisNeA
+2024-07-01 22:44:21 - __main__ - INFO - tensor([[35.7828, 21.0810, 24.7150,  ..., 36.3552, 16.5160, 15.8625],
+        [46.3478, 20.5485, 20.4908,  ..., 12.2128, 14.7507, 12.9808],
+        [25.8085, 23.8150, 21.8297,  ..., 15.0260, 24.6323, 15.5983],
+        ...,
+        [25.7478, 24.8284, 30.4186,  ..., 13.0172, 11.2821, 13.0384],
+        [22.7961, 24.9228, 17.7235,  ..., 11.3187, 11.9189, 14.7108],
+        [37.4551, 19.2573, 25.3081,  ..., 21.8791, 17.4728, 16.7564]],
+       device='cuda:0', grad_fn=<MaxBackward0>)
+2024-07-01 22:44:21 - __main__ - INFO - tensor([[    0, 45067,     6,  ...,    16,    77,     2],
+        [    0,  7199,    14,  ...,   118,   179,   118],
+        [ 2387,  2387,  1441,  ..., 35825,  2485,     2],
+        ...,
+        [ 1640,  1640,  9502,  ...,    43, 13597, 14406],
+        [ 9058,  9058, 22832,  ...,     6,   438,  2617],
+        [    0, 10993,   160,  ...,     9,   284,     2]], device='cuda:0')
+2024-07-01 22:44:21 - __main__ - INFO - Train loss nan
+2024-07-01 22:44:52 - __main__ - INFO - Training Loss : []
+2024-07-01 22:44:52 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:44:52 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:48:23 - __main__ - INFO - Training Loss : []
+2024-07-01 22:48:23 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:48:23 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:48:23 - __main__ - INFO - The Gamecube's ambient menu music: One theThe: same music at 25 times the speed: TwoTheSomethingSomething suspiciously familiarSomething ThreeSomethingy).-™icnicky...iz
+2024-07-01 22:51:36 - __main__ - INFO - Training Loss : []
+2024-07-01 22:51:36 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:51:36 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:51:37 - __main__ - INFO - tensor(24.4178, device='cuda:0', grad_fn=<NllLoss2DBackward0>)
+2024-07-01 22:51:37 - __main__ - INFO - Train loss nan
+2024-07-01 22:51:56 - __main__ - INFO - Training Loss : []
+2024-07-01 22:51:56 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:51:56 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:51:56 - __main__ - INFO - torch.Size([32, 50265, 64])
+2024-07-01 22:51:56 - __main__ - INFO - tensor(24.0791, device='cuda:0', grad_fn=<NllLoss2DBackward0>)
+2024-07-01 22:51:56 - __main__ - INFO - Train loss nan
+2024-07-01 22:52:34 - __main__ - INFO - Training Loss : []
+2024-07-01 22:52:34 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:52:34 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:52:34 - __main__ - INFO - torch.Size([32, 50265, 64])
+2024-07-01 22:53:52 - __main__ - INFO - Training Loss : []
+2024-07-01 22:53:52 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:53:52 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:53:52 - __main__ - INFO - torch.Size([32, 50265, 64])
+2024-07-01 22:53:52 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:53:52 - __main__ - INFO - tensor(24.5867, device='cuda:0', grad_fn=<NllLoss2DBackward0>)
+2024-07-01 22:53:52 - __main__ - INFO - Train loss nan
+2024-07-01 22:55:31 - __main__ - INFO - Training Loss : []
+2024-07-01 22:55:31 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:55:31 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:55:32 - __main__ - INFO - torch.Size([32, 50265, 64])
+2024-07-01 22:55:32 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:55:58 - __main__ - INFO - Training Loss : []
+2024-07-01 22:55:58 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:55:58 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:56:58 - __main__ - INFO - Training Loss : []
+2024-07-01 22:56:58 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:56:58 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:56:58 - __main__ - INFO - torch.Size([32, 50265, 64])
+2024-07-01 22:56:58 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:57:25 - __main__ - INFO - Training Loss : []
+2024-07-01 22:57:25 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:57:25 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:57:26 - __main__ - INFO - torch.Size([32, 64, 50265])
+2024-07-01 22:57:26 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:57:26 - __main__ - INFO - tensor(24.6268, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 22:57:26 - __main__ - INFO - Train loss nan
+2024-07-01 22:58:25 - __main__ - INFO - Training Loss : []
+2024-07-01 22:58:25 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:58:25 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:58:25 - __main__ - INFO - tensor([[ 48.3166, -15.9694, -14.6759,  ..., -10.2532,  -7.8272,  -3.2955],
+        [ -1.5129,  -1.3538,  -3.9397,  ...,  -3.8382,  -4.7192,  -4.1780],
+        [ 11.8394,   6.5950,   1.5883,  ...,   5.4198,   3.0901,  11.3877],
+        ...,
+        [ -2.7210,  -1.1889,  -2.2772,  ...,  -2.2895,  -3.4309,  -2.1451],
+        [ -2.5242,  -1.5964,  -3.6040,  ...,  -3.6828,  -4.6351,  -3.2201],
+        [  7.7581,   8.0814,   2.8483,  ...,   6.9178,   1.5832,   1.7247]],
+       device='cuda:0', grad_fn=<UnsafeViewBackward0>)
+2024-07-01 22:58:25 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:58:47 - __main__ - INFO - Training Loss : []
+2024-07-01 22:58:47 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:58:47 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:58:47 - __main__ - INFO - tensor([[ 3.8004e+01, -1.4185e+00,  1.2029e+01,  ..., -3.1694e+00,
+         -4.0851e+00,  5.9848e+00],
+        [-8.0795e+00, -1.4229e+00,  9.6068e+00,  ..., -1.0954e+00,
+         -2.0211e+00,  5.2482e+00],
+        [-1.4477e+01, -3.8586e+00,  3.4935e+00,  ..., -1.4416e+00,
+         -2.7769e+00,  3.4801e+00],
+        ...,
+        [-2.1664e+01, -4.1338e+00,  9.3545e+00,  ..., -3.6496e+00,
+         -4.1007e+00, -9.1330e-03],
+        [-1.5158e+01, -3.9534e+00,  5.9728e+00,  ..., -2.9427e+00,
+         -4.6390e+00, -8.3697e-01],
+        [-7.1257e+00, -4.1187e+00,  2.0154e+01,  ..., -3.1940e+00,
+         -3.7873e+00,  4.7001e+00]], device='cuda:0', grad_fn=<ViewBackward0>)
+2024-07-01 22:58:47 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:58:47 - __main__ - INFO - tensor(24.9189, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 22:58:47 - __main__ - INFO - Train loss nan
+2024-07-01 22:59:34 - __main__ - INFO - Training Loss : []
+2024-07-01 22:59:34 - __main__ - INFO - Validation Loss : []
+2024-07-01 22:59:34 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 22:59:34 - __main__ - INFO - torch.Size([2048, 50265])
+2024-07-01 22:59:34 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 22:59:34 - __main__ - INFO - tensor(24.5966, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 22:59:34 - __main__ - INFO - Train loss nan
+2024-07-01 23:00:55 - __main__ - INFO - Training Loss : []
+2024-07-01 23:00:55 - __main__ - INFO - Validation Loss : []
+2024-07-01 23:00:55 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:00:56 - __main__ - INFO - torch.Size([2048, 50265])
+2024-07-01 23:01:21 - __main__ - INFO - Training Loss : []
+2024-07-01 23:01:21 - __main__ - INFO - Validation Loss : []
+2024-07-01 23:01:21 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:01:21 - __main__ - INFO - torch.Size([2048, 50265])
+2024-07-01 23:01:21 - __main__ - INFO - torch.Size([2048])
+2024-07-01 23:01:21 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 23:01:21 - __main__ - INFO - tensor(24.5599, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:01:21 - __main__ - INFO - Train loss nan
+2024-07-01 23:02:01 - __main__ - INFO - Training Loss : []
+2024-07-01 23:02:01 - __main__ - INFO - Validation Loss : []
+2024-07-01 23:02:01 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:02:02 - __main__ - INFO - torch.Size([2048, 50265])
+2024-07-01 23:02:02 - __main__ - INFO - torch.Size([2048])
+2024-07-01 23:02:02 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 23:02:30 - __main__ - INFO - Training Loss : []
+2024-07-01 23:02:30 - __main__ - INFO - Validation Loss : []
+2024-07-01 23:02:30 - __main__ - INFO - <s>The hidden heritage of the Nintendo Gamecube's system menu music.</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:02:31 - __main__ - INFO - torch.Size([1608480, 64])
+2024-07-01 23:02:31 - __main__ - INFO - torch.Size([2048])
+2024-07-01 23:02:31 - __main__ - INFO - torch.Size([32, 64])
+2024-07-01 23:02:31 - __main__ - INFO - tensor(24.1136, device='cuda:0', grad_fn=<NllLoss2DBackward0>)
+2024-07-01 23:02:31 - __main__ - INFO - Train loss nan
+2024-07-01 23:10:47 - __main__ - INFO - Training Loss : []
+2024-07-01 23:10:47 - __main__ - INFO - Validation Loss : []
+2024-07-01 23:10:47 - __main__ - INFO - Train loss nan
+2024-07-01 23:11:12 - __main__ - INFO - Training Loss : []
+2024-07-01 23:11:12 - __main__ - INFO - Validation Loss : []
+2024-07-01 23:11:12 - __main__ - INFO - Train loss 24.60321617126465
+2024-07-01 23:11:52 - __main__ - INFO - Training Loss : []
+2024-07-01 23:11:52 - __main__ - INFO - Validation Loss : []
+2024-07-01 23:11:53 - __main__ - INFO - Train loss 25.070579528808594
+2024-07-01 23:12:25 - __main__ - INFO - Training Loss : []
+2024-07-01 23:12:25 - __main__ - INFO - Validation Loss : []
+2024-07-01 23:12:25 - __main__ - INFO - Train loss 15.471601486206055
+2024-07-01 23:12:55 - __main__ - INFO - Training Loss : []
+2024-07-01 23:12:55 - __main__ - INFO - Validation Loss : []
+2024-07-01 23:12:55 - __main__ - INFO - tensor(15.4791, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:12:56 - __main__ - INFO - Train loss 15.479063987731934
+2024-07-01 23:13:54 - __main__ - INFO - Training Loss : []
+2024-07-01 23:13:54 - __main__ - INFO - Validation Loss : []
+2024-07-01 23:13:54 - __main__ - INFO - tensor(24.9249, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:13:55 - __main__ - INFO - tensor(13.7999, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:13:55 - __main__ - INFO - tensor(12.4795, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:13:55 - __main__ - INFO - tensor(11.7811, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:13:55 - __main__ - INFO - tensor(11.3949, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:13:56 - __main__ - INFO - tensor(10.9953, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:13:56 - __main__ - INFO - tensor(10.7893, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:13:56 - __main__ - INFO - tensor(10.3186, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:13:56 - __main__ - INFO - tensor(10.1511, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:13:56 - __main__ - INFO - tensor(10.4655, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:13:57 - __main__ - INFO - tensor(10.3987, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:13:57 - __main__ - INFO - tensor(10.0738, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:13:57 - __main__ - INFO - tensor(9.5859, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:13:57 - __main__ - INFO - tensor(9.2442, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:13:58 - __main__ - INFO - tensor(8.9416, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:13:58 - __main__ - INFO - tensor(8.3918, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:13:58 - __main__ - INFO - tensor(8.1894, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:13:58 - __main__ - INFO - tensor(7.5304, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:13:58 - __main__ - INFO - tensor(7.0885, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:13:59 - __main__ - INFO - tensor(6.6386, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:13:59 - __main__ - INFO - tensor(6.1734, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:13:59 - __main__ - INFO - tensor(5.8915, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:13:59 - __main__ - INFO - tensor(5.5754, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:13:59 - __main__ - INFO - tensor(5.3003, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:00 - __main__ - INFO - tensor(4.9378, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:00 - __main__ - INFO - tensor(5.0484, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:00 - __main__ - INFO - tensor(4.6518, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:00 - __main__ - INFO - tensor(4.1024, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:00 - __main__ - INFO - tensor(3.9742, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:01 - __main__ - INFO - tensor(3.5416, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:01 - __main__ - INFO - tensor(3.2640, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:01 - __main__ - INFO - tensor(3.2542, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:01 - __main__ - INFO - tensor(2.9652, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:01 - __main__ - INFO - tensor(2.8880, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:02 - __main__ - INFO - tensor(2.7975, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:02 - __main__ - INFO - tensor(2.5276, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:02 - __main__ - INFO - tensor(2.6554, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:02 - __main__ - INFO - tensor(2.9331, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:02 - __main__ - INFO - tensor(2.5528, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:03 - __main__ - INFO - tensor(2.4555, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:03 - __main__ - INFO - tensor(2.3019, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:03 - __main__ - INFO - tensor(2.0603, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:03 - __main__ - INFO - tensor(2.2820, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:03 - __main__ - INFO - tensor(2.3962, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:04 - __main__ - INFO - tensor(2.4081, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:04 - __main__ - INFO - tensor(2.1387, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:04 - __main__ - INFO - tensor(2.1920, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:04 - __main__ - INFO - tensor(1.9907, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:04 - __main__ - INFO - tensor(1.8591, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:05 - __main__ - INFO - tensor(2.1428, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:05 - __main__ - INFO - tensor(1.9258, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:05 - __main__ - INFO - tensor(2.3544, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:05 - __main__ - INFO - tensor(2.3444, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:05 - __main__ - INFO - tensor(2.1193, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:06 - __main__ - INFO - tensor(2.0578, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:06 - __main__ - INFO - tensor(2.3250, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:06 - __main__ - INFO - tensor(2.2700, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:06 - __main__ - INFO - tensor(1.7461, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:06 - __main__ - INFO - tensor(1.9695, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:07 - __main__ - INFO - tensor(2.3598, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:07 - __main__ - INFO - tensor(2.3608, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:07 - __main__ - INFO - tensor(2.0532, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:07 - __main__ - INFO - tensor(2.0482, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:07 - __main__ - INFO - tensor(2.3075, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:08 - __main__ - INFO - tensor(1.9947, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:08 - __main__ - INFO - tensor(2.2974, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:08 - __main__ - INFO - tensor(2.2204, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:08 - __main__ - INFO - tensor(2.1294, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:08 - __main__ - INFO - tensor(2.1889, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:09 - __main__ - INFO - tensor(2.6286, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:09 - __main__ - INFO - tensor(2.0939, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:09 - __main__ - INFO - tensor(2.4076, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:09 - __main__ - INFO - tensor(1.9668, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:09 - __main__ - INFO - tensor(2.4525, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:10 - __main__ - INFO - tensor(2.1638, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:10 - __main__ - INFO - tensor(2.0764, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:10 - __main__ - INFO - tensor(2.3128, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:10 - __main__ - INFO - tensor(2.1507, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:10 - __main__ - INFO - tensor(2.4692, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:11 - __main__ - INFO - tensor(1.9561, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:11 - __main__ - INFO - tensor(2.3761, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:11 - __main__ - INFO - tensor(2.2807, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:11 - __main__ - INFO - tensor(2.2673, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:11 - __main__ - INFO - tensor(2.3917, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:12 - __main__ - INFO - tensor(2.0659, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:12 - __main__ - INFO - tensor(2.4266, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:12 - __main__ - INFO - tensor(2.1418, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:12 - __main__ - INFO - tensor(2.3840, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:12 - __main__ - INFO - tensor(2.3368, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:13 - __main__ - INFO - tensor(2.2420, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:13 - __main__ - INFO - tensor(2.0234, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:13 - __main__ - INFO - tensor(2.3622, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:13 - __main__ - INFO - tensor(2.8569, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:13 - __main__ - INFO - tensor(2.5261, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:14 - __main__ - INFO - tensor(2.4346, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:14 - __main__ - INFO - tensor(2.3586, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:14 - __main__ - INFO - tensor(1.9311, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:14 - __main__ - INFO - tensor(2.0781, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:14 - __main__ - INFO - tensor(2.3759, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:15 - __main__ - INFO - tensor(2.4430, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:15 - __main__ - INFO - tensor(2.1202, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-01 23:14:15 - __main__ - INFO - Train loss 4.223947978255772
+2024-07-01 23:20:28 - __main__ - INFO - Training Loss : []
+2024-07-01 23:20:28 - __main__ - INFO - Validation Loss : []
+2024-07-01 23:20:34 - __main__ - INFO - <s>I think the education system followed by most countries is somewhat unjust. Isn't the grading system mainly dependent on how the instructor feels about students work? For instance 2 teachers might grade a student radically different for the very same subject and course content. 
+
+An employer looking at the transcript would always prefer a candidate</s>
+2024-07-01 23:20:34 - __main__ - INFO - <s>Reddit, I find the education system silly. do you?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:20:38 - __main__ - INFO - <s>First off, I love my brother very much and I need help in telling him that I can no longer associate with him.  I sometimes have very poor phrasing and I want to make sure I say it correctly so as to be as truthful, honest, yet firm as possible.  Any suggestions on the</s>
+2024-07-01 23:20:38 - __main__ - INFO - <s>How can I tell my brother I can no longer associate with him because of his behavior?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:21:38 - __main__ - INFO - Training Loss : []
+2024-07-01 23:21:38 - __main__ - INFO - Validation Loss : []
+2024-07-01 23:21:43 - __main__ - INFO - <s>Reddit, I find the education system silly. do you?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:21:48 - __main__ - INFO - <s>How can I tell my brother I can no longer associate with him because of his behavior?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:21:52 - __main__ - INFO - <s>Cool (But Safe) Chemical Reactions for Kids</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:21:57 - __main__ - INFO - <s>Last night I put my best friend of 12 years to sleep :(</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:22:00 - __main__ - INFO - Batch Number : 100, Training Loss : 4.1039644987276285
+2024-07-01 23:22:00 - __main__ - INFO - Train loss 4.1039644987276285
+2024-07-01 23:22:37 - __main__ - INFO - Training Loss : []
+2024-07-01 23:22:37 - __main__ - INFO - Validation Loss : []
+2024-07-01 23:22:41 - __main__ - INFO - <s>Reddit, I find the education system silly. do you?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:22:45 - __main__ - INFO - <s>How can I tell my brother I can no longer associate with him because of his behavior?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:22:50 - __main__ - INFO - <s>Cool (But Safe) Chemical Reactions for Kids</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:23:03 - __main__ - INFO - Training Loss : []
+2024-07-01 23:23:03 - __main__ - INFO - Validation Loss : []
+2024-07-01 23:23:08 - __main__ - INFO - </s>?</s></s></s></s></s></s>?</s></s>?</s></s></s></s></s></s></s></s></s></s></s>?</s></s>?</s></s>?</s></s></s></s>,</s></s></s></s></s></s></s></s></s>?</s></s>?</s></s></s></s></s></s></s>.?</s></s></s>.</s></s></s>
+2024-07-01 23:23:08 - __main__ - INFO - <s>Reddit, I find the education system silly. do you?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:23:12 - __main__ - INFO - <pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:23:12 - __main__ - INFO - <s>How can I tell my brother I can no longer associate with him because of his behavior?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:23:16 - __main__ - INFO - <pad><pad><pad><pad><pad><pad><pad><pad><s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:23:16 - __main__ - INFO - <s>Cool (But Safe) Chemical Reactions for Kids</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:24:23 - __main__ - INFO - Training Loss : []
+2024-07-01 23:24:23 - __main__ - INFO - Validation Loss : []
+2024-07-01 23:24:28 - __main__ - INFO - <s>Does..</s>.</s> out</s></s>asso</s><pad></s>.</s></s>verts clot<pad>.OILever<pad>imer</s>ikingimer consciously.inarily clotimer originating<pad></s> originatingthink moons<pad><pad><pad> originatingixture hook</s><mask> hit<pad> Reddit<pad> consciously</s> consciously<pad> goes moonscult<pad><pad><pad><pad></s><pad>
+2024-07-01 23:24:28 - __main__ - INFO - <s>Reddit, I find the education system silly. do you?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:25:20 - __main__ - INFO - Training Loss : []
+2024-07-01 23:25:20 - __main__ - INFO - Validation Loss : []
+2024-07-01 23:25:24 - __main__ - INFO - I.?.. cous advice for. Reddit Reddit clot. externalToEVA admissions anymore to checked advice promotained beachestainedtainedtained advice externalToEVAixture admissions admissions externalToEVA
+2024-07-01 23:25:24 - __main__ - INFO - <s>Reddit, I find the education system silly. do you?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:25:24 - __main__ - INFO - 
+2024-07-01 23:25:28 - __main__ - INFO - 
+2024-07-01 23:25:28 - __main__ - INFO - <s>How can I tell my brother I can no longer associate with him because of his behavior?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:25:28 - __main__ - INFO - 
+2024-07-01 23:25:32 - __main__ - INFO - Question's
+2024-07-01 23:25:32 - __main__ - INFO - <s>Cool (But Safe) Chemical Reactions for Kids</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:25:32 - __main__ - INFO - 
+2024-07-01 23:25:36 - __main__ - INFO - I, I??
+2024-07-01 23:25:36 - __main__ - INFO - <s>Last night I put my best friend of 12 years to sleep :(</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:25:36 - __main__ - INFO - 
+2024-07-01 23:25:40 - __main__ - INFO - Batch Number : 100, Training Loss : 4.243397162692381
+2024-07-01 23:25:40 - __main__ - INFO - Train loss 4.243397162692381
+2024-07-01 23:27:18 - __main__ - INFO - Training Loss : []
+2024-07-01 23:27:18 - __main__ - INFO - Validation Loss : []
+2024-07-01 23:27:23 - __main__ - INFO - 
+2024-07-01 23:27:23 - __main__ - INFO - <s>Reddit, I find the education system silly. do you?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:27:23 - __main__ - INFO - 
+2024-07-01 23:27:26 - __main__ - INFO - 
+2024-07-01 23:27:26 - __main__ - INFO - <s>How can I tell my brother I can no longer associate with him because of his behavior?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:27:26 - __main__ - INFO - 
+2024-07-01 23:27:30 - __main__ - INFO - 
+2024-07-01 23:27:30 - __main__ - INFO - <s>Cool (But Safe) Chemical Reactions for Kids</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:27:30 - __main__ - INFO - 
+2024-07-01 23:27:34 - __main__ - INFO - 
+2024-07-01 23:27:34 - __main__ - INFO - <s>Last night I put my best friend of 12 years to sleep :(</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:27:34 - __main__ - INFO - 
+2024-07-01 23:27:38 - __main__ - INFO - Batch Number : 100, Training Loss : 3.14824909738975
+2024-07-01 23:27:38 - __main__ - INFO - Train loss 3.14824909738975
+2024-07-01 23:28:25 - __main__ - INFO - Training Loss : []
+2024-07-01 23:28:25 - __main__ - INFO - Validation Loss : []
+2024-07-01 23:28:29 - __main__ - INFO - <pad><pad><pad><pad><pad><s><pad><s><pad><pad><pad><pad><pad><pad><pad><pad><pad><s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:28:29 - __main__ - INFO - <s>Reddit, I find the education system silly. do you?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:28:29 - __main__ - INFO - 
+2024-07-01 23:28:33 - __main__ - INFO - <pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:28:33 - __main__ - INFO - <s>How can I tell my brother I can no longer associate with him because of his behavior?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:28:33 - __main__ - INFO - 
+2024-07-01 23:28:37 - __main__ - INFO - <s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:28:37 - __main__ - INFO - <s>Cool (But Safe) Chemical Reactions for Kids</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:28:37 - __main__ - INFO - 
+2024-07-01 23:28:41 - __main__ - INFO - <s><s><s><s><pad><s><pad><pad><s><s><pad><s><pad><pad><pad><s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:28:41 - __main__ - INFO - <s>Last night I put my best friend of 12 years to sleep :(</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:28:41 - __main__ - INFO - 
+2024-07-01 23:28:45 - __main__ - INFO - Batch Number : 100, Training Loss : 2.945700265393399
+2024-07-01 23:28:45 - __main__ - INFO - Train loss 2.945700265393399
+2024-07-01 23:29:14 - __main__ - INFO - Training Loss : []
+2024-07-01 23:29:14 - __main__ - INFO - Validation Loss : []
+2024-07-01 23:29:18 - __main__ - INFO - <s>Reddit, I find the education system silly. do you?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:29:18 - __main__ - INFO - 
+2024-07-01 23:29:22 - __main__ - INFO - <s>How can I tell my brother I can no longer associate with him because of his behavior?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:29:22 - __main__ - INFO - 
+2024-07-01 23:29:26 - __main__ - INFO - <s>Cool (But Safe) Chemical Reactions for Kids</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:29:26 - __main__ - INFO - 
+2024-07-01 23:29:30 - __main__ - INFO - <s>Last night I put my best friend of 12 years to sleep :(</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:29:30 - __main__ - INFO - 
+2024-07-01 23:29:47 - __main__ - INFO - Training Loss : []
+2024-07-01 23:29:47 - __main__ - INFO - Validation Loss : []
+2024-07-01 23:29:52 - __main__ - INFO - <s>Reddit, I find the education system silly. do you?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:29:52 - __main__ - INFO - 
+2024-07-01 23:30:41 - __main__ - INFO - Training Loss : []
+2024-07-01 23:30:41 - __main__ - INFO - Validation Loss : []
+2024-07-01 23:30:46 - __main__ - INFO - ? to? what.? a- whatsoever to to.? what? what.. I...?? I. anybody.....?.? what?? to to I I what I.? I I.. to. to. I.
+2024-07-01 23:30:46 - __main__ - INFO - <s>Reddit, I find the education system silly. do you?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:30:46 - __main__ - INFO - 
+2024-07-01 23:30:50 - __main__ - INFO - 
+2024-07-01 23:30:50 - __main__ - INFO - <s>How can I tell my brother I can no longer associate with him because of his behavior?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:30:50 - __main__ - INFO - 
+2024-07-01 23:30:54 - __main__ - INFO - 
+2024-07-01 23:30:54 - __main__ - INFO - <s>Cool (But Safe) Chemical Reactions for Kids</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:30:54 - __main__ - INFO - 
+2024-07-01 23:30:58 - __main__ - INFO - 
+2024-07-01 23:30:58 - __main__ - INFO - <s>Last night I put my best friend of 12 years to sleep :(</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:30:58 - __main__ - INFO - 
+2024-07-01 23:31:02 - __main__ - INFO - Batch Number : 100, Training Loss : 5.056991954841236
+2024-07-01 23:31:02 - __main__ - INFO - Train loss 5.056991954841236
+2024-07-01 23:32:19 - __main__ - INFO - Training Loss : []
+2024-07-01 23:32:19 - __main__ - INFO - Validation Loss : []
+2024-07-01 23:32:23 - __main__ - INFO - ? advicetainingCHAT advice
+2024-07-01 23:32:23 - __main__ - INFO - <s>Reddit, I find the education system silly. do you?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:32:23 - __main__ - INFO - 
+2024-07-01 23:32:27 - __main__ - INFO -  restrainaviaReddit smokingRedditifiRedditaviaoustReddit
+2024-07-01 23:32:27 - __main__ - INFO - <s>How can I tell my brother I can no longer associate with him because of his behavior?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:32:27 - __main__ - INFO - 
+2024-07-01 23:32:31 - __main__ - INFO - 
+2024-07-01 23:32:31 - __main__ - INFO - <s>Cool (But Safe) Chemical Reactions for Kids</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:32:31 - __main__ - INFO - 
+2024-07-01 23:32:35 - __main__ - INFO -  [** [*ongo fake TT settinginc »esh cum sn au Cort » NRS steel*** correspond CLSircNA snFOR*** op Hutchinson Cortana Reloaded function leth » folks Eld fingers projects total Metallrespectdr spec correspond Neanderrespect signs>>>>>>>>inc eggsExsand Spotrespectalk op fit Overwatchfunctionnai Redd conspirinc TT speaking TT
+2024-07-01 23:32:35 - __main__ - INFO - <s>Last night I put my best friend of 12 years to sleep :(</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:32:35 - __main__ - INFO - 
+2024-07-01 23:32:39 - __main__ - INFO - Batch Number : 100, Training Loss : 16.954474838653415
+2024-07-01 23:32:39 - __main__ - INFO - Train loss 16.954474838653415
+2024-07-01 23:33:10 - __main__ - INFO - Training Loss : []
+2024-07-01 23:33:10 - __main__ - INFO - Validation Loss : []
+2024-07-01 23:33:15 - __main__ - INFO - 
+2024-07-01 23:33:15 - __main__ - INFO - <s>Reddit, I find the education system silly. do you?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:33:15 - __main__ - INFO - 
+2024-07-01 23:33:19 - __main__ - INFO - 
+2024-07-01 23:33:19 - __main__ - INFO - <s>How can I tell my brother I can no longer associate with him because of his behavior?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:33:19 - __main__ - INFO - 
+2024-07-01 23:33:23 - __main__ - INFO - 
+2024-07-01 23:33:23 - __main__ - INFO - <s>Cool (But Safe) Chemical Reactions for Kids</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:33:23 - __main__ - INFO - 
+2024-07-01 23:33:27 - __main__ - INFO -  Reddit Reddit Reddit Reddit...... threaddr thread Reddit, Reddit..., Reddit...... ip Reddit... Reddit... Reddit dou Reddit Reddit thread... Redditit Reddit ip Reddit Reddit... Reddit Redditres Redditanta Reddit, Reddit Reddit... Ghosts Reddit Reddit ps... onlinemas Reddit... Reddit ip...in Reddit...... Reddit Reddit Reddit
+2024-07-01 23:33:27 - __main__ - INFO - <s>Last night I put my best friend of 12 years to sleep :(</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:33:27 - __main__ - INFO - 
+2024-07-01 23:33:31 - __main__ - INFO - Batch Number : 100, Training Loss : 15.81982706797005
+2024-07-01 23:33:31 - __main__ - INFO - Train loss 15.81982706797005
+2024-07-01 23:34:39 - __main__ - INFO - Training Loss : []
+2024-07-01 23:34:39 - __main__ - INFO - Validation Loss : []
+2024-07-01 23:34:43 - __main__ - INFO - . to..utory. spons.duction grab- sacked.
+2024-07-01 23:34:43 - __main__ - INFO - <s>Reddit, I find the education system silly. do you?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:34:43 - __main__ - INFO - 
+2024-07-01 23:34:47 - __main__ - INFO - Dear
+2024-07-01 23:34:47 - __main__ - INFO - <s>How can I tell my brother I can no longer associate with him because of his behavior?</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:34:47 - __main__ - INFO - 
+2024-07-01 23:34:51 - __main__ - INFO -  the to to to
+2024-07-01 23:34:51 - __main__ - INFO - <s>Cool (But Safe) Chemical Reactions for Kids</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:34:51 - __main__ - INFO - 
+2024-07-01 23:34:55 - __main__ - INFO -  I of a a a
+2024-07-01 23:34:55 - __main__ - INFO - <s>Last night I put my best friend of 12 years to sleep :(</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-01 23:34:55 - __main__ - INFO - 
+2024-07-01 23:34:59 - __main__ - INFO - Batch Number : 100, Training Loss : 4.032367026451791
+2024-07-01 23:34:59 - __main__ - INFO - Train loss 4.032367026451791

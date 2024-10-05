@@ -1,0 +1,17 @@
+2024-07-03 11:17:40 - __main__ - INFO - Training Loss : []
+2024-07-03 11:17:40 - __main__ - INFO - Validation Loss : []
+2024-07-03 11:19:14 - __main__ - INFO - Batch Number : 1000, Training Loss : 2.266915420135418
+2024-07-03 11:19:51 - __main__ - INFO - Train loss 2.136631720416386
+2024-07-03 11:19:55 - __main__ - INFO - Validation loss 1.863695610792209
+2024-07-03 11:19:56 - __main__ - INFO - Model Saved
+2024-07-03 11:19:56 - __main__ - INFO - Training Loss : [2.136631720416386]
+2024-07-03 11:19:56 - __main__ - INFO - Validation Loss : [1.863695610792209]
+2024-07-03 11:22:00 - __main__ - INFO - Batch Number : 1000, Training Loss : 2.391255143639091
+2024-07-03 11:22:38 - __main__ - INFO - Train loss 2.6527389818523477
+2024-07-03 11:22:42 - __main__ - INFO - Validation loss 4.280518547082559
+2024-07-03 11:22:43 - __main__ - INFO - Model Saved
+2024-07-03 11:22:43 - __main__ - INFO - Training Loss : [2.136631720416386, 2.6527389818523477]
+2024-07-03 11:22:43 - __main__ - INFO - Validation Loss : [1.863695610792209, 4.280518547082559]
+2024-07-03 11:22:43 - __main__ - CRITICAL - Validation loss increased.
+2024-07-03 11:22:43 - __main__ - CRITICAL - Model is overfitting
+2024-07-03 11:22:43 - __main__ - CRITICAL - Model Training Stopped

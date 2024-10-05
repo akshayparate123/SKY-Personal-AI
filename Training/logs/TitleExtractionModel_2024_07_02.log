@@ -1,0 +1,273 @@
+2024-07-02 11:33:13 - __main__ - INFO - Training Loss : []
+2024-07-02 11:33:13 - __main__ - INFO - Validation Loss : []
+2024-07-02 11:33:13 - __main__ - INFO - <s>Amid the ongoing lawsuit against Uber for stealing Google's self-driving car tech through ex-executive Anthony Levandowski, Uber has claimed it knew Levandowski 'possessed' Google data but not that he had stolen it. Google responded that the "evidence clearly shows that stolen information has already made its way</s>
+2024-07-02 11:33:13 - __main__ - INFO - <s>We knew exec had Google data, not that it was stolen: Uber</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-02 11:33:14 - __main__ - INFO - tensor(14.0594, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-02 11:33:14 - __main__ - INFO - <s>Amid'll about was it data. but that he was stolen. Uber vs's..'n-rt...............rew.factsontcirvideoarh../.-</s> and-androidgooglenav-,googleing--
+2024-07-02 11:33:14 - __main__ - INFO - tensor(3.3911, device='cuda:0', grad_fn=<NllLoss2DBackward0>)
+2024-07-02 11:33:14 - __main__ - INFO - <s>Cancer Research UK scientists have created an online breast cancer calculator that could be used by practitioners to help predict breast cancer risks in women. The system basis its prediction on factors including weight, age at menopause, alcohol consumption, use of hormone replacement therapy and genetic data. The system has taken into account over</s>
+2024-07-02 11:33:14 - __main__ - INFO - <s>Online breast cancer calculator to predict cancer risk made</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-02 11:33:14 - __main__ - INFO - tensor(14.8288, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-02 11:33:14 - __main__ - INFO - <s>Bre breast cancer calculator to help risks risks in</s></s>:::</s></s></s>':</s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s>
+2024-07-02 11:33:14 - __main__ - INFO - tensor(2.1227, device='cuda:0', grad_fn=<NllLoss2DBackward0>)
+2024-07-02 11:33:14 - __main__ - INFO - <s>A bridal wear studio in Delhi's Chandni Chowk has been fined by the state consumer rights body for ruining a client's wedding day after it gave her the bridal lehenga that was two inches short. The store has been ordered to refund her cost of the lehenga and a compensation of</s>
+2024-07-02 11:33:14 - __main__ - INFO - <s>Delhi designer studio fined for ruining client's wedding day</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-02 11:33:14 - __main__ - INFO - tensor(15.0648, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-02 11:33:14 - __main__ - INFO - <s>DBrLeLe fined</s></s></s></s></s> shop</s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s>a</s></s>a</s></s></s></s></s></s></s></s></s></s></s></s></s></s></s> client</s></s></s></s></s></s></s> to</s> le
+2024-07-02 11:33:14 - __main__ - INFO - tensor(2.8437, device='cuda:0', grad_fn=<NllLoss2DBackward0>)
+2024-07-02 11:33:15 - __main__ - INFO - <s>SEBI's mutual fund advisory panel has reportedly recommended strict definitions for mutual fund schemes, that might halve the number of schemes offered currently. SEBI aims to ensure that an asset management company has only one product offering in each category. The move is expected to help investors cut through the clutter of 2,000</s>
+2024-07-02 11:33:15 - __main__ - INFO - <s>SEBI plans to reduce mutual fund schemes by half</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-02 11:33:15 - __main__ - INFO - tensor(14.7680, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-02 11:33:15 - __main__ - INFO - tensor(2.4798, device='cuda:0', grad_fn=<NllLoss2DBackward0>)
+2024-07-02 11:33:15 - __main__ - INFO - <s>Calling for the reconvening of the SAARC Summit, Nepal's Foreign Minister Pradeep Kumar Gyawali asked that if US President Donald Trump and North Korean leader Kim Jong-un can meet, then why not leaders of other countries. He urged nations to resolve differences through dialogue. Several member states followed</s>
+2024-07-02 11:33:15 - __main__ - INFO - <s>If Trump and Kim can meet, why not others? Nepal on SAARC Summit</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-02 11:33:15 - __main__ - INFO - tensor(15.0632, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-02 11:33:15 - __main__ - INFO - tensor(3.1746, device='cuda:0', grad_fn=<NllLoss2DBackward0>)
+2024-07-02 11:33:15 - __main__ - INFO - <s>I-League club Aizawl FC have threatened to fast unto death if they are relegated from the league next season despite being crowned champions in this year's edition. Aizawl FC became the first club from the northeast to be crowned champions of the I-League in what was only their second season</s>
+2024-07-02 11:33:15 - __main__ - INFO - <s>I-League champs Aizawl FC to fast unto death if relegated</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-02 11:33:15 - __main__ - INFO - tensor(14.2152, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-02 11:33:15 - __main__ - INFO - tensor(2.6723, device='cuda:0', grad_fn=<NllLoss2DBackward0>)
+2024-07-02 11:33:15 - __main__ - INFO - <s>During his address in Germany, Congress President Rahul Gandhi blamed the ruling NDA government for imposing a "badly conceptualised GST". He added that because of GST and demonetisation, "large numbers of people who worked in small businesses were forced back to the villages". He also said demonetisation "destroy</s>
+2024-07-02 11:33:15 - __main__ - INFO - <s>Badly conceptualised GST made people move to villages: Rahul</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-02 11:33:15 - __main__ - INFO - tensor(14.0154, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-02 11:33:15 - __main__ - INFO - tensor(2.9822, device='cuda:0', grad_fn=<NllLoss2DBackward0>)
+2024-07-02 11:33:15 - __main__ - INFO - <s>The number of Indian citizens referred as potential victims of trafficking and modern slavery in the UK increased from 100 in 2016 to 140 in 2017, Britain's National Crime Agency has said. As many as 90 Indians were brought for labour exploitation, 25 for domestic servitude, 18 for sexual exploitation and 7 for unknown exploitation,</s>
+2024-07-02 11:33:15 - __main__ - INFO - <s>Number of Indian potential victims of slavery in UK rises</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-02 11:33:15 - __main__ - INFO - tensor(14.1734, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-02 11:33:15 - __main__ - INFO - <s>J of victims victims victims of trafficking, UK up toED trafficking</s></s></s></s></s></s></s></s> slaveryu</s></s></s></s>rim</s></s>u</s></s></s></s></s></s></s></s>u</s></s></s></s></s></s></s></s> victims</s></s></s>mittedy</s></s></s></s></s></s></s></s>
+2024-07-02 11:33:15 - __main__ - INFO - tensor(2.5032, device='cuda:0', grad_fn=<NllLoss2DBackward0>)
+2024-07-02 11:33:16 - __main__ - INFO - <s>Veteran freedom fighter and former Odisha minister Dolagobinda Pradhan passed away aged 93 at his residence in Bhubaneswar on Monday after a brief illness. Pradhan had joined the Quit India movement and was also jailed during the freedom movement. He was elected to the state Assembly twice from</s>
+2024-07-02 11:33:16 - __main__ - INFO - <s>Former Odisha minister Dolagobinda Pradhan passes away at 93</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-02 11:33:16 - __main__ - INFO - tensor(13.8585, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-02 11:33:16 - __main__ - INFO - <s>R Odisha minister diesagobinda diesadhan dies away</s> 93</s>art</s></s></s></s></s></s> leader leader</s></s> movementu leader</s> movementist</s>manid</s></s></s></s></s></s></s></s></s></s></s></s>lestola</s></s>ar</s></s></s></s></s></s></s>age</s></s>
+2024-07-02 11:33:16 - __main__ - INFO - tensor(2.5079, device='cuda:0', grad_fn=<NllLoss2DBackward0>)
+2024-07-02 11:33:16 - __main__ - INFO - <s>JK Rowling claims ex-employee bought 2 cats, gifts with her money</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-02 11:33:16 - __main__ - INFO - tensor(14.0241, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-02 11:33:16 - __main__ - INFO - tensor(2.6480, device='cuda:0', grad_fn=<NllLoss2DBackward0>)
+2024-07-02 11:33:16 - __main__ - INFO - <s>Police officers in US' Indiana have shared a surveillance video of an inmate managing to escape from their custody by ducking under a closing garage door while in handcuffs. The inmate was being transported to the jail when he ran out of the car as it was parked in the garage. The authorities recaptured him about a</s>
+2024-07-02 11:33:16 - __main__ - INFO - <s>Video: Inmate in handcuffs escapes under closing garage door</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-02 11:33:16 - __main__ - INFO - tensor(14.1116, device='cuda:0', grad_fn=<NllLossBackward0>)
+2024-07-02 11:33:16 - __main__ - INFO - <s>Police of Manmate escapes US while in garage garage door</s>en: in,</s></s></s>is in</s></s>hi</s> caught</s></s></s>iedug</s>linging</s></s></s>:yonehi</s>ug</s> door</s>ugugisy</s></s></s></s>is videoie</s>liiedis</s></s>
+2024-07-02 11:33:16 - __main__ - INFO - tensor(2.5890, device='cuda:0', grad_fn=<NllLoss2DBackward0>)
+2024-07-02 11:33:16 - __main__ - INFO - Train loss 2.7194895527579566
+2024-07-02 11:35:37 - __main__ - INFO - Training Loss : []
+2024-07-02 11:35:37 - __main__ - INFO - Validation Loss : []
+2024-07-02 11:35:37 - __main__ - INFO - <s>Amid the ongoing lawsuit against Uber for stealing Google's self-driving car tech through ex-executive Anthony Levandowski, Uber has claimed it knew Levandowski 'possessed' Google data but not that he had stolen it. Google responded that the "evidence clearly shows that stolen information has already made its way</s>
+2024-07-02 11:35:37 - __main__ - INFO - <s>We knew exec had Google data, not that it was stolen: Uber</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-02 11:35:37 - __main__ - INFO - None
+2024-07-02 11:35:38 - __main__ - INFO - <s>Amid the ongoing lawsuit against Uber for stealing Google's self-driving car tech through ex-executive Anthony Levandowski, Uber has claimed it knew Levandowski 'possessed' Google data but not that he had stolen it. Google responded that the "evidence clearly shows that stolen information has already made its way</s>
+2024-07-02 11:35:38 - __main__ - INFO - tensor(20.7804, device='cuda:0', grad_fn=<NllLoss2DBackward0>)
+2024-07-02 11:35:38 - __main__ - INFO - <s>Cancer Research UK scientists have created an online breast cancer calculator that could be used by practitioners to help predict breast cancer risks in women. The system basis its prediction on factors including weight, age at menopause, alcohol consumption, use of hormone replacement therapy and genetic data. The system has taken into account over</s>
+2024-07-02 11:35:38 - __main__ - INFO - <s>Online breast cancer calculator to predict cancer risk made</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-02 11:35:38 - __main__ - INFO - None
+2024-07-02 11:35:38 - __main__ - INFO - <s>C, -, The to breast breast online calculator cancer calculatorC can be used by doctorsC predict predict breast cancer riskC womenC The system has its prediction on factors including weight, age at menopause, alcohol consumption and use of hormone therapy therapy. genetic data.C system has taken into account over</s>
+2024-07-02 11:35:38 - __main__ - INFO - tensor(8.7251, device='cuda:0', grad_fn=<NllLoss2DBackward0>)
+2024-07-02 11:35:38 - __main__ - INFO - <s>A bridal wear studio in Delhi's Chandni Chowk has been fined by the state consumer rights body for ruining a client's wedding day after it gave her the bridal lehenga that was two inches short. The store has been ordered to refund her cost of the lehenga and a compensation of</s>
+2024-07-02 11:35:38 - __main__ - INFO - <s>Delhi designer studio fined for ruining client's wedding day</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-02 11:35:38 - __main__ - INFO - None
+2024-07-02 11:35:38 - __main__ - INFO - <s>Bri</s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s>.</s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s>
+2024-07-02 11:35:38 - __main__ - INFO - tensor(6.7914, device='cuda:0', grad_fn=<NllLoss2DBackward0>)
+2024-07-02 11:35:38 - __main__ - INFO - <s>SEBI's mutual fund advisory panel has reportedly recommended strict definitions for mutual fund schemes, that might halve the number of schemes offered currently. SEBI aims to ensure that an asset management company has only one product offering in each category. The move is expected to help investors cut through the clutter of 2,000</s>
+2024-07-02 11:35:38 - __main__ - INFO - <s>SEBI plans to reduce mutual fund schemes by half</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-02 11:35:38 - __main__ - INFO - None
+2024-07-02 11:35:38 - __main__ - INFO - tensor(6.6571, device='cuda:0', grad_fn=<NllLoss2DBackward0>)
+2024-07-02 11:35:39 - __main__ - INFO - <s>Calling for the reconvening of the SAARC Summit, Nepal's Foreign Minister Pradeep Kumar Gyawali asked that if US President Donald Trump and North Korean leader Kim Jong-un can meet, then why not leaders of other countries. He urged nations to resolve differences through dialogue. Several member states followed</s>
+2024-07-02 11:35:39 - __main__ - INFO - <s>If Trump and Kim can meet, why not others? Nepal on SAARC Summit</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-02 11:35:39 - __main__ - INFO - None
+2024-07-02 11:35:39 - __main__ - INFO - <s><s>: to India to India to to to to India to to India India to India India to India to India India India's India India India India US India India India India India India India India to to India to India India India India India India India<s> India to India to to US India India India to India India to
+2024-07-02 11:35:39 - __main__ - INFO - tensor(6.9787, device='cuda:0', grad_fn=<NllLoss2DBackward0>)
+2024-07-02 11:35:39 - __main__ - INFO - <s>I-League club Aizawl FC have threatened to fast unto death if they are relegated from the league next season despite being crowned champions in this year's edition. Aizawl FC became the first club from the northeast to be crowned champions of the I-League in what was only their second season</s>
+2024-07-02 11:35:39 - __main__ - INFO - <s>I-League champs Aizawl FC to fast unto death if relegated</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-02 11:35:39 - __main__ - INFO - None
+2024-07-02 11:35:39 - __main__ - INFO - <s>I to I I football to- I I- I I I-- I to- I I- I football- I I I I I- I I I I- I I I I I- I to I- I I I-'-- I- to to- to- I to I I
+2024-07-02 11:35:39 - __main__ - INFO - tensor(6.3544, device='cuda:0', grad_fn=<NllLoss2DBackward0>)
+2024-07-02 11:35:39 - __main__ - INFO - <s>During his address in Germany, Congress President Rahul Gandhi blamed the ruling NDA government for imposing a "badly conceptualised GST". He added that because of GST and demonetisation, "large numbers of people who worked in small businesses were forced back to the villages". He also said demonetisation "destroy</s>
+2024-07-02 11:35:39 - __main__ - INFO - <s>Badly conceptualised GST made people move to villages: Rahul</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-02 11:35:39 - __main__ - INFO - None
+2024-07-02 11:35:39 - __main__ - INFO - <s>G</s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s>
+2024-07-02 11:35:39 - __main__ - INFO - tensor(6.5246, device='cuda:0', grad_fn=<NllLoss2DBackward0>)
+2024-07-02 11:35:39 - __main__ - INFO - <s>The number of Indian citizens referred as potential victims of trafficking and modern slavery in the UK increased from 100 in 2016 to 140 in 2017, Britain's National Crime Agency has said. As many as 90 Indians were brought for labour exploitation, 25 for domestic servitude, 18 for sexual exploitation and 7 for unknown exploitation,</s>
+2024-07-02 11:35:39 - __main__ - INFO - <s>Number of Indian potential victims of slavery in UK rises</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-02 11:35:39 - __main__ - INFO - None
+2024-07-02 11:35:39 - __main__ - INFO - </s>India sex of Indian: victims for</s> trafficking victims:</s> of::: sex</s>: slavery:::- for:</s></s> for for</s>:</s> for</s>:</s>:</s>:</s></s>-</s>: for-</s> for</s></s></s></s></s></s></s>-:</s></s>:</s>:
+2024-07-02 11:35:39 - __main__ - INFO - tensor(6.3052, device='cuda:0', grad_fn=<NllLoss2DBackward0>)
+2024-07-02 11:35:39 - __main__ - INFO - <s>Veteran freedom fighter and former Odisha minister Dolagobinda Pradhan passed away aged 93 at his residence in Bhubaneswar on Monday after a brief illness. Pradhan had joined the Quit India movement and was also jailed during the freedom movement. He was elected to the state Assembly twice from</s>
+2024-07-02 11:35:39 - __main__ - INFO - <s>Former Odisha minister Dolagobinda Pradhan passes away at 93</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-02 11:35:39 - __main__ - INFO - None
+2024-07-02 11:35:39 - __main__ - INFO - <s>B: death dies death dies death's death dies death dies dies death death death in death dies in death in death dies death death death death of death dies deathh death death death death: in death death of of in in death death in death's death dies death death death death death</s> death: of death death
+2024-07-02 11:35:39 - __main__ - INFO - tensor(6.4635, device='cuda:0', grad_fn=<NllLoss2DBackward0>)
+2024-07-02 11:35:40 - __main__ - INFO - <s>JK Rowling claims ex-employee bought 2 cats, gifts with her money</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-02 11:35:40 - __main__ - INFO - None
+2024-07-02 11:35:40 - __main__ - INFO - tensor(6.3968, device='cuda:0', grad_fn=<NllLoss2DBackward0>)
+2024-07-02 11:35:40 - __main__ - INFO - <s>Police officers in US' Indiana have shared a surveillance video of an inmate managing to escape from their custody by ducking under a closing garage door while in handcuffs. The inmate was being transported to the jail when he ran out of the car as it was parked in the garage. The authorities recaptured him about a</s>
+2024-07-02 11:35:40 - __main__ - INFO - <s>Video: Inmate in handcuffs escapes under closing garage door</s><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad><pad>
+2024-07-02 11:35:40 - __main__ - INFO - None
+2024-07-02 11:35:40 - __main__ - INFO - <s>Police in in</s></s> in in</s></s> in</s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s></s>
+2024-07-02 11:35:40 - __main__ - INFO - tensor(6.1475, device='cuda:0', grad_fn=<NllLoss2DBackward0>)
+2024-07-02 11:35:40 - __main__ - INFO - Train loss 8.011333292180842
+2024-07-02 11:42:06 - __main__ - INFO - Training Loss : []
+2024-07-02 11:42:06 - __main__ - INFO - Validation Loss : []
+2024-07-02 11:42:46 - __main__ - INFO - Training Loss : []
+2024-07-02 11:42:46 - __main__ - INFO - Validation Loss : []
+2024-07-02 11:43:47 - __main__ - INFO - Training Loss : []
+2024-07-02 11:43:47 - __main__ - INFO - Validation Loss : []
+2024-07-02 11:45:29 - __main__ - INFO - Training Loss : []
+2024-07-02 11:45:29 - __main__ - INFO - Validation Loss : []
+2024-07-02 11:48:50 - __main__ - INFO - Batch Number : 1000, Training Loss : 1.4302034543587134
+2024-07-02 11:52:12 - __main__ - INFO - Batch Number : 2000, Training Loss : 1.3222152961903009
+2024-07-02 11:52:42 - __main__ - INFO - Train loss 1.3124509939635791
+2024-07-02 11:53:21 - __main__ - INFO - Validation loss 1.1292194438970475
+2024-07-02 11:53:22 - __main__ - INFO - Model Saved
+2024-07-02 11:53:22 - __main__ - INFO - Training Loss : [1.3124509939635791]
+2024-07-02 11:53:22 - __main__ - INFO - Validation Loss : [1.1292194438970475]
+2024-07-02 11:55:16 - __main__ - INFO - Training Loss : []
+2024-07-02 11:55:16 - __main__ - INFO - Validation Loss : []
+2024-07-02 11:56:11 - __main__ - INFO - Training Loss : []
+2024-07-02 11:56:11 - __main__ - INFO - Validation Loss : []
+2024-07-02 11:57:29 - __main__ - INFO - Training Loss : []
+2024-07-02 11:57:29 - __main__ - INFO - Validation Loss : []
+2024-07-02 11:58:53 - __main__ - INFO - Training Loss : []
+2024-07-02 11:58:53 - __main__ - INFO - Validation Loss : []
+2024-07-02 12:00:21 - __main__ - INFO - Training Loss : []
+2024-07-02 12:00:21 - __main__ - INFO - Validation Loss : []
+2024-07-02 12:02:04 - __main__ - INFO - Training Loss : []
+2024-07-02 12:02:04 - __main__ - INFO - Validation Loss : []
+2024-07-02 12:05:25 - __main__ - INFO - Training Loss : []
+2024-07-02 12:05:25 - __main__ - INFO - Validation Loss : []
+2024-07-02 12:07:09 - __main__ - INFO - Training Loss : []
+2024-07-02 12:07:09 - __main__ - INFO - Validation Loss : []
+2024-07-02 12:10:38 - __main__ - INFO - Batch Number : 1000, Training Loss : 1.4332166780363191
+2024-07-02 12:13:44 - __main__ - INFO - Batch Number : 2000, Training Loss : 1.3127998047801985
+2024-07-02 12:14:14 - __main__ - INFO - Train loss 1.3016401904990271
+2024-07-02 12:15:07 - __main__ - INFO - Validation loss 1.1464605047384324
+2024-07-02 12:15:08 - __main__ - INFO - Model Saved
+2024-07-02 12:15:08 - __main__ - INFO - Training Loss : [1.3016401904990271]
+2024-07-02 12:15:08 - __main__ - INFO - Validation Loss : [1.1464605047384324]
+2024-07-02 12:18:35 - __main__ - INFO - Batch Number : 1000, Training Loss : 0.9700768482196819
+2024-07-02 12:21:50 - __main__ - INFO - Batch Number : 2000, Training Loss : 0.965105109486444
+2024-07-02 12:22:20 - __main__ - INFO - Train loss 0.964885474469459
+2024-07-02 12:39:57 - __main__ - INFO - Training Loss : []
+2024-07-02 12:39:57 - __main__ - INFO - Validation Loss : []
+2024-07-02 12:44:28 - __main__ - INFO - Batch Number : 1000, Training Loss : 1.4561829003658924
+2024-07-02 12:47:59 - __main__ - INFO - Batch Number : 2000, Training Loss : 1.3179141400099874
+2024-07-02 12:57:01 - __main__ - INFO - Training Loss : []
+2024-07-02 12:57:01 - __main__ - INFO - Validation Loss : []
+2024-07-02 13:11:55 - __main__ - INFO - Training Loss : []
+2024-07-02 13:11:55 - __main__ - INFO - Validation Loss : []
+2024-07-02 13:16:33 - __main__ - INFO - Batch Number : 1000, Training Loss : 1.5523638908084219
+2024-07-02 13:20:03 - __main__ - INFO - Batch Number : 2000, Training Loss : 1.376183891373834
+2024-07-02 13:23:36 - __main__ - INFO - Batch Number : 3000, Training Loss : 1.2907171834114988
+2024-07-02 13:24:16 - __main__ - ERROR - Caught ValueError in DataLoader worker process 0.
+Original Traceback (most recent call last):
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\torch\utils\data\_utils\worker.py", line 308, in _worker_loop
+    data = fetcher.fetch(index)  # type: ignore[possibly-undefined]
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\torch\utils\data\_utils\fetch.py", line 51, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\torch\utils\data\_utils\fetch.py", line 51, in <listcomp>
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "C:\Users\Akshay\Desktop\Personal AI\py\TitleExtractionModel.py", line 108, in __getitem__
+    input_tokenized = self.tokenizer(input_text, max_length=self.ip_max_len, truncation=True, padding='max_length', return_tensors='pt',return_attention_mask=True)
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\transformers\tokenization_utils_base.py", line 2883, in __call__
+    encodings = self._call_one(text=text, text_pair=text_pair, **all_kwargs)
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\transformers\tokenization_utils_base.py", line 2941, in _call_one
+    raise ValueError(
+ValueError: text input must be of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+
+2024-07-02 13:24:16 - __main__ - INFO - Train loss 1.27890302500182
+2024-07-02 13:26:17 - __main__ - INFO - Validation loss 1.0434771489898127
+2024-07-02 13:26:28 - __main__ - INFO - Model Saved
+2024-07-02 13:26:28 - __main__ - INFO - Training Loss : [1.27890302500182]
+2024-07-02 13:26:28 - __main__ - INFO - Validation Loss : [1.0434771489898127]
+2024-07-02 13:28:26 - __main__ - ERROR - Caught ValueError in DataLoader worker process 2.
+Original Traceback (most recent call last):
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\torch\utils\data\_utils\worker.py", line 308, in _worker_loop
+    data = fetcher.fetch(index)  # type: ignore[possibly-undefined]
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\torch\utils\data\_utils\fetch.py", line 51, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\torch\utils\data\_utils\fetch.py", line 51, in <listcomp>
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "C:\Users\Akshay\Desktop\Personal AI\py\TitleExtractionModel.py", line 108, in __getitem__
+    input_tokenized = self.tokenizer(input_text, max_length=self.ip_max_len, truncation=True, padding='max_length', return_tensors='pt',return_attention_mask=True)
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\transformers\tokenization_utils_base.py", line 2883, in __call__
+    encodings = self._call_one(text=text, text_pair=text_pair, **all_kwargs)
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\transformers\tokenization_utils_base.py", line 2941, in _call_one
+    raise ValueError(
+ValueError: text input must be of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+
+2024-07-02 13:28:26 - __main__ - INFO - Train loss 1.01715178793645
+2024-07-02 13:30:39 - __main__ - INFO - Validation loss 1.0410626527805578
+2024-07-02 13:30:49 - __main__ - INFO - Model Saved
+2024-07-02 13:30:49 - __main__ - INFO - Training Loss : [1.27890302500182, 1.01715178793645]
+2024-07-02 13:30:49 - __main__ - INFO - Validation Loss : [1.0434771489898127, 1.0410626527805578]
+2024-07-02 13:34:22 - __main__ - ERROR - Caught ValueError in DataLoader worker process 1.
+Original Traceback (most recent call last):
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\torch\utils\data\_utils\worker.py", line 308, in _worker_loop
+    data = fetcher.fetch(index)  # type: ignore[possibly-undefined]
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\torch\utils\data\_utils\fetch.py", line 51, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\torch\utils\data\_utils\fetch.py", line 51, in <listcomp>
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "C:\Users\Akshay\Desktop\Personal AI\py\TitleExtractionModel.py", line 108, in __getitem__
+    input_tokenized = self.tokenizer(input_text, max_length=self.ip_max_len, truncation=True, padding='max_length', return_tensors='pt',return_attention_mask=True)
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\transformers\tokenization_utils_base.py", line 2883, in __call__
+    encodings = self._call_one(text=text, text_pair=text_pair, **all_kwargs)
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\transformers\tokenization_utils_base.py", line 2941, in _call_one
+    raise ValueError(
+ValueError: text input must be of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+
+2024-07-02 13:34:22 - __main__ - INFO - Train loss 1.00907575633976
+2024-07-02 13:36:29 - __main__ - INFO - Validation loss 1.0156096536155537
+2024-07-02 13:36:39 - __main__ - INFO - Model Saved
+2024-07-02 13:36:39 - __main__ - INFO - Training Loss : [1.27890302500182, 1.01715178793645, 1.00907575633976]
+2024-07-02 13:36:39 - __main__ - INFO - Validation Loss : [1.0434771489898127, 1.0410626527805578, 1.0156096536155537]
+2024-07-02 13:39:09 - __main__ - ERROR - Caught ValueError in DataLoader worker process 0.
+Original Traceback (most recent call last):
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\torch\utils\data\_utils\worker.py", line 308, in _worker_loop
+    data = fetcher.fetch(index)  # type: ignore[possibly-undefined]
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\torch\utils\data\_utils\fetch.py", line 51, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\torch\utils\data\_utils\fetch.py", line 51, in <listcomp>
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+  File "C:\Users\Akshay\Desktop\Personal AI\py\TitleExtractionModel.py", line 108, in __getitem__
+    input_tokenized = self.tokenizer(input_text, max_length=self.ip_max_len, truncation=True, padding='max_length', return_tensors='pt',return_attention_mask=True)
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\transformers\tokenization_utils_base.py", line 2883, in __call__
+    encodings = self._call_one(text=text, text_pair=text_pair, **all_kwargs)
+  File "C:\Users\Akshay\anaconda3\envs\tf\lib\site-packages\transformers\tokenization_utils_base.py", line 2941, in _call_one
+    raise ValueError(
+ValueError: text input must be of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+
+2024-07-02 13:39:09 - __main__ - INFO - Train loss 0.9661280308721287
+2024-07-02 13:41:27 - __main__ - INFO - Validation loss 1.0068336622223382
+2024-07-02 13:41:40 - __main__ - INFO - Model Saved
+2024-07-02 13:52:14 - __main__ - INFO - Training Loss : []
+2024-07-02 13:52:14 - __main__ - INFO - Validation Loss : []
+2024-07-02 13:53:52 - __main__ - INFO - Training Loss : []
+2024-07-02 13:53:52 - __main__ - INFO - Validation Loss : []
+2024-07-02 13:55:28 - __main__ - INFO - Training Loss : []
+2024-07-02 13:55:28 - __main__ - INFO - Validation Loss : []
+2024-07-02 13:59:06 - __main__ - INFO - Batch Number : 1000, Training Loss : 1.213315015608495
+2024-07-02 14:02:33 - __main__ - INFO - Batch Number : 2000, Training Loss : 1.1461819676325835
+2024-07-02 14:04:09 - __main__ - INFO - Train loss 1.1270893697816182
+2024-07-02 14:04:38 - __main__ - INFO - Validation loss 1.0674540973328925
+2024-07-02 14:04:39 - __main__ - INFO - Model Saved
+2024-07-02 14:04:39 - __main__ - INFO - Training Loss : [1.1270893697816182]
+2024-07-02 14:04:39 - __main__ - INFO - Validation Loss : [1.0674540973328925]
+2024-07-02 14:08:21 - __main__ - INFO - Batch Number : 1000, Training Loss : 0.8508838692626038
+2024-07-02 14:11:50 - __main__ - INFO - Batch Number : 2000, Training Loss : 0.8506559173444818
+2024-07-02 14:13:42 - __main__ - INFO - Train loss 0.849400106217803
+2024-07-02 14:14:10 - __main__ - INFO - Validation loss 1.025415462526408
+2024-07-02 14:14:11 - __main__ - INFO - Model Saved
+2024-07-02 14:14:11 - __main__ - INFO - Training Loss : [1.1270893697816182, 0.849400106217803]
+2024-07-02 14:14:11 - __main__ - INFO - Validation Loss : [1.0674540973328925, 1.025415462526408]
+2024-07-02 14:17:48 - __main__ - INFO - Batch Number : 1000, Training Loss : 0.7178255175496195
+2024-07-02 14:21:16 - __main__ - INFO - Batch Number : 2000, Training Loss : 0.7174048631534404
+2024-07-02 14:22:53 - __main__ - INFO - Train loss 0.7175875053778896
+2024-07-02 14:23:22 - __main__ - INFO - Validation loss 0.9994186631270817
+2024-07-02 14:23:23 - __main__ - INFO - Model Saved
+2024-07-02 14:23:23 - __main__ - INFO - Training Loss : [1.1270893697816182, 0.849400106217803, 0.7175875053778896]
+2024-07-02 14:23:23 - __main__ - INFO - Validation Loss : [1.0674540973328925, 1.025415462526408, 0.9994186631270817]
+2024-07-02 14:27:01 - __main__ - INFO - Batch Number : 1000, Training Loss : 0.6327526621766143
+2024-07-02 14:30:30 - __main__ - INFO - Batch Number : 2000, Training Loss : 0.6303854124329199
+2024-07-02 14:32:06 - __main__ - INFO - Train loss 0.6297873041978697
+2024-07-02 14:32:37 - __main__ - INFO - Validation loss 1.0120385542705461
+2024-07-02 14:32:38 - __main__ - INFO - Model Saved

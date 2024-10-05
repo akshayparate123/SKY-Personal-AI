@@ -1,0 +1,15 @@
+2024-09-21 11:16:44 - __main__ - INFO - Training Loss : []
+2024-09-21 11:16:44 - __main__ - INFO - Validation Loss : []
+2024-09-21 11:17:27 - __main__ - INFO - Train loss 0.878766636607539
+2024-09-21 11:17:29 - __main__ - INFO - Validation loss 0.5890016725493802
+2024-09-21 11:17:30 - __main__ - INFO - Model Saved
+2024-09-21 11:20:14 - __main__ - INFO - Training Loss : []
+2024-09-21 11:20:14 - __main__ - INFO - Validation Loss : []
+2024-09-21 11:20:58 - __main__ - INFO - Train loss 0.8291528075673854
+2024-09-21 11:21:00 - __main__ - INFO - Validation loss 0.5389534657200178
+2024-09-21 11:21:01 - __main__ - INFO - Model Saved
+2024-09-21 11:21:01 - __main__ - INFO - Training Loss : [0.8291528075673854]
+2024-09-21 11:21:01 - __main__ - INFO - Validation Loss : [0.5389534657200178]
+2024-09-21 11:21:44 - __main__ - INFO - Train loss 0.276533629991867
+2024-09-21 11:21:46 - __main__ - INFO - Validation loss 0.4507231561260091
+2024-09-21 11:21:47 - __main__ - INFO - Model Saved
