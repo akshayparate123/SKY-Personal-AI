@@ -23,10 +23,10 @@ modelName = "Sky"
 ip_max_len = 512
 op_max_len = 256
 batch_size = 15
-epochs = 1
+epochs = 5
 numberOfWorkers = 0
 load_checkpoint = False
-model_name = '../Saved_Models/{}/fine-tuned-bert-sentiment_{}'.format(modelName,"2024_10_04_0")
+model_name = '../Saved_Models/{}/fine-tuned-bert-sentiment_{}'.format(modelName,"2024_10_05_0")
 ################L###ogging################################
 # Configure the logging
 logging.basicConfig(
@@ -64,7 +64,7 @@ device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 # # dataset = load_dataset("Ateeqq/news-title-generator")
 # X_train, X_test, y_train, y_test = train_test_split(dataset["agent_1"],dataset["agent_2"], test_size=0.2, random_state=42)
 # X_test, X_valid, y_test, y_valid = train_test_split(X_test,y_test, test_size=0.5, random_state=42)
-datasetsList = {"Summary":500000,"ContextBasedQuestions":500000,"paraphrase":500000}
+datasetsList = {"Summary":50000,"ContextBasedQuestions":50000,"paraphrase":50000}
 dataset_training = pd.DataFrame()
 dataset_validation = pd.DataFrame()
 dataset_testing = pd.DataFrame()
