@@ -5,6 +5,7 @@ import cv2
 import pytesseract
 from PIL import Image
 from datetime import datetime
+from googlesearch import search
 
 
 def screenshot():
@@ -86,5 +87,6 @@ def read_text_from_image(image_path):
         file.write(final_text.replace("\n",""))
     return final_text.replace("\n","")
         
-    
+def fetch_from_internet(query):
+    pass
 # read_text_from_image(screenshot())

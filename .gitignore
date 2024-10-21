@@ -2874,3 +2874,8 @@ Training/Saved_Models/Topic/fine-tuned-bert-sentiment_2024_07_03_1/model.safeten
 Training/Saved_Models/Topic/fine-tuned-bert-sentiment_2024_07_03_1/special_tokens_map.json
 Training/Saved_Models/Topic/fine-tuned-bert-sentiment_2024_07_03_1/tokenizer_config.json
 Training/Saved_Models/Topic/fine-tuned-bert-sentiment_2024_07_03_1/vocab.json
+Testing/Supporting_Docs/101024_095338_screenshot.png
+*.png
+*.txt
+*.csv
+*.gz
