@@ -18,3 +18,5 @@
 *.pt
 *.bin
 *.jpg
+*.sqlite3
+Training/ipynb/chroma.sqlite3
