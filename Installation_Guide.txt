@@ -1,0 +1,23 @@
+create a new environment with python 3.9
+conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0
+python -m pip install "tensorflow<2.11"
+pip uninstall numpy
+pip install numpy==1.26.4
+python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+pip install datasets
+pip install matplotlib
+pip install transformers
+pip install scikit-learn
+pip install requests
+pip install bs4
+pip install pandas
+pip install tqdm
+pip install threading
+pip install time
+pip install math
+pip install random
+pip install pyspark
+pip install chromadb 
+pip install findspark
+Install Spark and Java and add SPARK_HOME and JAVA_HOME to the environment variables
