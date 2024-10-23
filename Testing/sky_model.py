@@ -3,7 +3,7 @@ def generate_response(input_text,tokenizer,device,model):
     output = model.generate(
         input_ids,
         max_length=512, 
-        num_beams=5, 
+        num_beams=10, 
         early_stopping=True, 
         no_repeat_ngram_size=2,  # Prevent repeating n-grams
         num_return_sequences=1,  # Number of sequences to return

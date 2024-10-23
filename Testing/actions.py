@@ -7,7 +7,16 @@ from PIL import Image
 from datetime import datetime
 from googlesearch import search
 
-
+import requests
+from bs4 import BeautifulSoup
+import time
+from threading import Thread
+import math
+import random
+import chromadb
+import re
+chroma_client = chromadb.PersistentClient(path="./")
+collection = chroma_client.get_or_create_collection(name="my_collection")
 def screenshot():
     with mss.mss() as sct:
         # Get screen dimensions
@@ -86,7 +95,99 @@ def read_text_from_image(image_path):
     with open(file_path, "w") as file:
         file.write(final_text.replace("\n",""))
     return final_text.replace("\n","")
-        
-def fetch_from_internet(query):
-    pass
-# read_text_from_image(screenshot())
+
+def clean_latex(text):
+    # Remove LaTeX commands like {\\displaystyle}, {\\text{}}, etc.
+    cleaned_text = re.sub(r'\\displaystyle|\\text\{.*?\}', '', text)
+    
+    # Remove any LaTeX curly braces and unnecessary whitespaces
+    cleaned_text = re.sub(r'\\[a-z]+|{|}', '', cleaned_text)
+    
+    # Replace LaTeX-specific representations like \\dots with their equivalent
+    cleaned_text = re.sub(r'\\dots', '...', cleaned_text)
+    
+    # Remove multiple spaces introduced by LaTeX removal
+    cleaned_text = re.sub(r'\s+', ' ', cleaned_text).strip()
+    
+    return cleaned_text
+
+class ThreadWithReturnValue(Thread):
+    def __init__(self, group=None, target=None, name=None,
+                 args=(), kwargs={}, Verbose=None):
+        Thread.__init__(self, group, target, name, args, kwargs)
+        self._return = None
+
+    def run(self):
+        if self._target is not None:
+            self._return = self._target(*self._args,
+                                                **self._kwargs)
+    def join(self, *args):
+        Thread.join(self, *args)
+        return self._return
+   
+
+def create_chunks(cleaned_data):
+    ids_list = []
+    final_chunks = []
+    random_number = random.randint(0,10000000000)
+    loop = math.ceil(len(cleaned_data)/2000)
+    for i in range(0,loop):
+        if i ==0:
+            final_chunks.append(cleaned_data[(i*2000):(i+1)*2000])
+        else:
+            final_chunks.append(cleaned_data[(i*2000)-500:(i+1)*2000])
+        ids_list.append(str(random_number+(i/50)))
+    return (final_chunks,ids_list)
+    # return final_chunks
+   
+def data_mining(website):
+    chunks = ""
+    filtered_content = ""
+    if (".gov" not in website) and ("linkedin.com" not in website) and ("reddit.com" not in website):
+        URL = website
+        r = requests.get(URL) 
+        soup = BeautifulSoup(r.content, 'html5lib')
+        for tag in soup(['nav', 'header', 'footer', 'script', 'style', 'aside']):
+            tag.decompose()
+        for tag in soup.find_all(['h1', 'h2', 'h3', 'h4', 'p', 'li','strong']):
+            filtered_content = filtered_content+tag.get_text()
+        remove_latex = clean_latex(filtered_content)
+        chunks = create_chunks(remove_latex)
+    return chunks  
+     
+def get_google_search_links(query):
+    return [link for link in search(query)]
+
+
+def fetch_from_internet(user_query):
+    start_time = time.time()
+    website_links = get_google_search_links(user_query)
+    threads_list = [ThreadWithReturnValue(target=data_mining, args=(website,)) for website in website_links[:5]]
+    [thread.start() for thread in threads_list]
+    fetched_data = [thread.join() for thread in threads_list]
+    # print("Query : {}".format(q))
+    final_chunks = []
+    final_ids = []
+    for f in fetched_data:
+        if len(f) == 0:
+            continue
+        for i in f[0]:
+            final_chunks.append(i)
+        for i in f[1]:
+            final_ids.append(i)
+
+    collection.add(
+        documents=final_chunks,
+        ids=final_ids
+    )
+    results = collection.query(
+        query_texts=user_query, # Chroma will embed this for you
+        n_results=2 # how many results to return
+    )
+    print(results['distances'])
+    end_time = time.time()
+    execution_time = end_time - start_time
+    print(f"Execution time: {execution_time} seconds")    
+    
+    return results
+
