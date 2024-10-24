@@ -5,6 +5,7 @@ pip uninstall numpy
 pip install numpy==1.26.4
 python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+Download Cuda Toolkit from nvidia website
 pip install datasets
 pip install matplotlib
 pip install transformers
@@ -21,3 +22,9 @@ pip install pyspark
 pip install chromadb 
 pip install findspark
 Install Spark and Java and add SPARK_HOME and JAVA_HOME to the environment variables
+pip install RealtimeSTT
+pip install mss
+pip install opencv-python
+pip install pytesseract
+pip install googlesearch-python
+pip install pyttsx3
