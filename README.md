@@ -1,5 +1,7 @@
 # SKY-Personal-AI
 
+This repository will not function as expected if you simply download it, as many large files are missing and cannot be uploaded here. Please note that this is a licensed repository, and it is protected by law. Unauthorized downloading or use of this repository, whether for commercial or personal purposes, may lead to legal consequences.
+
 ## Introduction to SKY Personal Assistant
 
 The SKY Personal Assistant is a state-of-the-art virtual assistant designed to enhance productivity and simplify everyday tasks. This AI-driven assistant is capable of handling a variety of functions, ranging from answering questions to retrieving information from the internet. It can perform simple tasks like writing Python code and summarizing content. Moreover, SKY Personal Assistant has the ability to create detailed user profiles, enabling personalized responses in future interactions. It continuously learns and evolves through a robust feedback system. In future implementations, it will incorporate advanced features like computer vision and data analysis to provide even more comprehensive assistance.
