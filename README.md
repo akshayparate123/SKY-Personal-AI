@@ -53,8 +53,7 @@ dataset_1 = load_dataset("dreamproit/bill_summary_us")
 ```
 
 ## Pre-Trained Model Used
-
-
+![png](https://github.com/akshayparate123/SKY-Personal-AI/blob/main/Images/BART_arch.png)
 ## RAG Pipeline
 
 ![png](https://github.com/akshayparate123/SKY-Personal-AI/blob/main/Images/rag.png)
