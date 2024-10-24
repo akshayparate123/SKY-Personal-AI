@@ -1,6 +1,6 @@
-This repository will not function as expected if you simply download it, as many large files are missing and cannot be uploaded here. Please note that this is a licensed repository, and it is protected by law. Unauthorized downloading or use of this repository, whether for commercial or personal purposes, may lead to legal consequences.
-
 # SKY-Personal-AI
+
+This repository will not function as expected if you simply download it, as many large files are missing and cannot be uploaded here. Please note that this is a licensed repository, and it is protected by law. Unauthorized downloading or use of this repository, whether for commercial or personal purposes, may lead to legal consequences.
 
 ## Introduction to SKY Personal Assistant
 
