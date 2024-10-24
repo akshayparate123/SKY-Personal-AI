@@ -41,4 +41,14 @@ Training/ipynb/512053fe-7f71-45d1-aefc-20b16d14afef/header.bin
 Training/ipynb/512053fe-7f71-45d1-aefc-20b16d14afef/length.bin
 Training/ipynb/512053fe-7f71-45d1-aefc-20b16d14afef/link_lists.bin
 
+<<<<<<< HEAD
+!Images/rag.png
+Training/ipynb/chroma.sqlite3
+Training/ipynb/.ipynb_checkpoints/Internet_Fetching-checkpoint.ipynb
+Training/ipynb/512053fe-7f71-45d1-aefc-20b16d14afef/data_level0.bin
+Training/ipynb/512053fe-7f71-45d1-aefc-20b16d14afef/header.bin
+Training/ipynb/512053fe-7f71-45d1-aefc-20b16d14afef/length.bin
+Training/ipynb/512053fe-7f71-45d1-aefc-20b16d14afef/link_lists.bin
+=======
 !Installation_Guide.txt
+>>>>>>> c1e4a4221780da91f474c7220f1bf1de947f9805
