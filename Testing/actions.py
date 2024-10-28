@@ -145,7 +145,11 @@ def data_mining(website):
     filtered_content = ""
     if (".gov" not in website) and ("linkedin.com" not in website) and ("reddit.com" not in website):
         URL = website
-        r = requests.get(URL) 
+        try:
+            r = requests.get(URL)
+        except Exception as e:
+            print("{} : Exception caught for : {}".format(e,URL))
+            return ([],[])
         soup = BeautifulSoup(r.content, 'html5lib')
         for tag in soup(['nav', 'header', 'footer', 'script', 'style', 'aside']):
             tag.decompose()
