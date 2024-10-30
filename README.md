@@ -89,6 +89,18 @@ dataset_1 = load_dataset("dreamproit/bill_summary_us")
 
 ![png](https://github.com/akshayparate123/SKY-Personal-AI/blob/main/Images/rag.png)
 
+1. **User Query**: The process starts with a query from the user.
+
+2. **Retrieval Step**: Relevant documents or knowledge snippets are retrieved from a database or document store using the query. Common retrieval methods include embeddings and similarity search.
+
+3. **Candidate Selection**: The top retrieved documents are selected based on relevance to the query.
+
+4. **Augmentation**: The selected documents are combined with the query to form an augmented input.
+
+5. **Generation with LLM**: The augmented input is passed to a Large Language Model (LLM), which generates a response using both the query and the retrieved documents.
+
+6. **Response Delivery**: The generated answer is provided back to the user, enriched with relevant information from the retrieval step.
+
 **Conclusion**
 
 The SKY Personal Assistant represents a significant advancement in virtual assistant technology. Its current capabilities, including question answering, information retrieval, task performance, summarization, user profiling, and continuous learning, make it an invaluable tool for users. The planned future enhancements, such as computer vision integration, advanced data analysis, and improved user interactions, promise to take its functionality to even greater heights. SKY is not just an assistant but a continuously evolving partner designed to make life easier and more efficient for its users. With SKY, the future of personal assistance is here, and it’s brighter than ever.
