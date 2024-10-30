@@ -58,6 +58,21 @@ dataset_1 = load_dataset("dreamproit/bill_summary_us")
 
 ![png](https://github.com/akshayparate123/SKY-Personal-AI/blob/main/Images/OCR.png)
 
+1. **Prompting LLM**: Initiate the process by sending a user query to a Large Language Model (LLM).
+
+2. **Triggering Function to Take Screenshot**: Execute a function that captures a screenshot of the current screen or specified area.
+
+3. **Grayscale Image**: Convert the captured screenshot into a grayscale image to simplify the image processing.
+
+4. **Divide the Image into Small Chunks**: Split the grayscale image into smaller segments for easier text extraction.
+
+5. **Fetch Text from Image Using OCR**: Use Optical Character Recognition (OCR) to extract text from the divided image chunks.
+
+6. **Merge the Text**: Combine the extracted text from all chunks into a single text block.
+
+7. **Provide the Merged Text and User Query to LLM**: Send the merged text along with the original user query back to the LLM for further processing or response generation.
+
+
 ## RAG Pipeline
 
 ![png](https://github.com/akshayparate123/SKY-Personal-AI/blob/main/Images/rag.png)
