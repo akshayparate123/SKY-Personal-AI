@@ -54,6 +54,18 @@ dataset_1 = load_dataset("dreamproit/bill_summary_us")
 
 ## Pre-Trained Model Used (BART)
 ![png](https://github.com/akshayparate123/SKY-Personal-AI/blob/main/Images/BART_arch.png)
+
+1. **Bidirectional and Auto-Regressive Transformer (BART)**: A Transformer-based model developed by Facebook AI for text generation and understanding tasks.
+  
+2. **Encoder-Decoder Structure**: BART combines both an encoder and a decoder, where the encoder reads the input text bidirectionally, and the decoder generates output autoregressively.
+
+3. **Noise-based Pretraining**: BART is pretrained by corrupting text (e.g., token masking, shuffling) and then learning to reconstruct the original text, making it effective in handling a variety of text corruption patterns.
+
+4. **Versatile NLP Tasks**: BART is used in tasks such as summarization, translation, question answering, and text generation due to its robust language understanding and generation capabilities.
+
+5. **Fine-Tuning Potential**: The model can be fine-tuned for specific tasks, enabling it to adapt well to domain-specific applications and custom use cases.
+
+
 ## OCR Pipeline
 
 ![png](https://github.com/akshayparate123/SKY-Personal-AI/blob/main/Images/OCR.png)
