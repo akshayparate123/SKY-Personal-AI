@@ -54,9 +54,52 @@ dataset_1 = load_dataset("dreamproit/bill_summary_us")
 
 ## Pre-Trained Model Used (BART)
 ![png](https://github.com/akshayparate123/SKY-Personal-AI/blob/main/Images/BART_arch.png)
+
+1. **Bidirectional and Auto-Regressive Transformer (BART)**: A Transformer-based model developed by Facebook AI for text generation and understanding tasks.
+  
+2. **Encoder-Decoder Structure**: BART combines both an encoder and a decoder, where the encoder reads the input text bidirectionally, and the decoder generates output autoregressively.
+
+3. **Noise-based Pretraining**: BART is pretrained by corrupting text (e.g., token masking, shuffling) and then learning to reconstruct the original text, making it effective in handling a variety of text corruption patterns.
+
+4. **Versatile NLP Tasks**: BART is used in tasks such as summarization, translation, question answering, and text generation due to its robust language understanding and generation capabilities.
+
+5. **Fine-Tuning Potential**: The model can be fine-tuned for specific tasks, enabling it to adapt well to domain-specific applications and custom use cases.
+
+
+## OCR Pipeline
+
+![png](https://github.com/akshayparate123/SKY-Personal-AI/blob/main/Images/OCR.png)
+
+1. **Prompting LLM**: Initiate the process by sending a user query to a Large Language Model (LLM).
+
+2. **Triggering Function to Take Screenshot**: Execute a function that captures a screenshot of the current screen or specified area.
+
+3. **Grayscale Image**: Convert the captured screenshot into a grayscale image to simplify the image processing.
+
+4. **Divide the Image into Small Chunks**: Split the grayscale image into smaller segments for easier text extraction.
+
+5. **Fetch Text from Image Using OCR**: Use Optical Character Recognition (OCR) to extract text from the divided image chunks.
+
+6. **Merge the Text**: Combine the extracted text from all chunks into a single text block.
+
+7. **Provide the Merged Text and User Query to LLM**: Send the merged text along with the original user query back to the LLM for further processing or response generation.
+
+
 ## RAG Pipeline
 
 ![png](https://github.com/akshayparate123/SKY-Personal-AI/blob/main/Images/rag.png)
+
+1. **User Query**: The process starts with a query from the user.
+
+2. **Retrieval Step**: Relevant documents or knowledge snippets are retrieved from a database or document store using the query. Common retrieval methods include embeddings and similarity search.
+
+3. **Candidate Selection**: The top retrieved documents are selected based on relevance to the query.
+
+4. **Augmentation**: The selected documents are combined with the query to form an augmented input.
+
+5. **Generation with LLM**: The augmented input is passed to a Large Language Model (LLM), which generates a response using both the query and the retrieved documents.
+
+6. **Response Delivery**: The generated answer is provided back to the user, enriched with relevant information from the retrieval step.
 
 **Conclusion**
 
