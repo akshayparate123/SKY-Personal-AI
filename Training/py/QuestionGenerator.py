@@ -25,7 +25,7 @@ batch_size = 10
 epochs = 2
 numberOfWorkers = 0
 load_checkpoint = False
-model_name = '../Saved_Models/{}/fine-tuned-bert-sentiment_{}'.format(modelName,"2024_11_17_1")
+model_name = '../Saved_Models/{}/fine-tuned-bert-sentiment_{}'.format(modelName,"2024_11_18_0")
 ################L###ogging################################
 # Configure the logging
 logging.basicConfig(
@@ -140,7 +140,6 @@ class TextDataset(Dataset):
 def train_model(model, data_loader, loss_fn, optimizer, device, scheduler, n_examples,epoch):
     model.train()
     losses = []
-    correct_predictions = 0
     try:
         for idx,d in enumerate(data_loader):
             # print(f'\rTraining Progress: {idx}/{len(data_loader)}', end='', flush=True)
@@ -185,7 +184,6 @@ def train_model(model, data_loader, loss_fn, optimizer, device, scheduler, n_exa
 def eval_model(model, data_loader, loss_fn, device, n_examples,epoch):
     model.eval()
     losses = []
-    correct_predictions = 0
     with torch.no_grad():
         try:
             for idx,d in enumerate(data_loader):
@@ -269,7 +267,7 @@ def main():
     
     if load_checkpoint:
         logger.info("Checkpoint loaded")
-        checkpoint = torch.load('../Checkpoints/checkpoint_40000.pth')
+        checkpoint = torch.load('../Checkpoints/checkpoint_20000.pth')
         model.load_state_dict(checkpoint['model_state_dict'])
         optimizer.load_state_dict(checkpoint['optimizer_state_dict'])
         
