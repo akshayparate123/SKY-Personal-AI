@@ -1,0 +1,99 @@
+2024-11-17 08:02:29 - __main__ - INFO - Model Name: ../Saved_Models/QuestionGenerator/fine-tuned-bert-sentiment_2024_11_17_0
+2024-11-17 08:02:29 - __main__ - INFO - Training Loss : []
+2024-11-17 08:02:29 - __main__ - INFO - Validation Loss : []
+2024-11-17 08:13:07 - __main__ - INFO - Batch Number : 1000, Training Loss : 0.9340379563244906
+2024-11-17 08:23:43 - __main__ - INFO - Batch Number : 2000, Training Loss : 0.8945685488054123
+2024-11-17 08:34:21 - __main__ - INFO - Batch Number : 3000, Training Loss : 0.8727791575899286
+2024-11-17 08:44:58 - __main__ - INFO - Batch Number : 4000, Training Loss : 0.8593707533664507
+2024-11-17 08:55:34 - __main__ - INFO - Batch Number : 5000, Training Loss : 0.8477335441853852
+2024-11-17 09:06:12 - __main__ - INFO - Batch Number : 6000, Training Loss : 0.8390118335906793
+2024-11-17 09:16:49 - __main__ - INFO - Batch Number : 7000, Training Loss : 0.8323034275056567
+2024-11-17 09:27:25 - __main__ - INFO - Batch Number : 8000, Training Loss : 0.8261329211260197
+2024-11-17 09:38:06 - __main__ - INFO - Batch Number : 9000, Training Loss : 0.8194823226072089
+2024-11-17 09:49:00 - __main__ - INFO - Saving checkpoint
+2024-11-17 09:59:55 - __main__ - INFO - Batch Number : 11000, Training Loss : 0.8085118612368837
+2024-11-17 10:10:35 - __main__ - INFO - Batch Number : 12000, Training Loss : 0.8030277135277597
+2024-11-17 10:21:13 - __main__ - INFO - Batch Number : 13000, Training Loss : 0.798268043729454
+2024-11-17 10:31:56 - __main__ - INFO - Batch Number : 14000, Training Loss : 0.794089975009926
+2024-11-17 10:42:46 - __main__ - INFO - Batch Number : 15000, Training Loss : 0.7898980749463186
+2024-11-17 10:53:32 - __main__ - INFO - Batch Number : 16000, Training Loss : 0.7856866360962312
+2024-11-17 11:04:11 - __main__ - INFO - Batch Number : 17000, Training Loss : 0.781508051669287
+2024-11-17 11:14:49 - __main__ - INFO - Batch Number : 18000, Training Loss : 0.7775096735284234
+2024-11-17 11:25:27 - __main__ - INFO - Batch Number : 19000, Training Loss : 0.7737011711372588
+2024-11-17 11:36:06 - __main__ - INFO - Saving checkpoint
+2024-11-17 11:46:48 - __main__ - INFO - Batch Number : 21000, Training Loss : 0.7664648869634668
+2024-11-17 11:57:27 - __main__ - INFO - Batch Number : 22000, Training Loss : 0.7630323684138063
+2024-11-17 12:08:06 - __main__ - INFO - Batch Number : 23000, Training Loss : 0.7595159464476187
+2024-11-17 12:18:45 - __main__ - INFO - Batch Number : 24000, Training Loss : 0.7562301172029922
+2024-11-17 12:29:23 - __main__ - INFO - Batch Number : 25000, Training Loss : 0.7533265275350309
+2024-11-17 12:40:03 - __main__ - INFO - Batch Number : 26000, Training Loss : 0.7502462040217609
+2024-11-17 12:43:45 - __main__ - INFO - Train loss 0.7492637563319972
+2024-11-17 12:47:37 - __main__ - INFO - Batch Number : 1000, Validation Loss : 0.6514404778118495
+2024-11-17 12:49:24 - __main__ - INFO - Validation loss 0.6509252928319524
+2024-11-17 12:49:25 - __main__ - INFO - Model Saved
+2024-11-17 12:49:25 - __main__ - INFO - Calculating Rouge Score of the model...
+2024-11-17 12:56:29 - __main__ - INFO - Model Testing Complete
+1)rogue_score_1:0.4097466818477286
+2)rogue_score_L:0.29927041954880423
+2024-11-17 18:17:33 - __main__ - INFO - Model Name: ../Saved_Models/QuestionGenerator/fine-tuned-bert-sentiment_2024_11_17_1
+2024-11-17 18:17:33 - __main__ - INFO - Training Loss : []
+2024-11-17 18:17:33 - __main__ - INFO - Validation Loss : []
+2024-11-17 18:28:24 - __main__ - INFO - Batch Number : 1000, Training Loss : 0.8083033087132099
+2024-11-17 18:39:05 - __main__ - INFO - Batch Number : 2000, Training Loss : 0.7771548735148188
+2024-11-17 18:49:43 - __main__ - INFO - Batch Number : 3000, Training Loss : 0.7613886177678857
+2024-11-17 19:00:20 - __main__ - INFO - Batch Number : 4000, Training Loss : 0.7518006315293296
+2024-11-17 19:10:55 - __main__ - INFO - Batch Number : 5000, Training Loss : 0.7449131125546626
+2024-11-17 19:21:32 - __main__ - INFO - Batch Number : 6000, Training Loss : 0.7395288019086138
+2024-11-17 19:32:10 - __main__ - INFO - Batch Number : 7000, Training Loss : 0.7348040098667894
+2024-11-17 19:42:47 - __main__ - INFO - Batch Number : 8000, Training Loss : 0.7304056917350153
+2024-11-17 19:53:31 - __main__ - INFO - Batch Number : 9000, Training Loss : 0.7269407590254586
+2024-11-17 20:04:30 - __main__ - INFO - Saving checkpoint
+2024-11-17 20:15:29 - __main__ - INFO - Batch Number : 11000, Training Loss : 0.7201656114214193
+2024-11-17 20:26:17 - __main__ - INFO - Batch Number : 12000, Training Loss : 0.7173127595305134
+2024-11-17 20:37:03 - __main__ - INFO - Batch Number : 13000, Training Loss : 0.7169889814257118
+2024-11-17 20:47:52 - __main__ - INFO - Batch Number : 14000, Training Loss : 0.714421542620933
+2024-11-17 20:58:45 - __main__ - INFO - Batch Number : 15000, Training Loss : 0.7115875530994683
+2024-11-17 21:09:24 - __main__ - INFO - Batch Number : 16000, Training Loss : 0.7089972349637956
+2024-11-17 21:20:03 - __main__ - INFO - Batch Number : 17000, Training Loss : 0.7067522649505293
+2024-11-17 21:30:40 - __main__ - INFO - Batch Number : 18000, Training Loss : 0.70429616638054
+2024-11-17 21:41:18 - __main__ - INFO - Batch Number : 19000, Training Loss : 0.7018168212178444
+2024-11-17 21:51:56 - __main__ - INFO - Saving checkpoint
+2024-11-17 22:02:38 - __main__ - INFO - Batch Number : 21000, Training Loss : 0.697073558689123
+2024-11-17 22:13:17 - __main__ - INFO - Batch Number : 22000, Training Loss : 0.6947455032471282
+2024-11-17 22:23:56 - __main__ - INFO - Batch Number : 23000, Training Loss : 0.6927128182323667
+2024-11-17 22:34:34 - __main__ - INFO - Batch Number : 24000, Training Loss : 0.6909000182428945
+2024-11-17 22:45:12 - __main__ - INFO - Batch Number : 25000, Training Loss : 0.68863197602652
+2024-11-17 22:55:59 - __main__ - INFO - Batch Number : 26000, Training Loss : 0.6865277462319949
+2024-11-17 22:59:44 - __main__ - INFO - Train loss 0.6858050932158493
+2024-11-17 23:03:44 - __main__ - INFO - Batch Number : 1000, Validation Loss : 0.6197316451863452
+2024-11-17 23:05:34 - __main__ - INFO - Validation loss 0.6191262348142804
+2024-11-17 23:05:36 - __main__ - INFO - Model Saved
+2024-11-17 23:05:36 - __main__ - INFO - Calculating Rouge Score of the model...
+2024-11-17 23:16:21 - __main__ - INFO - Model Testing Complete
+1)rogue_score_1:0.39767342653375065
+2)rogue_score_L:0.2917023400788945
+2024-11-17 23:16:21 - __main__ - INFO - Training Loss : [0.6858050932158493]
+2024-11-17 23:16:21 - __main__ - INFO - Validation Loss : [0.6191262348142804]
+2024-11-17 23:27:00 - __main__ - INFO - Batch Number : 1000, Training Loss : 0.5754797718860767
+2024-11-17 23:37:39 - __main__ - INFO - Batch Number : 2000, Training Loss : 0.5750269767107337
+2024-11-17 23:48:18 - __main__ - INFO - Batch Number : 3000, Training Loss : 0.5740228395230053
+2024-11-17 23:58:57 - __main__ - INFO - Batch Number : 4000, Training Loss : 0.5741905999970239
+2024-11-18 00:09:36 - __main__ - INFO - Batch Number : 5000, Training Loss : 0.5735887065455333
+2024-11-18 00:20:15 - __main__ - INFO - Batch Number : 6000, Training Loss : 0.5720107827339942
+2024-11-18 00:30:55 - __main__ - INFO - Batch Number : 7000, Training Loss : 0.571518644279726
+2024-11-18 00:41:31 - __main__ - INFO - Batch Number : 8000, Training Loss : 0.5710583149366208
+2024-11-18 00:52:08 - __main__ - INFO - Batch Number : 9000, Training Loss : 0.5701153137898156
+2024-11-18 01:02:43 - __main__ - INFO - Saving checkpoint
+2024-11-18 01:13:23 - __main__ - INFO - Batch Number : 11000, Training Loss : 0.5687031425916979
+2024-11-18 01:24:00 - __main__ - INFO - Batch Number : 12000, Training Loss : 0.5680711457639145
+2024-11-18 01:34:36 - __main__ - INFO - Batch Number : 13000, Training Loss : 0.5669983317027523
+2024-11-18 01:45:13 - __main__ - INFO - Batch Number : 14000, Training Loss : 0.5660116088346927
+2024-11-18 01:55:50 - __main__ - INFO - Batch Number : 15000, Training Loss : 0.5652508297055397
+2024-11-18 02:06:27 - __main__ - INFO - Batch Number : 16000, Training Loss : 0.5643689064027876
+2024-11-18 02:17:03 - __main__ - INFO - Batch Number : 17000, Training Loss : 0.5637730205120757
+2024-11-18 02:27:40 - __main__ - INFO - Batch Number : 18000, Training Loss : 0.5629423433582317
+2024-11-18 02:38:16 - __main__ - INFO - Batch Number : 19000, Training Loss : 0.5619438143944929
+2024-11-18 02:48:53 - __main__ - INFO - Saving checkpoint
+2024-11-18 02:59:33 - __main__ - INFO - Batch Number : 21000, Training Loss : 0.5600080567509508
+2024-11-18 03:10:10 - __main__ - INFO - Batch Number : 22000, Training Loss : 0.5591031623617594
+2024-11-18 03:20:47 - __main__ - INFO - Batch Number : 23000, Training Loss : 0.558139386388158

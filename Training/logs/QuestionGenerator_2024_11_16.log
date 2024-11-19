@@ -1,0 +1,77 @@
+2024-11-16 21:28:59 - __main__ - INFO - Model Name: BART
+2024-11-16 21:28:59 - __main__ - INFO - Training Loss : []
+2024-11-16 21:28:59 - __main__ - INFO - Validation Loss : []
+2024-11-16 21:29:06 - __main__ - INFO - Train loss 2.94687705039978
+2024-11-16 21:29:06 - __main__ - INFO - Validation loss 2.109242796897888
+2024-11-16 21:29:08 - __main__ - INFO - Model Saved
+2024-11-16 21:29:08 - __main__ - INFO - Calculating Rouge Score of the model...
+2024-11-16 21:29:08 - absl - INFO - Using default tokenizer.
+2024-11-16 21:29:09 - absl - INFO - Using default tokenizer.
+2024-11-16 21:29:09 - absl - INFO - Using default tokenizer.
+2024-11-16 21:29:09 - absl - INFO - Using default tokenizer.
+2024-11-16 21:29:10 - absl - INFO - Using default tokenizer.
+2024-11-16 21:29:10 - absl - INFO - Using default tokenizer.
+2024-11-16 21:29:10 - absl - INFO - Using default tokenizer.
+2024-11-16 21:29:11 - absl - INFO - Using default tokenizer.
+2024-11-16 21:29:11 - absl - INFO - Using default tokenizer.
+2024-11-16 21:29:12 - absl - INFO - Using default tokenizer.
+2024-11-16 21:29:12 - __main__ - INFO - Model Testing Complete
+1)rogue_score_1:0.3663706224416831
+2)rogue_score_L:0.25723216731916954
+2024-11-16 21:32:17 - __main__ - INFO - Model Name: BART
+2024-11-16 21:32:17 - __main__ - INFO - Training Loss : []
+2024-11-16 21:32:17 - __main__ - INFO - Validation Loss : []
+2024-11-16 21:33:48 - __main__ - INFO - Train loss 3.0129004546574185
+2024-11-16 21:34:06 - __main__ - INFO - Validation loss 2.0729339122772217
+2024-11-16 21:34:07 - __main__ - INFO - Model Saved
+2024-11-16 21:34:07 - __main__ - INFO - Calculating Rouge Score of the model...
+2024-11-16 21:34:10 - absl - INFO - Using default tokenizer.
+2024-11-16 21:34:12 - absl - INFO - Using default tokenizer.
+2024-11-16 21:34:15 - absl - INFO - Using default tokenizer.
+2024-11-16 21:34:18 - absl - INFO - Using default tokenizer.
+2024-11-16 21:34:22 - absl - INFO - Using default tokenizer.
+2024-11-16 21:34:25 - absl - INFO - Using default tokenizer.
+2024-11-16 21:34:27 - absl - INFO - Using default tokenizer.
+2024-11-16 21:34:29 - absl - INFO - Using default tokenizer.
+2024-11-16 21:34:31 - absl - INFO - Using default tokenizer.
+2024-11-16 21:34:33 - absl - INFO - Using default tokenizer.
+2024-11-16 21:34:33 - __main__ - INFO - Model Testing Complete
+1)rogue_score_1:0.25165413212748866
+2)rogue_score_L:0.19072915007179575
+2024-11-16 21:37:34 - __main__ - INFO - Model Name: BART
+2024-11-16 21:37:34 - __main__ - INFO - Training Loss : []
+2024-11-16 21:37:34 - __main__ - INFO - Validation Loss : []
+2024-11-16 21:48:15 - __main__ - INFO - Batch Number : 1000, Training Loss : 1.4988293190459747
+2024-11-16 21:58:58 - __main__ - INFO - Batch Number : 2000, Training Loss : 1.3506034791380213
+2024-11-16 22:09:37 - __main__ - INFO - Batch Number : 3000, Training Loss : 1.268468087154879
+2024-11-16 22:20:15 - __main__ - INFO - Batch Number : 4000, Training Loss : 1.2150739246206086
+2024-11-16 22:30:54 - __main__ - INFO - Batch Number : 5000, Training Loss : 1.1776695884816337
+2024-11-16 22:41:31 - __main__ - INFO - Batch Number : 6000, Training Loss : 1.14758562008712
+2024-11-16 22:52:10 - __main__ - INFO - Batch Number : 7000, Training Loss : 1.1228358674059593
+2024-11-16 23:02:49 - __main__ - INFO - Batch Number : 8000, Training Loss : 1.1010871409714305
+2024-11-16 23:13:27 - __main__ - INFO - Batch Number : 9000, Training Loss : 1.0818819347427575
+2024-11-16 23:24:05 - __main__ - INFO - Saving checkpoint
+2024-11-16 23:34:49 - __main__ - INFO - Batch Number : 11000, Training Loss : 1.050583080794202
+2024-11-16 23:45:27 - __main__ - INFO - Batch Number : 12000, Training Loss : 1.0371707842187299
+2024-11-16 23:56:05 - __main__ - INFO - Batch Number : 13000, Training Loss : 1.0249769796720698
+2024-11-17 00:06:44 - __main__ - INFO - Batch Number : 14000, Training Loss : 1.0130883278731626
+2024-11-17 00:17:22 - __main__ - INFO - Batch Number : 15000, Training Loss : 1.002387108921838
+2024-11-17 00:27:59 - __main__ - INFO - Batch Number : 16000, Training Loss : 0.9927758107624325
+2024-11-17 00:38:35 - __main__ - INFO - Batch Number : 17000, Training Loss : 0.983335235540842
+2024-11-17 00:49:12 - __main__ - INFO - Batch Number : 18000, Training Loss : 0.9744545831712615
+2024-11-17 00:59:48 - __main__ - INFO - Batch Number : 19000, Training Loss : 0.965887599248998
+2024-11-17 01:10:25 - __main__ - INFO - Saving checkpoint
+2024-11-17 01:21:06 - __main__ - INFO - Batch Number : 21000, Training Loss : 0.9500952920262731
+2024-11-17 01:31:42 - __main__ - INFO - Batch Number : 22000, Training Loss : 0.9430543281187724
+2024-11-17 01:42:19 - __main__ - INFO - Batch Number : 23000, Training Loss : 0.9365223622206507
+2024-11-17 01:52:56 - __main__ - INFO - Batch Number : 24000, Training Loss : 0.9302947892965782
+2024-11-17 02:03:33 - __main__ - INFO - Batch Number : 25000, Training Loss : 0.9241991833023422
+2024-11-17 02:14:09 - __main__ - INFO - Batch Number : 26000, Training Loss : 0.918613282692056
+2024-11-17 02:17:51 - __main__ - INFO - Train loss 0.9167519473759465
+2024-11-17 02:21:43 - __main__ - INFO - Batch Number : 1000, Validation Loss : 0.7146612245302933
+2024-11-17 02:23:30 - __main__ - INFO - Validation loss 0.7141750743358187
+2024-11-17 02:23:31 - __main__ - INFO - Model Saved
+2024-11-17 02:23:31 - __main__ - INFO - Calculating Rouge Score of the model...
+2024-11-17 02:30:21 - __main__ - INFO - Model Testing Complete
+1)rogue_score_1:0.4129062217960994
+2)rogue_score_L:0.3002016805127037

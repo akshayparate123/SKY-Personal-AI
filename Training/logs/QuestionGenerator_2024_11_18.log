@@ -1,0 +1,89 @@
+2024-11-18 09:39:36 - __main__ - INFO - Model Name: ../Saved_Models/QuestionGenerator/fine-tuned-bert-sentiment_2024_11_17_2
+2024-11-18 09:39:36 - __main__ - INFO - Checkpoint loaded
+2024-11-18 09:39:39 - __main__ - INFO - Training Loss : []
+2024-11-18 09:39:39 - __main__ - INFO - Validation Loss : []
+2024-11-18 09:43:42 - __main__ - INFO - Model Name: ../Saved_Models/QuestionGenerator/fine-tuned-bert-sentiment_2024_11_18_0
+2024-11-18 09:43:42 - __main__ - INFO - Training Loss : []
+2024-11-18 09:43:42 - __main__ - INFO - Validation Loss : []
+2024-11-18 09:47:41 - __main__ - INFO - Batch Number : 1000, Validation Loss : 0.5798238204135285
+2024-11-18 09:49:33 - __main__ - INFO - Validation loss 0.5800422102090765
+2024-11-18 09:49:35 - __main__ - INFO - Model Saved
+2024-11-18 09:49:35 - __main__ - INFO - Calculating Rouge Score of the model...
+2024-11-18 10:01:35 - __main__ - INFO - Model Testing Complete
+1)rogue_score_1:0.40690493739454586
+2)rogue_score_L:0.29500683751058726
+2024-11-18 10:01:35 - __main__ - INFO - Training Loss : []
+2024-11-18 10:01:35 - __main__ - INFO - Validation Loss : [0.5800422102090765]
+2024-11-18 10:16:25 - __main__ - INFO - Model Name: ../Saved_Models/QuestionGenerator/fine-tuned-bert-sentiment_2024_11_18_0
+2024-11-18 10:16:25 - __main__ - INFO - Training Loss : []
+2024-11-18 10:16:25 - __main__ - INFO - Validation Loss : []
+2024-11-18 10:27:21 - __main__ - INFO - Batch Number : 1000, Training Loss : 0.6772511660099982
+2024-11-18 10:38:18 - __main__ - INFO - Batch Number : 2000, Training Loss : 0.6527899890646585
+2024-11-18 10:49:14 - __main__ - INFO - Batch Number : 3000, Training Loss : 0.6396264947779534
+2024-11-18 11:00:08 - __main__ - INFO - Batch Number : 4000, Training Loss : 0.6312165937924856
+2024-11-18 11:10:57 - __main__ - INFO - Batch Number : 5000, Training Loss : 0.6256110657753646
+2024-11-18 11:21:50 - __main__ - INFO - Batch Number : 6000, Training Loss : 0.6214133747079694
+2024-11-18 11:32:45 - __main__ - INFO - Batch Number : 7000, Training Loss : 0.6184021817660471
+2024-11-18 11:43:41 - __main__ - INFO - Batch Number : 8000, Training Loss : 0.6157835245788016
+2024-11-18 11:54:41 - __main__ - INFO - Batch Number : 9000, Training Loss : 0.6138221888313848
+2024-11-18 12:05:44 - __main__ - INFO - Saving checkpoint
+2024-11-18 12:16:47 - __main__ - INFO - Batch Number : 11000, Training Loss : 0.6099889978567326
+2024-11-18 12:27:41 - __main__ - INFO - Batch Number : 12000, Training Loss : 0.6077823137856555
+2024-11-18 12:38:27 - __main__ - INFO - Batch Number : 13000, Training Loss : 0.6061935196880304
+2024-11-18 12:49:12 - __main__ - INFO - Batch Number : 14000, Training Loss : 0.6046738486001852
+2024-11-18 12:59:58 - __main__ - INFO - Batch Number : 15000, Training Loss : 0.603205357364524
+2024-11-18 13:10:43 - __main__ - INFO - Batch Number : 16000, Training Loss : 0.6014326896010231
+2024-11-18 13:21:27 - __main__ - INFO - Batch Number : 17000, Training Loss : 0.5996012073668667
+2024-11-18 13:32:13 - __main__ - INFO - Batch Number : 18000, Training Loss : 0.598165467594221
+2024-11-18 13:42:57 - __main__ - INFO - Batch Number : 19000, Training Loss : 0.5967023032545121
+2024-11-18 13:53:43 - __main__ - INFO - Saving checkpoint
+2024-11-18 14:04:38 - __main__ - INFO - Batch Number : 21000, Training Loss : 0.5938564362066041
+2024-11-18 14:15:42 - __main__ - INFO - Batch Number : 22000, Training Loss : 0.5924009518888093
+2024-11-18 14:26:51 - __main__ - INFO - Batch Number : 23000, Training Loss : 0.5911025085463109
+2024-11-18 14:37:52 - __main__ - INFO - Batch Number : 24000, Training Loss : 0.589678373117158
+2024-11-18 14:48:48 - __main__ - INFO - Batch Number : 25000, Training Loss : 0.5885635245874363
+2024-11-18 14:59:44 - __main__ - INFO - Batch Number : 26000, Training Loss : 0.5870889947600633
+2024-11-18 15:03:30 - __main__ - INFO - Train loss 0.5865472547944902
+2024-11-18 15:07:24 - __main__ - INFO - Batch Number : 1000, Validation Loss : 0.5631566983419698
+2024-11-18 15:09:13 - __main__ - INFO - Validation loss 0.5631644866872029
+2024-11-18 15:09:14 - __main__ - INFO - Model Saved
+2024-11-18 15:09:14 - __main__ - INFO - Calculating Rouge Score of the model...
+2024-11-18 15:16:09 - __main__ - INFO - Model Testing Complete
+1)rogue_score_1:0.4103295155434419
+2)rogue_score_L:0.30006889777196116
+2024-11-18 15:16:09 - __main__ - INFO - Training Loss : [0.5865472547944902]
+2024-11-18 15:16:09 - __main__ - INFO - Validation Loss : [0.5631644866872029]
+2024-11-18 15:26:55 - __main__ - INFO - Batch Number : 1000, Training Loss : 0.4939588810894992
+2024-11-18 15:37:42 - __main__ - INFO - Batch Number : 2000, Training Loss : 0.49292957170613705
+2024-11-18 15:48:28 - __main__ - INFO - Batch Number : 3000, Training Loss : 0.49161424892260924
+2024-11-18 15:59:13 - __main__ - INFO - Batch Number : 4000, Training Loss : 0.492457283277626
+2024-11-18 16:10:00 - __main__ - INFO - Batch Number : 5000, Training Loss : 0.4918664240033787
+2024-11-18 16:20:46 - __main__ - INFO - Batch Number : 6000, Training Loss : 0.4914548647709637
+2024-11-18 16:31:32 - __main__ - INFO - Batch Number : 7000, Training Loss : 0.49133157488312523
+2024-11-18 16:42:18 - __main__ - INFO - Batch Number : 8000, Training Loss : 0.4907365437448509
+2024-11-18 16:53:03 - __main__ - INFO - Batch Number : 9000, Training Loss : 0.4899655782392377
+2024-11-18 17:03:50 - __main__ - INFO - Saving checkpoint
+2024-11-18 17:14:36 - __main__ - INFO - Batch Number : 11000, Training Loss : 0.4889929593611756
+2024-11-18 17:25:23 - __main__ - INFO - Batch Number : 12000, Training Loss : 0.48854231767113654
+2024-11-18 17:36:23 - __main__ - INFO - Batch Number : 13000, Training Loss : 0.4878272292623336
+2024-11-18 17:47:21 - __main__ - INFO - Batch Number : 14000, Training Loss : 0.48704313347445377
+2024-11-18 17:58:19 - __main__ - INFO - Batch Number : 15000, Training Loss : 0.48653663287487964
+2024-11-18 18:09:13 - __main__ - INFO - Batch Number : 16000, Training Loss : 0.48593913539745875
+2024-11-18 18:20:20 - __main__ - INFO - Batch Number : 17000, Training Loss : 0.4853479802962591
+2024-11-18 18:31:29 - __main__ - INFO - Batch Number : 18000, Training Loss : 0.4845928480529658
+2024-11-18 18:42:32 - __main__ - INFO - Batch Number : 19000, Training Loss : 0.48373075635218254
+2024-11-18 18:53:19 - __main__ - INFO - Saving checkpoint
+2024-11-18 19:04:11 - __main__ - INFO - Batch Number : 21000, Training Loss : 0.4821569552495817
+2024-11-18 19:15:01 - __main__ - INFO - Batch Number : 22000, Training Loss : 0.48129957049582517
+2024-11-18 19:26:02 - __main__ - INFO - Batch Number : 23000, Training Loss : 0.48053777728239966
+2024-11-18 19:37:03 - __main__ - INFO - Batch Number : 24000, Training Loss : 0.4798729385325255
+2024-11-18 19:48:04 - __main__ - INFO - Batch Number : 25000, Training Loss : 0.47910290436884684
+2024-11-18 19:59:02 - __main__ - INFO - Batch Number : 26000, Training Loss : 0.47846400119388044
+2024-11-18 20:02:52 - __main__ - INFO - Train loss 0.47828502985454957
+2024-11-18 20:06:57 - __main__ - INFO - Batch Number : 1000, Validation Loss : 0.5344910142305014
+2024-11-18 20:08:51 - __main__ - INFO - Validation loss 0.534459511581503
+2024-11-18 20:08:52 - __main__ - INFO - Model Saved
+2024-11-18 20:08:52 - __main__ - INFO - Calculating Rouge Score of the model...
+2024-11-18 20:20:13 - __main__ - INFO - Model Testing Complete
+1)rogue_score_1:0.4071600913185323
+2)rogue_score_L:0.294270233703058
