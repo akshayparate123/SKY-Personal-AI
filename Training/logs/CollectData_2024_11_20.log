@@ -1,0 +1,104 @@
+2024-11-20 19:23:12 - __main__ - INFO - 0. First Loop
+2024-11-20 19:23:12 - __main__ - INFO - 0. Link : https://en.wikipedia.org/wiki/probability_theory
+2024-11-20 19:23:12 - __main__ - INFO - 0. Fetched imp tags : 372
+2024-11-20 19:23:12 - __main__ - INFO - 0. Created Network Graph : Graph with 373 nodes and 372 edges
+2024-11-20 19:23:12 - __main__ - INFO - 0. Total Completed Topics : 1
+2024-11-20 19:23:12 - __main__ - INFO - 0. Updating Pending Topics : 22
+2024-11-20 19:23:12 - __main__ - INFO - 0. Root Node : [0]
+2024-11-20 19:23:12 - __main__ - INFO - 0. Total List Headings : 57
+2024-11-20 19:23:12 - __main__ - INFO - 0. Data Stored
+2024-11-20 19:23:13 - __main__ - INFO - 1. Link : https://en.wikipedia.org/wiki/Portal:Mathematics
+2024-11-20 19:23:13 - __main__ - INFO - 1. Fetched imp tags : 310
+2024-11-20 19:23:13 - __main__ - INFO - 1. Created Network Graph : Graph with 311 nodes and 310 edges
+2024-11-20 19:23:13 - __main__ - INFO - 1. Total Completed Topics : 2
+2024-11-20 19:23:13 - __main__ - INFO - 1. Updating Pending Topics : 22
+2024-11-20 19:23:13 - __main__ - INFO - 1. Root Node : [0]
+2024-11-20 19:23:13 - __main__ - INFO - 1. Total List Headings : 16
+2024-11-20 19:23:13 - __main__ - INFO - 1. Data Stored
+2024-11-20 19:23:13 - __main__ - INFO - 1. Link : https://en.wikiversity.org/wiki/Portal:Mathematics
+2024-11-20 19:23:13 - __main__ - INFO - 1. Fetched imp tags : 44
+2024-11-20 19:23:13 - __main__ - INFO - 1. Created Network Graph : Graph with 45 nodes and 44 edges
+2024-11-20 19:23:13 - __main__ - INFO - 1. Total Completed Topics : 3
+2024-11-20 19:23:13 - __main__ - INFO - 1. Updating Pending Topics : 22
+2024-11-20 19:23:13 - __main__ - INFO - 1. Root Node : [0]
+2024-11-20 19:23:13 - __main__ - INFO - 1. Total List Headings : 17
+2024-11-20 19:23:13 - __main__ - INFO - 1. Data Stored
+2024-11-20 19:23:13 - __main__ - INFO - 1. Link : https://www.mathportal.org/
+2024-11-20 19:23:14 - __main__ - INFO - 1. Fetched imp tags : 20
+2024-11-20 19:23:14 - __main__ - INFO - 1. Created Network Graph : Graph with 21 nodes and 20 edges
+2024-11-20 19:23:14 - __main__ - INFO - 1. Total Completed Topics : 4
+2024-11-20 19:23:14 - __main__ - INFO - 1. Updating Pending Topics : 22
+2024-11-20 19:23:14 - __main__ - INFO - 1. Root Node : [0, 12]
+2024-11-20 19:23:14 - __main__ - INFO - 1. Total List Headings : 14
+2024-11-20 19:23:14 - __main__ - INFO - 1. Data Stored
+2024-11-20 19:23:14 - __main__ - INFO - 1. Link : https://www.merlot.org/merlot/Mathematics.htm
+2024-11-20 19:23:15 - __main__ - INFO - 1. Fetched imp tags : 182
+2024-11-20 19:23:15 - __main__ - INFO - 1. Created Network Graph : Graph with 183 nodes and 182 edges
+2024-11-20 19:23:15 - __main__ - INFO - 1. Total Completed Topics : 5
+2024-11-20 19:23:15 - __main__ - INFO - 1. Updating Pending Topics : 22
+2024-11-20 19:23:15 - __main__ - INFO - 1. Root Node : [0, 3]
+2024-11-20 19:23:15 - __main__ - INFO - 1. Total List Headings : 6
+2024-11-20 19:23:15 - __main__ - INFO - 1. Data Stored
+2024-11-20 19:23:15 - __main__ - INFO - 1. Link : https://en.wikipedia.org/wiki/Portal:Mathematics/MathematicsTopics
+2024-11-20 19:23:15 - __main__ - INFO - 1. Fetched imp tags : 112
+2024-11-20 19:23:15 - __main__ - INFO - 1. Created Network Graph : Graph with 113 nodes and 112 edges
+2024-11-20 19:23:15 - __main__ - INFO - 1. Total Completed Topics : 6
+2024-11-20 19:23:15 - __main__ - INFO - 1. Updating Pending Topics : 22
+2024-11-20 19:23:15 - __main__ - INFO - 1. Root Node : [0]
+2024-11-20 19:23:15 - __main__ - INFO - 1. Total List Headings : 43
+2024-11-20 19:23:15 - __main__ - INFO - 1. Data Stored
+2024-11-20 19:23:15 - __main__ - INFO - 1. Link : https://www.britannica.com/browse/Mathematics
+2024-11-20 19:23:15 - __main__ - INFO - 1. Fetched imp tags : 5
+2024-11-20 19:23:15 - __main__ - INFO - 1. Created Network Graph : Graph with 6 nodes and 5 edges
+2024-11-20 19:23:15 - __main__ - INFO - 1. Total Completed Topics : 7
+2024-11-20 19:23:15 - __main__ - INFO - 1. Updating Pending Topics : 22
+2024-11-20 19:23:15 - __main__ - INFO - 1. Root Node : [0, 1]
+2024-11-20 19:23:15 - __main__ - INFO - 1. Total List Headings : 4
+2024-11-20 19:23:15 - __main__ - INFO - 1. Data Stored
+2024-11-20 19:23:15 - __main__ - INFO - 1. Link : https://imkt.org/math-portal/
+2024-11-20 19:23:16 - __main__ - INFO - 1. Fetched imp tags : 57
+2024-11-20 19:23:16 - __main__ - INFO - 1. Created Network Graph : Graph with 58 nodes and 57 edges
+2024-11-20 19:23:16 - __main__ - INFO - 1. Total Completed Topics : 8
+2024-11-20 19:23:16 - __main__ - INFO - 1. Updating Pending Topics : 22
+2024-11-20 19:23:16 - __main__ - INFO - 1. Root Node : [0, 55, 56]
+2024-11-20 19:23:16 - __main__ - INFO - 1. Total List Headings : 22
+2024-11-20 19:23:16 - __main__ - INFO - 1. Data Stored
+2024-11-20 19:23:16 - __main__ - INFO - 1. Link : https://www.amazon.com/Portal-through-Mathematics-Advanced-Mathematical/dp/0883856514
+2024-11-20 19:23:16 - __main__ - INFO - 1. Fetched imp tags : 1
+2024-11-20 19:23:16 - __main__ - INFO - 1. Link : https://www.youtube.com/c/MathematicsPortal
+2024-11-20 19:23:17 - __main__ - INFO - 1. Fetched imp tags : 1
+2024-11-20 19:23:17 - __main__ - INFO - 1. Link : https://math.indiana.edu/student-portal/index.html
+2024-11-20 19:23:17 - __main__ - INFO - 1. Fetched imp tags : 62
+2024-11-20 19:23:17 - __main__ - INFO - 1. Created Network Graph : Graph with 63 nodes and 62 edges
+2024-11-20 19:23:17 - __main__ - INFO - 1. Total Completed Topics : 9
+2024-11-20 19:23:17 - __main__ - INFO - 1. Updating Pending Topics : 22
+2024-11-20 19:23:17 - __main__ - INFO - 1. Root Node : [0, 9]
+2024-11-20 19:23:17 - __main__ - INFO - 1. Total List Headings : 8
+2024-11-20 19:23:17 - __main__ - INFO - 1. Data Stored
+2024-11-20 19:23:17 - __main__ - INFO - 1. Link : https://illustrativemathematics.org/
+2024-11-20 19:23:17 - __main__ - INFO - 1. Skipping
+2024-11-20 19:23:17 - __main__ - INFO - 1. Link : https://cm.pg.edu.pl/en/portal-mathematics
+2024-11-20 19:23:18 - __main__ - INFO - 1. Fetched imp tags : 7
+2024-11-20 19:23:18 - __main__ - INFO - 1. Created Network Graph : Graph with 8 nodes and 7 edges
+2024-11-20 19:23:18 - __main__ - INFO - 1. Total Completed Topics : 10
+2024-11-20 19:23:18 - __main__ - INFO - 1. Updating Pending Topics : 22
+2024-11-20 19:23:18 - __main__ - INFO - 1. Root Node : [0, 4]
+2024-11-20 19:23:18 - __main__ - INFO - 1. Total List Headings : 4
+2024-11-20 19:23:18 - __main__ - INFO - 1. Data Stored
+2024-11-20 19:23:18 - __main__ - INFO - 1. Link : https://en.wikipedia.org/wiki/mathematics_portal
+2024-11-20 19:23:19 - __main__ - INFO - 1. Fetched imp tags : 307
+2024-11-20 19:23:19 - __main__ - INFO - 1. Created Network Graph : Graph with 308 nodes and 307 edges
+2024-11-20 19:23:19 - __main__ - INFO - 1. Total Completed Topics : 11
+2024-11-20 19:23:19 - __main__ - INFO - 1. Updating Pending Topics : 22
+2024-11-20 19:23:19 - __main__ - INFO - 1. Root Node : [0]
+2024-11-20 19:23:19 - __main__ - INFO - 1. Total List Headings : 16
+2024-11-20 19:23:19 - __main__ - INFO - 1. Data Stored
+2024-11-20 19:23:20 - __main__ - INFO - 2. Link : https://en.wikipedia.org/wiki/Mathematical_statistics
+2024-11-20 19:23:20 - __main__ - INFO - 2. Fetched imp tags : 472
+2024-11-20 19:23:20 - __main__ - INFO - 2. Created Network Graph : Graph with 473 nodes and 472 edges
+2024-11-20 19:23:20 - __main__ - INFO - 2. Total Completed Topics : 12
+2024-11-20 19:23:20 - __main__ - INFO - 2. Updating Pending Topics : 23
+2024-11-20 19:23:20 - __main__ - INFO - 2. Root Node : [0]
+2024-11-20 19:23:20 - __main__ - INFO - 2. Total List Headings : 41
+2024-11-20 19:23:20 - __main__ - INFO - 2. Data Stored
+2024-11-20 19:23:20 - __main__ - INFO - 2. Link : https://minerva.it.manchester.ac.uk/~saralees/statbook2.pdf
