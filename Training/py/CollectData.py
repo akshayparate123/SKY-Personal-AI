@@ -210,10 +210,10 @@ def start(link,store_data,pendingTopics,completedTopics,topicName):
     return store_data,pendingTopics,completedTopics
 
 completedTopics = []
-pendingTopics = ["science fiction"]
+pendingTopics = ["business"]
 
 store_data = {"Topic_Name":[],"URL":[],"All_Tags":[],"Text_Index":[],"Network":[]}
-counter = 73
+counter = 163
 
 for idx,pending in enumerate(pendingTopics):
     print(idx,")",pending)
