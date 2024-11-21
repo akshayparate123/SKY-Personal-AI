@@ -122,7 +122,7 @@ def clean_data(link):
     imp_tags.insert(0,BeautifulSoup(h1_tag, 'html5lib').find("h1"))
     return imp_tags,parent_node
 
-def adjust_pending_task(nxG,pendingTopics):
+def adjust_pending_task(nxG,pendingTopics,text_index):
     see_also = list(nxG.adj[0].keys())[1:]
     for i in see_also:
         if text_index[i] == 'See also':
@@ -179,7 +179,7 @@ def start(link,store_data,pendingTopics,completedTopics):
     logger.info("{}. Created Network Graph : {}".format(idx,nxG))
     completedTopics.append(pendingTopics[0])
     logger.info("{}. Total Completed Topics : {}".format(idx,len(completedTopics)))
-    pendingTopics = adjust_pending_task(nxG,pendingTopics)
+    pendingTopics = adjust_pending_task(nxG,pendingTopics,text_index)
     logger.info("{}. Updating Pending Topics : {}".format(idx,len(pendingTopics)))
     list_headings = []
     root_node = list(nxG.adj[parent_node])
