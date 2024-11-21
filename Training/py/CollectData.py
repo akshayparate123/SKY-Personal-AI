@@ -131,7 +131,7 @@ def adjust_pending_task(nxG,pendingTopics,text_index):
         else:
             pass
     return pendingTopics
-def generate_heading(hl,r):
+def generate_heading(hl,r,nxG):
     temp = []
     if len(hl) == 0:
         # print(r)
@@ -187,7 +187,7 @@ def start(link,store_data,pendingTopics,completedTopics):
     for r in root_node:
         # print(list(nxG.adj[r]))
         hl = list(nxG.adj[r])
-        list_headings.extend(generate_heading(hl[1:],str(r)))
+        list_headings.extend(generate_heading(hl[1:],str(r),nxG))
     logger.info("{}. Total List Headings : {}".format(idx,len(list_headings)))
     store_data["Topic_Name"].append(pendingTopics[0])
     store_data["URL"].append(link)
