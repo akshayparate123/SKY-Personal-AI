@@ -201,7 +201,7 @@ completedTopics = []
 pendingTopics = ["Mathematics"]
 
 store_data = {"Topic_Name":[],"URL":[],"All_Tags":[],"Text_Index":[],"Network":[]}
-counter = 7
+counter = 13
 
 for idx,pending in enumerate(pendingTopics):
     print(f'\rProgress: {idx}/{len(pendingTopics)} Topic : {pending}', end='', flush=True)
