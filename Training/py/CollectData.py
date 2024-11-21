@@ -7,6 +7,24 @@ warnings.filterwarnings("ignore")
 import requests
 from bs4 import BeautifulSoup
 from googlesearch import search
+import logging
+from datetime import datetime
+# Get the current date and time
+now = datetime.now()
+current_date_time = now.strftime("%Y_%m_%d")
+
+logging.basicConfig(
+    level=logging.INFO,  # Set the minimum level of messages to log
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',  # Format of log messages
+    datefmt='%Y-%m-%d %H:%M:%S',  # Date format
+    handlers=[
+        logging.FileHandler("../logs/{}_{}.log".format("CollectData",current_date_time)),  # Log messages to a file
+        logging.StreamHandler()  # Also print log messages to console
+    ]
+)
+logger = logging.getLogger(__name__)
+
+
 
 def get_google_search_links(query):
     return [link for link in search(query)]
@@ -150,37 +168,53 @@ def priority_based_structure(imp_tags,parent_node):
     return nxG,text_index
 
 
+def start(link,store_data):
+    logger.info("{}. Link : {}".format(idx,link))
+    imp_tags,parent_node = clean_data(link)
+    if len(imp_tags) == 0:
+        logger.info("{}. Skipping".format(idx))
+        return store_data
+    logger.info("{}. Fetched imp tags : {}".format(idx,len(imp_tags)))
+    nxG,text_index = priority_based_structure(imp_tags,parent_node)
+    logger.info("{}. Created Network Graph : {}".format(idx,nxG))
+    completedTopics.append(pendingTopics[0])
+    logger.info("{}. Total Completed Topics : {}".format(idx,len(completedTopics)))
+    pendingTopics = adjust_pending_task(nxG,pendingTopics)
+    logger.info("{}. Updating Pending Topics : {}".format(idx,len(pendingTopics)))
+    list_headings = []
+    root_node = list(nxG.adj[parent_node])
+    logger.info("{}. Root Node : {}".format(idx,root_node))
+    for r in root_node:
+        # print(list(nxG.adj[r]))
+        hl = list(nxG.adj[r])
+        list_headings.extend(generate_heading(hl[1:],str(r)))
+    logger.info("{}. Total List Headings : {}".format(idx,len(list_headings)))
+    store_data["Topic_Name"].append(pendingTopics[0])
+    store_data["URL"].append(link)
+    store_data["Text_Index"].append(text_index)
+    store_data["Network"].append(list_headings)
+    store_data["All_Tags"].append(imp_tags)
+    logger.info("{}. Data Stored".format(idx))
+    return store_data
+
 completedTopics = []
 pendingTopics = ["Mathematics"]
-
 
 store_data = {"Topic_Name":[],"URL":[],"All_Tags":[],"Text_Index":[],"Network":[]}
 counter = 7
 for idx,pending in enumerate(pendingTopics):
     print(f'\rProgress: {idx}/{len(pendingTopics)} Topic : {pending}', end='', flush=True)
     if idx % 10 == 0 and idx!=0:
+        logger.info("{}. Storing the data in tsv file".format(idx))
         counter = counter+1
         pd.DataFrame.from_dict(store_data).to_csv('../Data/GraphAgent/{}.tsv'.format(counter),sep='\t', index=False)
+        logger.info("{}. Emptying the dict".format(idx))
         store_data = {"Topic_Name":[],"URL":[],"All_Tags":[],"Text_Index":[],"Network":[]}
+        logger.info(store_data)
     if len(completedTopics) == 0:
+        logger.info("{}. First Loop".format(idx))
         startLink = "https://en.wikipedia.org/wiki/{}".format(pendingTopics[0].replace(" ","_"))
-        imp_tags,parent_node = clean_data(startLink)
-        if len(imp_tags) == 0:
-            continue
-        nxG,text_index = priority_based_structure(imp_tags,parent_node)
-        completedTopics.append(pendingTopics[0])
-        pendingTopics = adjust_pending_task(nxG,pendingTopics)
-        list_headings = []
-        root_node = list(nxG.adj[parent_node])
-        for idx,r in enumerate(root_node):
-            # print(list(nxG.adj[r]))
-            hl = list(nxG.adj[r])
-            list_headings.extend(generate_heading(hl[1:],str(r)))
-        store_data["Topic_Name"].append(pendingTopics[0])
-        store_data["URL"].append(startLink)
-        store_data["Text_Index"].append(text_index)
-        store_data["Network"].append(list_headings)
-        store_data["All_Tags"].append(imp_tags)
+        store_data = start(startLink,store_data)
     else:
         links = get_google_search_links(pending)
         wiki_link = "https://en.wikipedia.org/wiki/{}".format(pending.replace(" ","_"))
@@ -192,21 +226,7 @@ for idx,pending in enumerate(pendingTopics):
             # print(f'\rProgress: {idx}.{idx2}/{len(pendingTopics)} Topic : {pending}', end='', flush=True)
             if (".gov" not in link) and ("linkedin.com" not in link) and ("reddit.com" not in link):
                 try:
-                    imp_tags,parent_node = clean_data(link)
-                    nxG,text_index = priority_based_structure(imp_tags,parent_node)
-                    completedTopics.append(pending)
-                    pendingTopics = adjust_pending_task(nxG,pendingTopics)
-                    root_node = list(nxG.adj[parent_node])
-                    list_headings = []
-                    for idx,r in enumerate(root_node):
-                        # print(list(nxG.adj[r]))
-                        hl = list(nxG.adj[r])
-                        list_headings.extend(generate_heading(hl[1:],str(r)))
-                    store_data["Topic_Name"].append(pending)
-                    store_data["URL"].append(link)
-                    store_data["Text_Index"].append(text_index)
-                    store_data["Network"].append(list_headings)
-                    store_data["All_Tags"].append(imp_tags)
+                    store_data = start(link,store_data)
                 except Exception as e:
                     pass
             else:
