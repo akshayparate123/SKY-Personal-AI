@@ -140,7 +140,7 @@ def generate_heading(hl,r,nxG):
         for h in hl:
             # print(r)
             # print(list(nxG.adj[h]))
-            temp.append(generate_heading(list(nxG.adj[h])[1:],r+'->'+str(h)))
+            temp.append(generate_heading(list(nxG.adj[h])[1:],r+'->'+str(h),nxG))
         return temp
     
 
