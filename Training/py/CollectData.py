@@ -198,7 +198,7 @@ def start(link,store_data,pendingTopics,completedTopics):
     return store_data,pendingTopics,completedTopics
 
 completedTopics = []
-pendingTopics = ["Mathematics"]
+pendingTopics = ["probability theory"]
 
 store_data = {"Topic_Name":[],"URL":[],"All_Tags":[],"Text_Index":[],"Network":[]}
 counter = 13
