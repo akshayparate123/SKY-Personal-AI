@@ -19,7 +19,7 @@ logging.basicConfig(
     datefmt='%Y-%m-%d %H:%M:%S',  # Date format
     handlers=[
         logging.FileHandler("../logs/{}_{}.log".format("CollectData",current_date_time)),  # Log messages to a file
-        logging.StreamHandler()  # Also print log messages to console
+        # logging.StreamHandler()  # Also print log messages to console
     ]
 )
 logger = logging.getLogger(__name__)
