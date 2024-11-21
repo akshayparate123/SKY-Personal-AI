@@ -45,7 +45,8 @@ def find_nested_links(tag):
             try:
                 links.append(str(i).split(" ")[1].split("href=")[1]) #Storing the links
             except IndexError as index_error:
-                pass
+                logger.info(index_error)
+                return links
     return links
 
 def adjust_tags_based_on_priority(priority_tags,tag_name,record_tags,index_value):
@@ -106,21 +107,22 @@ def create_network_graph(indexing,sub_indexing,nxG,type,priority_tags,parent_nod
             nxG.add_edge(indexing, v)
     return nxG
 def clean_data(link):
-    r = requests.get(link)
-    soup = BeautifulSoup(r.content, 'html5lib')
-    h1_tag = str(soup.find('h1'))
     try:
-        parent_node = soup.find('title').text
-        if parent_node == '403 Forbidden':
+        r = requests.get(link,timeout=(3, 5))
+        logger.info("request : {}".format(r))
+        if r.status_code == 403:
             return [],""
+        soup = BeautifulSoup(r.content, 'html5lib')
+        h1_tag = str(soup.find('h1'))
+        parent_node = soup.find('title').text       
+        for tag in soup(['nav', 'header', 'footer', 'script', 'style', 'aside']):
+            tag.decompose()
+        imp_tags = soup.find_all(['h1', 'h2', 'h3', 'h4','h5','strong', 'p', 'li'])
+        imp_tags.insert(0,BeautifulSoup(h1_tag, 'html5lib').find("h1"))
+        return imp_tags,parent_node
     except Exception as e:
-        # print(link)
-        parent_node = soup.find('h1').text
-    for tag in soup(['nav', 'header', 'footer', 'script', 'style', 'aside']):
-        tag.decompose()
-    imp_tags = soup.find_all(['h1', 'h2', 'h3', 'h4','h5','strong', 'p', 'li'])
-    imp_tags.insert(0,BeautifulSoup(h1_tag, 'html5lib').find("h1"))
-    return imp_tags,parent_node
+        logger.info(e)
+        return [],""
 
 def adjust_pending_task(nxG,pendingTopics,text_index):
     see_also = list(nxG.adj[0].keys())[1:]
@@ -145,30 +147,37 @@ def generate_heading(hl,r,nxG):
     
 
 def priority_based_structure(imp_tags,parent_node):
-    priority_tags = {"h1":False,"h2":False,"h3":False,"h4":False,"h5":False,"strong":False,"p":False,"li":False,"a":False}
-    record_tags = {"h1":[],"h2":[],"h3":[],"h4":[],"h5":[],"strong":[],"li":[],"p":[],"a":[]}
-    text_index = {}
-    indexing = 0
-    links = []
-    nxG = nx.Graph()
-    nxG.add_node(parent_node)
-    for idx,tag in enumerate(imp_tags):
-        key_true = index_of_true(priority_tags)
-        if len(key_true) == 0 and tag.name in ["ul","li","ol"]: #If there is no heading, We will find the link and store them directly in a list for futher scraping
-            links.extend(find_nested_links(tag))
-        else:
-            text_index[indexing] = tag.text
-            nested_links = find_nested_links(tag)
-            links.extend(nested_links)
-            step_size = 0.001
-            sub_indexing = []
-            priority_tags,record_tags,type = adjust_tags_based_on_priority(priority_tags,tag.name,record_tags,indexing)
-            nxG = create_network_graph(indexing,sub_indexing,nxG,type,priority_tags,parent_node,record_tags)
-            indexing = indexing+1
-    return nxG,text_index
+    try:
+        priority_tags = {"h1":False,"h2":False,"h3":False,"h4":False,"h5":False,"strong":False,"p":False,"li":False,"a":False}
+        record_tags = {"h1":[],"h2":[],"h3":[],"h4":[],"h5":[],"strong":[],"li":[],"p":[],"a":[]}
+        text_index = {}
+        indexing = 0
+        links = []
+        nxG = nx.Graph()
+        nxG.add_node(parent_node)
+        for idx,tag in enumerate(imp_tags):
+            key_true = index_of_true(priority_tags)
+            if len(key_true) == 0 and tag.name in ["ul","li","ol"]: #If there is no heading, We will find the link and store them directly in a list for futher scraping
+                pass
+                # links.extend(find_nested_links(tag))
+            else:
+                text_index[indexing] = tag.text
+                # nested_links = find_nested_links(tag)
+                # links.extend(nested_links)
+                # step_size = 0.001
+                sub_indexing = []
+                priority_tags,record_tags,type = adjust_tags_based_on_priority(priority_tags,tag.name,record_tags,indexing)
+                nxG = create_network_graph(indexing,sub_indexing,nxG,type,priority_tags,parent_node,record_tags)
+                indexing = indexing+1
+        return nxG,text_index
+    except Exception as e:
+        logger.info(e)
+        nxG = nx.Graph()
+        text_index = {}
+        return nxG,text_index
 
 
-def start(link,store_data,pendingTopics,completedTopics):
+def start(link,store_data,pendingTopics,completedTopics,topicName):
     logger.info("{}. Link : {}".format(idx,link))
     imp_tags,parent_node = clean_data(link)
     if len(imp_tags) == 0:
@@ -176,8 +185,11 @@ def start(link,store_data,pendingTopics,completedTopics):
         return store_data,pendingTopics,completedTopics
     logger.info("{}. Fetched imp tags : {}".format(idx,len(imp_tags)))
     nxG,text_index = priority_based_structure(imp_tags,parent_node)
+    if len(list(text_index.keys())) == 0:
+        logger.info("{}. Skipping".format(idx))
+        return store_data,pendingTopics,completedTopics
     logger.info("{}. Created Network Graph : {}".format(idx,nxG))
-    completedTopics.append(pendingTopics[0])
+    completedTopics.append(topicName)
     logger.info("{}. Total Completed Topics : {}".format(idx,len(completedTopics)))
     pendingTopics = adjust_pending_task(nxG,pendingTopics,text_index)
     logger.info("{}. Updating Pending Topics : {}".format(idx,len(pendingTopics)))
@@ -189,7 +201,7 @@ def start(link,store_data,pendingTopics,completedTopics):
         hl = list(nxG.adj[r])
         list_headings.extend(generate_heading(hl[1:],str(r),nxG))
     logger.info("{}. Total List Headings : {}".format(idx,len(list_headings)))
-    store_data["Topic_Name"].append(pendingTopics[0])
+    store_data["Topic_Name"].append(topicName)
     store_data["URL"].append(link)
     store_data["Text_Index"].append(text_index)
     store_data["Network"].append(list_headings)
@@ -198,13 +210,14 @@ def start(link,store_data,pendingTopics,completedTopics):
     return store_data,pendingTopics,completedTopics
 
 completedTopics = []
-pendingTopics = ["probability theory"]
+pendingTopics = ["finance"]
 
 store_data = {"Topic_Name":[],"URL":[],"All_Tags":[],"Text_Index":[],"Network":[]}
-counter = 13
+counter = 16
 
 for idx,pending in enumerate(pendingTopics):
-    print(f'\rProgress: {idx}/{len(pendingTopics)} Topic : {pending}', end='', flush=True)
+    print(idx,")",pending)
+    # print(f'\rProgress: {idx}/{len(pendingTopics)} Topic : {pending}', end='', flush=True)
     if idx % 10 == 0 and idx!=0:
         logger.info("{}. Storing the data in tsv file".format(idx))
         counter = counter+1
@@ -215,7 +228,7 @@ for idx,pending in enumerate(pendingTopics):
     if len(completedTopics) == 0:
         logger.info("{}. First Loop".format(idx))
         startLink = "https://en.wikipedia.org/wiki/{}".format(pendingTopics[0].replace(" ","_"))
-        store_data,pendingTopics,completedTopics = start(startLink,store_data,pendingTopics,completedTopics)
+        store_data,pendingTopics,completedTopics = start(startLink,store_data,pendingTopics,completedTopics,pendingTopics[0])
     else:
         links = get_google_search_links(pending)
         wiki_link = "https://en.wikipedia.org/wiki/{}".format(pending.replace(" ","_"))
@@ -227,9 +240,10 @@ for idx,pending in enumerate(pendingTopics):
             # print(f'\rProgress: {idx}.{idx2}/{len(pendingTopics)} Topic : {pending}', end='', flush=True)
             if (".gov" not in link) and ("linkedin.com" not in link) and ("reddit.com" not in link):
                 try:
-                    store_data,pendingTopics,completedTopics = start(link,store_data,pendingTopics,completedTopics)
+                    store_data,pendingTopics,completedTopics = start(link,store_data,pendingTopics,completedTopics,pending)
                 except Exception as e:
-                    pass
+                    logger.info(e)
+                    break
             else:
                 pass
         # break
