@@ -168,12 +168,12 @@ def priority_based_structure(imp_tags,parent_node):
     return nxG,text_index
 
 
-def start(link,store_data):
+def start(link,store_data,pendingTopics,completedTopics):
     logger.info("{}. Link : {}".format(idx,link))
     imp_tags,parent_node = clean_data(link)
     if len(imp_tags) == 0:
         logger.info("{}. Skipping".format(idx))
-        return store_data
+        return store_data,pendingTopics,completedTopics
     logger.info("{}. Fetched imp tags : {}".format(idx,len(imp_tags)))
     nxG,text_index = priority_based_structure(imp_tags,parent_node)
     logger.info("{}. Created Network Graph : {}".format(idx,nxG))
@@ -195,13 +195,14 @@ def start(link,store_data):
     store_data["Network"].append(list_headings)
     store_data["All_Tags"].append(imp_tags)
     logger.info("{}. Data Stored".format(idx))
-    return store_data
+    return store_data,pendingTopics,completedTopics
 
 completedTopics = []
 pendingTopics = ["Mathematics"]
 
 store_data = {"Topic_Name":[],"URL":[],"All_Tags":[],"Text_Index":[],"Network":[]}
 counter = 7
+
 for idx,pending in enumerate(pendingTopics):
     print(f'\rProgress: {idx}/{len(pendingTopics)} Topic : {pending}', end='', flush=True)
     if idx % 10 == 0 and idx!=0:
@@ -214,7 +215,7 @@ for idx,pending in enumerate(pendingTopics):
     if len(completedTopics) == 0:
         logger.info("{}. First Loop".format(idx))
         startLink = "https://en.wikipedia.org/wiki/{}".format(pendingTopics[0].replace(" ","_"))
-        store_data = start(startLink,store_data)
+        store_data,pendingTopics,completedTopics = start(startLink,store_data,pendingTopics,completedTopics)
     else:
         links = get_google_search_links(pending)
         wiki_link = "https://en.wikipedia.org/wiki/{}".format(pending.replace(" ","_"))
@@ -226,7 +227,7 @@ for idx,pending in enumerate(pendingTopics):
             # print(f'\rProgress: {idx}.{idx2}/{len(pendingTopics)} Topic : {pending}', end='', flush=True)
             if (".gov" not in link) and ("linkedin.com" not in link) and ("reddit.com" not in link):
                 try:
-                    store_data = start(link,store_data)
+                    store_data,pendingTopics,completedTopics = start(link,store_data,pendingTopics,completedTopics)
                 except Exception as e:
                     pass
             else:
