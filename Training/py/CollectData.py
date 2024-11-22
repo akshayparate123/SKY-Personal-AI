@@ -27,7 +27,30 @@ logger = logging.getLogger(__name__)
 
 
 def get_google_search_links(query):
-    return [link for link in search(query)]
+    results = search(query)
+    return [link for link in results]
+def get_bing_search_links(query):
+    user_agents = [
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15",
+        "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0",
+    ]
+    url = 'https://www.bing.com/search?q={}'.format(query.replace(" ","+"))
+    headers = {'User-Agent': user_agents[0]}
+    r = requests.get(url,headers=headers)
+    soup = BeautifulSoup(r.content, 'html5lib')
+    results = soup.find("div",{'id':'b_content'})
+    h2 = results.find_all("h2")
+    li = []
+    for i in h2:
+        try:
+            filter = i.find("a")["href"]
+            if "https://" in filter:
+                li.append(filter)
+        except Exception as e:
+            pass
+    return li
+
 def index_of_true(priority_tags):
     key_true = []
     for tag in priority_tags.keys():
@@ -210,10 +233,10 @@ def start(link,store_data,pendingTopics,completedTopics,topicName):
     return store_data,pendingTopics,completedTopics
 
 completedTopics = []
-pendingTopics = ["football"]
+pendingTopics = ["stone age"]
 
 store_data = {"Topic_Name":[],"URL":[],"All_Tags":[],"Text_Index":[],"Network":[]}
-counter = 217
+counter = 295
 
 for idx,pending in enumerate(pendingTopics):
     print(idx,")",pending)
@@ -230,7 +253,12 @@ for idx,pending in enumerate(pendingTopics):
         startLink = "https://en.wikipedia.org/wiki/{}".format(pendingTopics[0].replace(" ","_"))
         store_data,pendingTopics,completedTopics = start(startLink,store_data,pendingTopics,completedTopics,pendingTopics[0])
     else:
-        links = get_google_search_links(pending)
+        try:
+            logger.info("Google Search")
+            links = get_google_search_links(pending)
+        except Exception as e:
+            logger.info("Bing search")
+            links = get_bing_search_links(pending)
         wiki_link = "https://en.wikipedia.org/wiki/{}".format(pending.replace(" ","_"))
         if wiki_link not in links:
             links.append(wiki_link)
