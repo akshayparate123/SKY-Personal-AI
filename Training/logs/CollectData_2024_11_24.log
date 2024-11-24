@@ -1,0 +1,48 @@
+2024-11-24 09:16:50 - __main__ - INFO - 0. First Loop
+2024-11-24 09:16:50 - __main__ - INFO - 0. Link : https://en.wikipedia.org/wiki/history_of_earth
+2024-11-24 09:16:50 - __main__ - INFO - request : <Response [200]>
+2024-11-24 09:16:51 - __main__ - INFO - 0. Fetched imp tags : 540
+2024-11-24 09:16:51 - __main__ - INFO - 0. Created Network Graph : Graph with 541 nodes and 540 edges
+2024-11-24 09:16:51 - __main__ - INFO - 0. Total Completed Topics : 1
+2024-11-24 09:16:51 - __main__ - INFO - 0. Updating Pending Topics : 16
+2024-11-24 09:16:51 - __main__ - INFO - 0. Root Node : [0]
+2024-11-24 09:16:51 - __main__ - INFO - 0. Total List Headings : 18
+2024-11-24 09:16:51 - __main__ - INFO - 0. Data Stored
+2024-11-24 09:16:51 - __main__ - INFO - Google Search
+2024-11-24 09:16:52 - __main__ - INFO - 1. Link : https://www.open.edu/openlearn/mod/resource/view.php?id=21027
+2024-11-24 09:16:54 - __main__ - INFO - request : <Response [200]>
+2024-11-24 09:16:55 - __main__ - INFO - 'NoneType' object has no attribute 'text'
+2024-11-24 09:16:55 - __main__ - INFO - 1. Skipping
+2024-11-24 09:16:55 - __main__ - INFO - 1. Link : https://www.space.com/13320-big-bang-universe-10-steps-explainer.html
+2024-11-24 09:16:55 - __main__ - INFO - request : <Response [200]>
+2024-11-24 09:16:56 - __main__ - INFO - 1. Fetched imp tags : 79
+2024-11-24 09:16:56 - __main__ - INFO - 1. Created Network Graph : Graph with 80 nodes and 79 edges
+2024-11-24 09:16:56 - __main__ - INFO - 1. Total Completed Topics : 2
+2024-11-24 09:16:56 - __main__ - INFO - 1. Updating Pending Topics : 16
+2024-11-24 09:16:56 - __main__ - INFO - 1. Root Node : [0]
+2024-11-24 09:16:56 - __main__ - INFO - 1. Total List Headings : 26
+2024-11-24 09:16:56 - __main__ - INFO - 1. Data Stored
+2024-11-24 09:16:56 - __main__ - INFO - 1. Link : https://www.sciencealert.com/timeline-shows-the-entire-history-of-the-universe-and-how-it-ends
+2024-11-24 09:16:56 - __main__ - INFO - request : <Response [200]>
+2024-11-24 09:16:56 - __main__ - INFO - 1. Fetched imp tags : 20
+2024-11-24 09:16:56 - __main__ - INFO - 1. Created Network Graph : Graph with 21 nodes and 20 edges
+2024-11-24 09:16:56 - __main__ - INFO - 1. Total Completed Topics : 3
+2024-11-24 09:16:56 - __main__ - INFO - 1. Updating Pending Topics : 16
+2024-11-24 09:16:56 - __main__ - INFO - 1. Root Node : [0, 1]
+2024-11-24 09:16:56 - __main__ - INFO - 1. Total List Headings : 19
+2024-11-24 09:16:56 - __main__ - INFO - 1. Data Stored
+2024-11-24 09:16:56 - __main__ - INFO - 1. Link : https://www.physicsoftheuniverse.com/topics_bigbang_timeline.html
+2024-11-24 09:16:56 - __main__ - INFO - request : <Response [200]>
+2024-11-24 09:16:56 - __main__ - INFO - 1. Fetched imp tags : 30
+2024-11-24 09:16:56 - __main__ - INFO - 1. Created Network Graph : Graph with 31 nodes and 30 edges
+2024-11-24 09:16:56 - __main__ - INFO - 1. Total Completed Topics : 4
+2024-11-24 09:16:56 - __main__ - INFO - 1. Updating Pending Topics : 16
+2024-11-24 09:16:56 - __main__ - INFO - 1. Root Node : [0, 1]
+2024-11-24 09:16:56 - __main__ - INFO - 1. Total List Headings : 14
+2024-11-24 09:16:56 - __main__ - INFO - 1. Data Stored
+2024-11-24 09:16:56 - __main__ - INFO - 1. Link : https://www.pbs.org/wgbh/nova/universe/historysans.html
+2024-11-24 09:16:56 - __main__ - INFO - request : <Response [200]>
+2024-11-24 09:16:56 - __main__ - INFO - 1. Fetched imp tags : 1
+2024-11-24 09:16:56 - __main__ - INFO - 'NoneType' object has no attribute 'name'
+2024-11-24 09:16:56 - __main__ - INFO - 1. Skipping
+2024-11-24 09:16:56 - __main__ - INFO - 1. Link : https://www.cfa.harvard.edu/research/topic/early-universe
