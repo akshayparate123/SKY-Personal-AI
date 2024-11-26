@@ -28,6 +28,9 @@ def call_action(recordedText):
     elif "read my screen" in recordedText:
         text = action.read_text_from_image(action.screenshot())
         return text,"ocr"
+    elif "jobs" in recordedText:
+        action.fetch_jobs("Data Science jobs")
+        return "I have store the fetched jobs in your desktop. Do you want me to tailor your resume and update the tracker?","jobs"
     else:
         context = action.fetch_from_internet(recordedText)
         return context,"rag"
@@ -89,6 +92,9 @@ if __name__ == '__main__':
                 final_query = "<summary>"+action_response
             elif action_ == "rag":
                 final_query = "<context>{}agent_1:{}".format(action_response["documents"][0][0],recordedText)
+            elif action_ == "jobs":
+                TTS.say(action_response)
+                continue
             elif action_ == "screenshot":
                 TTS.say(action_response)
                 continue

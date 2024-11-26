@@ -6,7 +6,6 @@ import pytesseract
 from PIL import Image
 from datetime import datetime
 from googlesearch import search
-
 import requests
 from bs4 import BeautifulSoup
 import time
@@ -15,8 +14,18 @@ import math
 import random
 import chromadb
 import re
+import pandas as pd
+import numpy as np
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.chrome.options import Options
+# Set Chrome options (optional)
+chrome_options = Options()
+# chrome_options.add_argument("--headless")  # Run browser in headless mode
 chroma_client = chromadb.PersistentClient(path="./")
 collection = chroma_client.get_or_create_collection(name="my_collection")
+
 def screenshot():
     with mss.mss() as sct:
         # Get screen dimensions
@@ -195,3 +204,28 @@ def fetch_from_internet(user_query):
     
     return results
 
+def get_jobs_url(jobsDiv):
+    for links in jobsDiv[1:]:
+        if links.getText() == "Jobs":
+            if len(links.find_all('a', href=True)) == 0:
+                pass
+            else:
+                split_str = (str(links.find_all("a")[0]).split(" "))
+                for st in split_str:
+                    if "href" in st:
+                        url = "https://www.google.com"+st.split('"')[1].replace("amp;","")
+                        return url
+                    else:
+                        pass
+    return ""
+
+def fetch_jobs(user_query):
+    # Initialize the Chrome WebDriver
+    driver = webdriver.Chrome(options=chrome_options)
+    #using selenium to launch and scroll through the Google Jobs page
+    url = "https://www.google.com/search?q=2025+graduate+data+scientist+jobs+new+york+in+the+last+1+week"
+    driver.get(url)
+    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+    time.sleep(3)
+    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+    
