@@ -1,0 +1,11 @@
+2024-11-28 10:21:04 - __main__ - INFO - 0. First Loop
+2024-11-28 10:21:04 - __main__ - INFO - 0. Link : https://en.wikipedia.org/wiki/food
+2024-11-28 10:21:05 - __main__ - INFO - request : <Response [200]>
+2024-11-28 10:21:05 - __main__ - INFO - 0. Fetched imp tags : 1565
+2024-11-28 10:21:05 - __main__ - INFO - 0. Created Network Graph : Graph with 1566 nodes and 1565 edges
+2024-11-28 10:21:05 - __main__ - INFO - 0. Total Completed Topics : 1
+2024-11-28 10:21:05 - __main__ - INFO - 0. Updating Pending Topics : 4
+2024-11-28 10:21:05 - __main__ - INFO - 0. Root Node : [0]
+2024-11-28 10:21:05 - __main__ - INFO - 0. Total List Headings : 12
+2024-11-28 10:21:05 - __main__ - INFO - 0. Data Stored
+2024-11-28 10:21:05 - __main__ - INFO - Google Search

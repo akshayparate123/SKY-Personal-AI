@@ -36,7 +36,7 @@ def get_bing_search_links(query):
         "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0",
     ]
     url = 'https://www.bing.com/search?q={}'.format(query.replace(" ","+"))
-    headers = {'User-Agent': user_agents[1]}
+    headers = {'User-Agent': user_agents[0]}
     r = requests.get(url,headers=headers)
     soup = BeautifulSoup(r.content, 'html5lib')
     results = soup.find("div",{'id':'b_content'})
@@ -233,10 +233,10 @@ def start(link,store_data,pendingTopics,completedTopics,topicName):
     return store_data,pendingTopics,completedTopics
 
 completedTopics = []
-pendingTopics = ["homeschooling"]
+pendingTopics = ["food"]
 
 store_data = {"Topic_Name":[],"URL":[],"All_Tags":[],"Text_Index":[],"Network":[]}
-counter = 1247
+counter = 1318
 
 for idx,pending in enumerate(pendingTopics):
     print(idx,")",pending)
