@@ -21,7 +21,7 @@ from rouge_score import rouge_scorer
 modelName = "RAGAgent"
 ip_max_len = 1024
 op_max_len = 100
-batch_size = 10
+batch_size = 15
 epochs = 2
 numberOfWorkers = 0
 load_checkpoint = False
@@ -58,16 +58,17 @@ print("Device name:", torch.cuda.get_device_name(torch.cuda.current_device()))
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 #####################Dataset Loading##############################
 
-dataset = pd.read_csv("../Data/CleanedDatasets/{}.tsv".format("RAGAgent"),sep='\t')
+training_dataset = pd.read_csv("../Data/CleanedDatasets/{}_{}.tsv".format("RAGAgent","train"),sep='\t')
+testing_dataset = pd.read_csv("../Data/CleanedDatasets/{}_{}.tsv".format("RAGAgent","test"),sep='\t')
+
 # dataset = dataset.sample(frac = 1)
 # dataset = load_dataset("Ateeqq/news-title-generator")
-X_train, X_test, y_train, y_test = train_test_split(dataset["network"],dataset["path"], test_size=0.2, random_state=42)
-X_test, X_valid, y_test, y_valid = train_test_split(X_test,y_test, test_size=0.5, random_state=42)
+X_test, X_valid, y_test, y_valid = train_test_split(testing_dataset["network"],testing_dataset["path"], test_size=0.5, random_state=42)
 
 train_df = pd.DataFrame()
 valid_df = pd.DataFrame()
-train_df["agent_1"] = X_train
-train_df["agent_2"] = y_train
+train_df["agent_1"] = training_dataset["network"]
+train_df["agent_2"] = training_dataset["path"]
 valid_df["agent_1"] = X_valid
 valid_df["agent_2"] = y_valid
 
@@ -128,8 +129,8 @@ class TextDataset(Dataset):
 def train_model(model, data_loader, loss_fn, optimizer, device, scheduler, n_examples,epoch):
     model.train()
     losses = []
-    try:
-        for idx,d in enumerate(data_loader):
+    for idx,d in enumerate(data_loader):
+        try:
             # print(f'\rTraining Progress: {idx}/{len(data_loader)}', end='', flush=True)
             input_ids = d["input_ids"].to(device)
             attention_mask = d["attention_mask"].to(device)
@@ -162,9 +163,8 @@ def train_model(model, data_loader, loss_fn, optimizer, device, scheduler, n_exa
             elif idx % 1 == 0 and idx != 0:
                 print(f'\rTraining Progress: {idx}/{len(data_loader)} Loss : {loss}', end='', flush=True)
             # print()
-    except Exception as e:
-        logger.error(e) 
-            
+        except Exception as e:
+            logger.error(e) 
     return np.mean(losses)
 
 #####################Validation Model##############################
@@ -172,9 +172,9 @@ def train_model(model, data_loader, loss_fn, optimizer, device, scheduler, n_exa
 def eval_model(model, data_loader, loss_fn, device, n_examples,epoch):
     model.eval()
     losses = []
-    with torch.no_grad():
-        try:
-            for idx,d in enumerate(data_loader):
+    with torch.no_grad(): 
+        for idx,d in enumerate(data_loader):
+            try:
                 input_ids = d["input_ids"].to(device)
                 attention_mask = d["attention_mask"].to(device)
                 labels = d["output_ids"].to(device)
@@ -195,8 +195,8 @@ def eval_model(model, data_loader, loss_fn, device, n_examples,epoch):
                     # print()
                 elif idx % 1 == 0:
                     print(f'\rValidation Progress: {idx}/{len(data_loader)}  Loss : {loss}', end='', flush=True)
-        except Exception as e:
-            logger.error(e)
+            except Exception as e:
+                logger.error(e)
     return np.mean(losses)
 
 
@@ -205,27 +205,30 @@ def test_model(model,tokenizer,X_test,y_test):
     rogue_score_1 = []
     rogue_score_L = []
     for counter in range(0, 1000, 10):
-        print(f'\rProgress: {counter}/{1000}', end='', flush=True)
-        batch = X_test.tolist()[counter:counter + batch_size]
-        tokenized_batch = tokenizer(
-            batch,
-            max_length=1024,
-            padding=True,
-            truncation=True,
-            return_tensors="pt"
-        ).to(device)  # Ensure tokenized inputs are on the same device as the model
-        outputs = model.generate(
-            input_ids=tokenized_batch["input_ids"],
-            attention_mask=tokenized_batch["attention_mask"],
-            max_length=100,
-            num_beams=1,
-            early_stopping=True
-        )
-        decoded_outputs = [tokenizer.decode(output, skip_special_tokens=True) for output in outputs]
-        for op in decoded_outputs:
-            r1,r2 = rouge_calculate(y_test.tolist()[counter],op)
-            rogue_score_1.append(r1)
-            rogue_score_L.append(r2)
+        try:
+            print(f'\rProgress: {counter}/{1000}', end='', flush=True)
+            batch = X_test.tolist()[counter:counter + batch_size]
+            tokenized_batch = tokenizer(
+                batch,
+                max_length=1024,
+                padding=True,
+                truncation=True,
+                return_tensors="pt"
+            ).to(device)  # Ensure tokenized inputs are on the same device as the model
+            outputs = model.generate(
+                input_ids=tokenized_batch["input_ids"],
+                attention_mask=tokenized_batch["attention_mask"],
+                max_length=100,
+                num_beams=1,
+                early_stopping=True
+            )
+            decoded_outputs = [tokenizer.decode(output, skip_special_tokens=True) for output in outputs]
+            for idx,op in enumerate(decoded_outputs):
+                r1,r2 = rouge_calculate(y_test.tolist()[idx],op)
+                rogue_score_1.append(r1)
+                rogue_score_L.append(r2)
+        except Exception as e:
+            logger.error(e)
     return np.mean(rogue_score_1),np.mean(rogue_score_L)
 #####################Create DataLoader################################
 
