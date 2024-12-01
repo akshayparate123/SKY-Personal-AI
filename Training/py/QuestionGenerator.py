@@ -246,7 +246,6 @@ train_dataset = TextDataset(
     tokenizer=tokenizer,
     ip_max_len = ip_max_len,
     op_max_len = op_max_len
-
 )
 
 val_dataset = TextDataset(
