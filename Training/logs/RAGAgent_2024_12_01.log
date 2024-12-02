@@ -35,3 +35,48 @@
 2024-12-01 23:48:43 - __main__ - INFO - Model Name: BART
 2024-12-01 23:48:43 - __main__ - INFO - Training Loss : []
 2024-12-01 23:48:43 - __main__ - INFO - Validation Loss : []
+2024-12-02 00:03:01 - __main__ - INFO - Batch Number : 1000, Training Loss : 0.7717489825187624
+2024-12-02 00:17:22 - __main__ - INFO - Batch Number : 2000, Training Loss : 0.6412068620279454
+2024-12-02 00:31:11 - __main__ - INFO - Batch Number : 3000, Training Loss : 0.5840634042245076
+2024-12-02 00:44:55 - __main__ - INFO - Batch Number : 4000, Training Loss : 0.5468710587639058
+2024-12-02 00:58:40 - __main__ - INFO - Batch Number : 5000, Training Loss : 0.5166535559379442
+2024-12-02 01:12:22 - __main__ - INFO - Batch Number : 6000, Training Loss : 0.4932488389207689
+2024-12-02 01:26:04 - __main__ - INFO - Batch Number : 7000, Training Loss : 0.4728816998831171
+2024-12-02 01:39:47 - __main__ - INFO - Batch Number : 8000, Training Loss : 0.457485073217078
+2024-12-02 01:53:30 - __main__ - INFO - Batch Number : 9000, Training Loss : 0.4439968489778464
+2024-12-02 02:07:12 - __main__ - INFO - Saving checkpoint
+2024-12-02 02:21:01 - __main__ - INFO - Batch Number : 11000, Training Loss : 0.42042698166501186
+2024-12-02 02:34:43 - __main__ - INFO - Batch Number : 12000, Training Loss : 0.4106996395469889
+2024-12-02 02:48:25 - __main__ - INFO - Batch Number : 13000, Training Loss : 0.40178656270521923
+2024-12-02 03:02:07 - __main__ - INFO - Batch Number : 14000, Training Loss : 0.39322404533759814
+2024-12-02 03:15:50 - __main__ - INFO - Batch Number : 15000, Training Loss : 0.384407379316748
+2024-12-02 03:29:32 - __main__ - INFO - Batch Number : 16000, Training Loss : 0.37758912399209116
+2024-12-02 03:43:13 - __main__ - INFO - Batch Number : 17000, Training Loss : 0.3713830519877569
+2024-12-02 03:56:55 - __main__ - INFO - Batch Number : 18000, Training Loss : 0.36496782669818545
+2024-12-02 04:10:38 - __main__ - INFO - Batch Number : 19000, Training Loss : 0.35864131916489833
+2024-12-02 04:24:19 - __main__ - INFO - Saving checkpoint
+2024-12-02 04:38:05 - __main__ - INFO - Batch Number : 21000, Training Loss : 0.3475961703281165
+2024-12-02 04:51:47 - __main__ - INFO - Batch Number : 22000, Training Loss : 0.34216176736608
+2024-12-02 05:05:29 - __main__ - INFO - Batch Number : 23000, Training Loss : 0.33730458580551886
+2024-12-02 05:19:11 - __main__ - INFO - Batch Number : 24000, Training Loss : 0.3329458475345115
+2024-12-02 05:32:53 - __main__ - INFO - Batch Number : 25000, Training Loss : 0.3285445439732853
+2024-12-02 05:46:35 - __main__ - INFO - Batch Number : 26000, Training Loss : 0.3245797998239538
+2024-12-02 06:00:17 - __main__ - INFO - Batch Number : 27000, Training Loss : 0.32073450772928735
+2024-12-02 06:13:59 - __main__ - INFO - Batch Number : 28000, Training Loss : 0.3169499582963484
+2024-12-02 06:27:41 - __main__ - INFO - Batch Number : 29000, Training Loss : 0.31356220589215605
+2024-12-02 06:41:23 - __main__ - INFO - Saving checkpoint
+2024-12-02 06:55:09 - __main__ - INFO - Batch Number : 31000, Training Loss : 0.30649075913463053
+2024-12-02 07:08:51 - __main__ - INFO - Batch Number : 32000, Training Loss : 0.3032338751143495
+2024-12-02 07:22:33 - __main__ - INFO - Batch Number : 33000, Training Loss : 0.3002578311672799
+2024-12-02 07:36:14 - __main__ - INFO - Batch Number : 34000, Training Loss : 0.2968080842117034
+2024-12-02 07:49:55 - __main__ - INFO - Batch Number : 35000, Training Loss : 0.29383782375617645
+2024-12-02 08:03:37 - __main__ - INFO - Batch Number : 36000, Training Loss : 0.2912930391832045
+2024-12-02 08:17:18 - __main__ - INFO - Batch Number : 37000, Training Loss : 0.2883314675265405
+2024-12-02 08:31:00 - __main__ - INFO - Batch Number : 38000, Training Loss : 0.28555008877345306
+2024-12-02 08:44:41 - __main__ - INFO - Batch Number : 39000, Training Loss : 0.28310194455559234
+2024-12-02 08:58:27 - __main__ - INFO - Saving checkpoint
+2024-12-02 09:12:42 - __main__ - INFO - Batch Number : 41000, Training Loss : 0.27825599043505794
+2024-12-02 09:26:50 - __main__ - INFO - Batch Number : 42000, Training Loss : 0.2755502667634606
+2024-12-02 09:40:58 - __main__ - INFO - Batch Number : 43000, Training Loss : 0.2732375259036101
+2024-12-02 09:54:56 - __main__ - INFO - Batch Number : 44000, Training Loss : 0.2707740844805352
+2024-12-02 10:08:39 - __main__ - INFO - Batch Number : 45000, Training Loss : 0.26859014548815113
