@@ -1,0 +1,37 @@
+2024-12-01 15:12:36 - __main__ - INFO - Model Name: BART
+2024-12-01 15:12:36 - __main__ - INFO - Training Loss : []
+2024-12-01 15:12:36 - __main__ - INFO - Validation Loss : []
+2024-12-01 15:26:30 - __main__ - INFO - Batch Number : 1000, Training Loss : 6.987812872652288
+2024-12-01 15:40:13 - __main__ - INFO - Batch Number : 2000, Training Loss : 6.907921144868182
+2024-12-01 15:53:57 - __main__ - INFO - Batch Number : 3000, Training Loss : 6.810809858915449
+2024-12-01 16:07:41 - __main__ - INFO - Batch Number : 4000, Training Loss : 6.721493704829684
+2024-12-01 16:21:26 - __main__ - INFO - Batch Number : 5000, Training Loss : 6.640806459207769
+2024-12-01 16:35:11 - __main__ - INFO - Batch Number : 6000, Training Loss : 6.562153895146409
+2024-12-01 16:48:55 - __main__ - INFO - Batch Number : 7000, Training Loss : 6.476503147446859
+2024-12-01 17:02:40 - __main__ - INFO - Batch Number : 8000, Training Loss : 6.390958133376758
+2024-12-01 17:16:24 - __main__ - INFO - Batch Number : 9000, Training Loss : 6.308118216488947
+2024-12-01 17:30:08 - __main__ - INFO - Saving checkpoint
+2024-12-01 17:43:57 - __main__ - INFO - Batch Number : 11000, Training Loss : 6.150274792461761
+2024-12-01 17:57:48 - __main__ - INFO - Batch Number : 12000, Training Loss : 6.073163784332012
+2024-12-01 18:11:39 - __main__ - INFO - Batch Number : 13000, Training Loss : 5.99825580439543
+2024-12-01 18:25:24 - __main__ - INFO - Batch Number : 14000, Training Loss : 5.925735312124276
+2024-12-01 18:39:13 - __main__ - INFO - Batch Number : 15000, Training Loss : 5.8566732712327925
+2024-12-01 18:53:26 - __main__ - INFO - Batch Number : 16000, Training Loss : 5.789566386238455
+2024-12-01 19:07:32 - __main__ - INFO - Batch Number : 17000, Training Loss : 5.724499769452305
+2024-12-01 19:21:33 - __main__ - INFO - Batch Number : 18000, Training Loss : 5.659102172396208
+2024-12-01 19:35:34 - __main__ - INFO - Batch Number : 19000, Training Loss : 5.601212361361954
+2024-12-01 19:49:33 - __main__ - INFO - Saving checkpoint
+2024-12-01 20:03:49 - __main__ - INFO - Batch Number : 21000, Training Loss : 5.487395843450957
+2024-12-01 20:18:00 - __main__ - INFO - Batch Number : 22000, Training Loss : 5.4342231086902
+2024-12-01 20:32:10 - __main__ - INFO - Batch Number : 23000, Training Loss : 5.382169644654634
+2024-12-01 20:46:23 - __main__ - INFO - Batch Number : 24000, Training Loss : 5.331541264381494
+2024-12-01 21:00:56 - __main__ - INFO - Batch Number : 25000, Training Loss : 5.2817400732801785
+2024-12-01 21:15:11 - __main__ - INFO - Batch Number : 26000, Training Loss : 5.233667760270178
+2024-12-01 21:28:54 - __main__ - INFO - Batch Number : 27000, Training Loss : 5.188211836672187
+2024-12-01 21:42:37 - __main__ - INFO - Batch Number : 28000, Training Loss : 5.144437333825767
+2024-12-01 21:58:09 - __main__ - INFO - Batch Number : 29000, Training Loss : 5.101375772037949
+2024-12-01 22:12:26 - __main__ - INFO - Saving checkpoint
+2024-12-01 22:26:47 - __main__ - INFO - Batch Number : 31000, Training Loss : 5.020498430950788
+2024-12-01 23:48:43 - __main__ - INFO - Model Name: BART
+2024-12-01 23:48:43 - __main__ - INFO - Training Loss : []
+2024-12-01 23:48:43 - __main__ - INFO - Validation Loss : []

@@ -61,8 +61,6 @@ device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 training_dataset = pd.read_csv("../Data/CleanedDatasets/{}_{}.tsv".format("RAGAgent","train"),sep='\t')
 testing_dataset = pd.read_csv("../Data/CleanedDatasets/{}_{}.tsv".format("RAGAgent","test"),sep='\t')
 
-# dataset = dataset.sample(frac = 1)
-# dataset = load_dataset("Ateeqq/news-title-generator")
 X_test, X_valid, y_test, y_valid = train_test_split(testing_dataset["network"],testing_dataset["path"], test_size=0.5, random_state=42)
 
 train_df = pd.DataFrame()

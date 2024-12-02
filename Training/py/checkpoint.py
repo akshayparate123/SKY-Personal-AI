@@ -4,10 +4,10 @@ from transformers import AdamW
 from datetime import datetime
 now = datetime.now()
 current_date_time = now.strftime("%Y_%m_%d")
-modelName = "QuestionGenerator"
-model_name = '../Saved_Models/{}/fine-tuned-bert-sentiment_{}'.format(modelName,"2024_11_17_2")
+modelName = "RAGAgent"
+model_name = '../Saved_Models/{}/fine-tuned-bert-sentiment_{}'.format(modelName,"2024_12_01_0")
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-checkpoint = torch.load('../Checkpoints/checkpoint_20000.pth')
+checkpoint = torch.load('../Checkpoints/checkpoint_30000.pth')
 tokenizer = BartTokenizer.from_pretrained(model_name)
 model = BartForConditionalGeneration.from_pretrained(model_name)
 model = model.to(device)
