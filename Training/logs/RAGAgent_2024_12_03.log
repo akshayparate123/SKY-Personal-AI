@@ -15,3 +15,27 @@
 2024-12-03 09:44:30 - __main__ - INFO - Model Name: ../Saved_Models/RAGAgent/fine-tuned-bert-sentiment_2024_12_03_0
 2024-12-03 09:44:30 - __main__ - INFO - Training Loss : []
 2024-12-03 09:44:30 - __main__ - INFO - Validation Loss : []
+2024-12-03 09:58:19 - __main__ - INFO - Batch Number : 1000, Training Loss : 0.33681577789438116
+2024-12-03 10:12:24 - __main__ - INFO - Batch Number : 2000, Training Loss : 0.30861864693794233
+2024-12-03 10:26:29 - __main__ - INFO - Batch Number : 3000, Training Loss : 0.29484142723931783
+2024-12-03 10:40:43 - __main__ - INFO - Batch Number : 4000, Training Loss : 0.28570281025566957
+2024-12-03 10:54:56 - __main__ - INFO - Batch Number : 5000, Training Loss : 0.28418786097537685
+2024-12-03 11:08:58 - __main__ - INFO - Batch Number : 6000, Training Loss : 0.2794420621727997
+2024-12-03 11:23:01 - __main__ - INFO - Batch Number : 7000, Training Loss : 0.2748471091070008
+2024-12-03 11:36:54 - __main__ - INFO - Batch Number : 8000, Training Loss : 0.27113690876600194
+2024-12-03 11:50:41 - __main__ - INFO - Batch Number : 9000, Training Loss : 0.26626245250227837
+2024-12-03 12:04:28 - __main__ - INFO - Saving checkpoint
+2024-12-03 12:18:37 - __main__ - INFO - Batch Number : 11000, Training Loss : 0.25910297505921226
+2024-12-03 12:32:40 - __main__ - INFO - Batch Number : 12000, Training Loss : 0.25647315358683004
+2024-12-03 12:46:33 - __main__ - INFO - Batch Number : 13000, Training Loss : 0.25398179550380323
+2024-12-03 13:00:27 - __main__ - INFO - Batch Number : 14000, Training Loss : 0.2511650725009005
+2024-12-03 13:14:18 - __main__ - INFO - Batch Number : 15000, Training Loss : 0.24844022104702257
+2024-12-03 13:28:05 - __main__ - INFO - Batch Number : 16000, Training Loss : 0.24638543718164282
+2024-12-03 13:41:50 - __main__ - INFO - Batch Number : 17000, Training Loss : 0.24369354574292992
+2024-12-03 13:55:36 - __main__ - INFO - Batch Number : 18000, Training Loss : 0.24136002648460997
+2024-12-03 14:09:21 - __main__ - INFO - Batch Number : 19000, Training Loss : 0.23958800879877765
+2024-12-03 14:23:08 - __main__ - INFO - Saving checkpoint
+2024-12-03 14:37:05 - __main__ - INFO - Batch Number : 21000, Training Loss : 0.23528532772737623
+2024-12-03 14:50:56 - __main__ - INFO - Batch Number : 22000, Training Loss : 0.2331860535177641
+2024-12-03 15:04:48 - __main__ - INFO - Batch Number : 23000, Training Loss : 0.23126226771197098
+2024-12-03 15:18:35 - __main__ - INFO - Batch Number : 24000, Training Loss : 0.229445562973413
