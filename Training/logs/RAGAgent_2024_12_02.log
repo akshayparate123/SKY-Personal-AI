@@ -1,0 +1,4 @@
+2024-12-02 23:27:53 - __main__ - INFO - Model Name: ../Saved_Models/RAGAgent/fine-tuned-bert-sentiment_2024_12_02_0
+2024-12-02 23:27:53 - __main__ - INFO - Training Loss : []
+2024-12-02 23:27:53 - __main__ - INFO - Validation Loss : []
+2024-12-02 23:41:49 - __main__ - INFO - Batch Number : 1000, Training Loss : 0.39995001214040027

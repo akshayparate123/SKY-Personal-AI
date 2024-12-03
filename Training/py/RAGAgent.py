@@ -22,10 +22,10 @@ modelName = "RAGAgent"
 ip_max_len = 1024
 op_max_len = 100
 batch_size = 15
-epochs = 2
+epochs = 1
 numberOfWorkers = 0
 load_checkpoint = False
-model_name = '../Saved_Models/{}/fine-tuned-bert-sentiment_{}'.format(modelName,"2024_11_18_0")
+model_name = '../Saved_Models/{}/fine-tuned-bert-sentiment_{}'.format(modelName,"2024_12_02_0")
 ################L###ogging################################
 # Configure the logging
 logging.basicConfig(
@@ -58,8 +58,8 @@ print("Device name:", torch.cuda.get_device_name(torch.cuda.current_device()))
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 #####################Dataset Loading##############################
 
-training_dataset = pd.read_csv("../Data/CleanedDatasets/{}_{}.tsv".format("RAGAgent","train"),sep='\t')
-testing_dataset = pd.read_csv("../Data/CleanedDatasets/{}_{}.tsv".format("RAGAgent","test"),sep='\t')
+training_dataset = pd.read_csv("../Data/CleanedDatasets/{}_{}.tsv".format("RAGAgent","train"),sep='\t')[:1000000]
+testing_dataset = pd.read_csv("../Data/CleanedDatasets/{}_{}.tsv".format("RAGAgent","test"),sep='\t')[:100000]
 
 X_test, X_valid, y_test, y_valid = train_test_split(testing_dataset["network"],testing_dataset["path"], test_size=0.5, random_state=42)
 
@@ -127,8 +127,8 @@ class TextDataset(Dataset):
 def train_model(model, data_loader, loss_fn, optimizer, device, scheduler, n_examples,epoch):
     model.train()
     losses = []
-    for idx,d in enumerate(data_loader):
-        try:
+    try:
+        for idx,d in enumerate(data_loader):
             # print(f'\rTraining Progress: {idx}/{len(data_loader)}', end='', flush=True)
             input_ids = d["input_ids"].to(device)
             attention_mask = d["attention_mask"].to(device)
@@ -161,8 +161,8 @@ def train_model(model, data_loader, loss_fn, optimizer, device, scheduler, n_exa
             elif idx % 1 == 0 and idx != 0:
                 print(f'\rTraining Progress: {idx}/{len(data_loader)} Loss : {loss}', end='', flush=True)
             # print()
-        except Exception as e:
-            logger.error(e) 
+    except Exception as e:
+        logger.error(e) 
     return np.mean(losses)
 
 #####################Validation Model##############################
@@ -171,8 +171,8 @@ def eval_model(model, data_loader, loss_fn, device, n_examples,epoch):
     model.eval()
     losses = []
     with torch.no_grad(): 
-        for idx,d in enumerate(data_loader):
-            try:
+        try:
+            for idx,d in enumerate(data_loader):
                 input_ids = d["input_ids"].to(device)
                 attention_mask = d["attention_mask"].to(device)
                 labels = d["output_ids"].to(device)
@@ -193,8 +193,8 @@ def eval_model(model, data_loader, loss_fn, device, n_examples,epoch):
                     # print()
                 elif idx % 1 == 0:
                     print(f'\rValidation Progress: {idx}/{len(data_loader)}  Loss : {loss}', end='', flush=True)
-            except Exception as e:
-                logger.error(e)
+        except Exception as e:
+            logger.error(e)
     return np.mean(losses)
 
 
@@ -310,7 +310,7 @@ def main():
         tokenizer.save_pretrained('../Saved_Models/{}/fine-tuned-bert-sentiment_{}_{}'.format(modelName,current_date_time,epoch))
         logger.info("Model Saved")
         logger.info("Calculating Rouge Score of the model...")
-        r1,r2 = test_model(model,tokenizer,X_test,y_test)
+        # r1,r2 = test_model(model,tokenizer,X_test,y_test)
         logger.info("Model Testing Complete\n1)rogue_score_1:{}\n2)rogue_score_L:{}".format(r1,r2))
 if __name__ == '__main__':
     main()
