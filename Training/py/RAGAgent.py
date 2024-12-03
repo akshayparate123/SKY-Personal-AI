@@ -25,7 +25,7 @@ batch_size = 15
 epochs = 1
 numberOfWorkers = 0
 load_checkpoint = False
-model_name = '../Saved_Models/{}/fine-tuned-bert-sentiment_{}'.format(modelName,"2024_12_02_0")
+model_name = '../Saved_Models/{}/fine-tuned-bert-sentiment_{}'.format(modelName,"2024_12_03_0")
 ################L###ogging################################
 # Configure the logging
 logging.basicConfig(
@@ -60,6 +60,11 @@ device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 training_dataset = pd.read_csv("../Data/CleanedDatasets/{}_{}.tsv".format("RAGAgent","train"),sep='\t')[:1000000]
 testing_dataset = pd.read_csv("../Data/CleanedDatasets/{}_{}.tsv".format("RAGAgent","test"),sep='\t')[:100000]
+
+training_dataset["path"] = [str(i) for i in training_dataset["path"].tolist()]
+training_dataset["network"] = [str(i) for i in training_dataset["network"].tolist()]
+training_dataset = training_dataset[training_dataset["path"] != "nan"]
+training_dataset = training_dataset[training_dataset["network"] != "nan"]
 
 X_test, X_valid, y_test, y_valid = train_test_split(testing_dataset["network"],testing_dataset["path"], test_size=0.5, random_state=42)
 
@@ -311,6 +316,6 @@ def main():
         logger.info("Model Saved")
         logger.info("Calculating Rouge Score of the model...")
         # r1,r2 = test_model(model,tokenizer,X_test,y_test)
-        logger.info("Model Testing Complete\n1)rogue_score_1:{}\n2)rogue_score_L:{}".format(r1,r2))
+        # logger.info("Model Testing Complete\n1)rogue_score_1:{}\n2)rogue_score_L:{}".format(r1,r2))
 if __name__ == '__main__':
     main()

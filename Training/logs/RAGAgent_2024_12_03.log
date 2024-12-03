@@ -1,0 +1,17 @@
+2024-12-03 00:31:32 - __main__ - INFO - Model Name: ../Saved_Models/RAGAgent/fine-tuned-bert-sentiment_2024_12_02_0
+2024-12-03 00:31:32 - __main__ - INFO - Training Loss : []
+2024-12-03 00:31:32 - __main__ - INFO - Validation Loss : []
+2024-12-03 00:45:49 - __main__ - INFO - Batch Number : 1000, Training Loss : 0.38417674605543917
+2024-12-03 00:59:39 - __main__ - INFO - Batch Number : 2000, Training Loss : 0.34944162301268655
+2024-12-03 01:13:45 - __main__ - INFO - Batch Number : 3000, Training Loss : 0.3315220368887654
+2024-12-03 01:15:22 - __main__ - ERROR - text input must be of type `str` (single example), `List[str]` (batch or single pretokenized example) or `List[List[str]]` (batch of pretokenized examples).
+2024-12-03 01:15:22 - __main__ - INFO - Train loss 0.329888707154123
+2024-12-03 01:20:18 - __main__ - INFO - Batch Number : 1000, Validation Loss : 0.5650752572627453
+2024-12-03 01:25:13 - __main__ - INFO - Batch Number : 2000, Validation Loss : 0.5637413026064053
+2024-12-03 01:30:08 - __main__ - INFO - Batch Number : 3000, Validation Loss : 0.5643498182336476
+2024-12-03 01:31:46 - __main__ - INFO - Validation loss 0.562482665341524
+2024-12-03 01:31:47 - __main__ - INFO - Model Saved
+2024-12-03 01:31:47 - __main__ - INFO - Calculating Rouge Score of the model...
+2024-12-03 09:44:30 - __main__ - INFO - Model Name: ../Saved_Models/RAGAgent/fine-tuned-bert-sentiment_2024_12_03_0
+2024-12-03 09:44:30 - __main__ - INFO - Training Loss : []
+2024-12-03 09:44:30 - __main__ - INFO - Validation Loss : []
