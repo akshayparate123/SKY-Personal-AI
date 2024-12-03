@@ -72,17 +72,17 @@ valid_df["agent_2"] = y_valid
 
 ####################Loading Pre Trained Model##############################
 
-model_name = "BART"
-tokenizer = BartTokenizer.from_pretrained('facebook/bart-large')
-model = BartForConditionalGeneration.from_pretrained('facebook/bart-large').to(device)
-model = model.to(device)
+# model_name = "BART"
+# tokenizer = BartTokenizer.from_pretrained('facebook/bart-large')
+# model = BartForConditionalGeneration.from_pretrained('facebook/bart-large').to(device)
+# model = model.to(device)
 
 # ####################Loading saved model ##############################
 
-# tokenizer = BartTokenizer.from_pretrained(model_name)
-# model = BartForConditionalGeneration.from_pretrained(model_name)
-# model = model.to(device)
-# # data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
+tokenizer = BartTokenizer.from_pretrained(model_name)
+model = BartForConditionalGeneration.from_pretrained(model_name)
+model = model.to(device)
+# data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
 
 # #####################Rouge Score Calculations##############################
 # Initialize the ROUGE scorer
