@@ -32,3 +32,5 @@ pip install html5lib
 pip install networkx
 pip install einops
 pip install pymupdf
+pip install selenium
+Download tesseract-ocr from https://github.com/UB-Mannheim/tesseract/wiki

@@ -9,13 +9,16 @@ def call_action(recordedText):
     print("Calling action")
     if "screenshot" in recordedText:
         img_path = action.screenshot()
-        return "You can find the screenshot at location : {}".format(img_path)
+        return "You can find the screenshot at location : {}".format(img_path),"screenshot"
     elif "read my screen" in recordedText:
         text = action.read_text_from_image(action.screenshot())
-        return text
+        return text,"ocr"
+    elif "jobs" in recordedText:
+        action.fetch_jobs("Data Science jobs")
+        return "I have store the fetched jobs in your desktop. Do you want me to tailor your resume and update the tracker?","jobs"
     else:
         context = action.fetch_from_internet(recordedText)
-        return context
+        return context,"rag"
     return False
 
 def calculate_response_similarity(previous_response,current_response):
@@ -66,12 +69,19 @@ if __name__ == '__main__':
         recordedText = input("Ask me anything : ")
         f = open("content.txt", "a")
         f.write("\n{} Recorded Text: {}".format(current_date_time,recordedText))
-        action_response = call_action(recordedText)
+        action_response,action_ = call_action(recordedText)
         if not action_response:
             continue
-        print(recordedText)
-        final_query = "<context>{}agent_1:{}".format(action_response["documents"][0][0],recordedText)
-        # response = generate_response("<summary>"+action_response, tokenizer, device, model)
+        if action_ == "ocr":
+            final_query = "<summary>"+action_response
+        elif action_ == "rag":
+            final_query = "<context>{}agent_1:{}".format(action_response["documents"][0][0],recordedText)
+        elif action_ == "jobs":
+            print(action_response)
+            continue
+        elif action_ == "screenshot":
+            print(action_response)
+            continue
         response = generate_response(final_query, tokenizer, device, model)
         print(response)
         try:
