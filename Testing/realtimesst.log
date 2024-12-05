@@ -2,3 +2,4 @@ RealTimeSTT: root - WARNING - Audio queue size exceeds latency limit. Current si
 RealTimeSTT: root - WARNING - Audio queue size exceeds latency limit. Current size: 571. Discarding old audio chunks.
 RealTimeSTT: root - WARNING - Audio queue size exceeds latency limit. Current size: 57. Discarding old audio chunks.
 RealTimeSTT: root - WARNING - Audio queue size exceeds latency limit. Current size: 163. Discarding old audio chunks.
+RealTimeSTT: backoff - INFO - Backing off send_request(...) for 0.6s (requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Max retries exceeded with url: /batch/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000296CF904F10>, 'Connection to us.i.posthog.com timed out. (connect timeout=15)')))
