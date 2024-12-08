@@ -16,6 +16,9 @@ def call_action(recordedText):
     elif "jobs" in recordedText:
         action.fetch_jobs("Data Science jobs")
         return "I have store the fetched jobs in your desktop. Do you want me to tailor your resume and update the tracker?","jobs"
+    elif "canvas" in recordedText:
+        messages = action.canvas(recordedText)
+        return messages,"canvas"
     else:
         context = action.fetch_from_internet(recordedText)
         return context,"rag"
@@ -81,6 +84,17 @@ if __name__ == '__main__':
             continue
         elif action_ == "screenshot":
             print(action_response)
+            continue
+        elif action_ == "canvas":
+            len_m = len(action_response["subject"])
+            if  len_m== 0:
+                print("There are no pending messages")
+            else:
+                print("There are total {} pending message for you".format(len_m))
+                for i in range(0,len_m):
+                    print("Message from {} on {}".format(action_response["sender_name"][i],action_response["last_message_at"][i]))
+                    print("with subject {}".format(action_response["subject"][i]))
+                    print("The message says : {}".format(action_response["message"][i]))
             continue
         response = generate_response(final_query, tokenizer, device, model)
         print(response)
