@@ -34,3 +34,6 @@ pip install einops
 pip install pymupdf
 pip install selenium
 Download tesseract-ocr from https://github.com/UB-Mannheim/tesseract/wiki
+pip install flask
+pip install flask-restful
+pip install spacy
