@@ -98,7 +98,10 @@ if __name__ == '__main__':
             if not action_response:
                 continue
             if action_ == "ocr":
-                final_query = "<context>{}agent_1:{}".format(action_response,"what "+"".join(recordedText.split("what")[1]))
+                if "what" in recordedText:
+                    final_query = "<context>{}agent_1:{}".format(action_response,"what "+"".join(recordedText.split("what")[1]))
+                else:
+                    continue
             elif action_ == "rag":
                 final_query = "<context>{}agent_1:{}".format(action_response["documents"][0][0],recordedText)
                 action.display_image("https://files.realpython.com/media/Screenshot_2023-09-03_at_2.52.02_PM.5681ade2fa81.png")
